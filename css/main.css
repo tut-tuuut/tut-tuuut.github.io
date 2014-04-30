@@ -39,10 +39,14 @@ a:hover   { color: hotpink; }
   line-height: 1.75em;
 }
 
-.posts span {
-  color: #aaa;
+.posts .date {
+  display: inline-block;
+  font-size: 0.8em;
+  font-style: italic;
+  padding-right: 1em;
+  text-align: right;
+  width: 8em;
 }
-
 /*****************************************************************************/
 /*
 /* Site
