@@ -5,11 +5,6 @@
 /*****************************************************************************/
 
 /* Global Reset */
-* {
-  margin: 0;
-  padding: 0;
-}
-
 html, body { height: 100%; }
 
 body {
@@ -70,10 +65,13 @@ header a {
 .title {
   display: inline-block;
   margin-bottom: 2em;
+  font-variant: small-caps;
+  letter-spacing: 2px;
 }
 
 .title a {
   color: #a00;
+  text-decoration: none;
 }
 
 .title a:hover {
