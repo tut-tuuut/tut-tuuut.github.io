@@ -8,7 +8,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background: url(../img/lined.png) 50% 0;
   font: 13.34px "PT Serif", Georgia, serif;
   font-size: small;
   text-align: center;
@@ -79,13 +79,23 @@ header a {
   color: #000;
 }
 
-header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+.header nav,
+.header nav ul,
+.header nav ul li {
+  display: inline;
 }
 
-header a.extra:hover {
+.header nav a {
   color: #000;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  display: inline-block;
+}
+.header nav a:hover {
+  border-bottom: 3px solid hotpink;
+}
+.header nav li + li a {
+  margin-left: 1em;
 }
 
 .meta {
