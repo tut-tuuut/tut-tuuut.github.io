@@ -161,6 +161,7 @@ footer .rss img {
  }
  article ul li:before {
   content: "— ";
+  margin-left: -1.2em;
  }
 header h1 {
   border-bottom: 4px double #ccc;
