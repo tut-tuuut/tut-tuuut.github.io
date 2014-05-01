@@ -162,6 +162,12 @@ footer .rss img {
  article ul li:before {
   content: "— ";
  }
+header h1 {
+  border-bottom: 4px double #ccc;
+  margin: 0 0 1em;
+  padding: .5em;
+  text-align: center;
+}
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
