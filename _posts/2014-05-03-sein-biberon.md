@@ -10,7 +10,7 @@ Quand j’étais enceinte, et même avant, je lisais pas mal de littérature sur
 
 Pendant les séances de préparation à la naissance, il y a eu une scène rigolote : la sage-femme nous a demandé (nous étions un groupe de trois) si nous allions utiliser le sein ou le biberon. Toutes, nous voulions allaiter au sein… S’en est ensuivi un « jeu de rôle » où nous devions donner successivement un argument « pour l’allaitement au sein » et un autre « pour l’allaitement au biberon ».
 
-Je me souviens avoir pensé que les arguments « pro-biberon » étaient pipeau. Je me souviens avoir jugé mes amies biberonnantes comme des mauvaises mères qui ne se souciaient pas de la santé de leur enfant. Et d’avoir pensé que si leur gamin pleurait de douleur à cause de ses coliques, ben c’était normal : ils n’avaient pas le lait adapté.
+Je me rappelle avoir pensé que les arguments « pro-biberon » étaient pipeau. Je me rappelle avoir jugé mes amies biberonnantes comme des mauvaises mères qui ne se souciaient pas de la santé de leur enfant. Et d’avoir pensé que si leur gamin pleurait de douleur à cause de ses coliques, ben c’était normal : ils n’avaient pas le lait adapté.
 
 Je caricature peut-être un peu, mais c’est quand même une description globale de mon état d’esprit de l’époque.
 
