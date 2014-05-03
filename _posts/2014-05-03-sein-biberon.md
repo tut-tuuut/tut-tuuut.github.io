@@ -6,15 +6,15 @@ tags: allaitement
 
 ## Je voulais allaiter, mais…
 
-Quand j’étais enceinte, et même avant, je lisais pas mal de littérature sur l’allaitement maternel et ses bienfaits. C’était une certitude : j’allaiterais, je ferais ce don de moi-même à ma fille, et elle aurait tous les anticorps pour bien commencer dans la vie.
+Quand j’étais enceinte, et même avant, je lisais pas mal de littérature sur l’allaitement maternel et ses bienfaits. C’était une certitude : j’allaiterais, je ferais ce don de moi-même à ma fille, et elle aurait tous les anticorps pour bien commencer dans la vie.
 
-Pendant les séances de préparation à la naissance, il y a eu une scène rigolote : la sage-femme nous a demandé (nous étions un groupe de trois) si nous allions utiliser le sein ou le biberon. Toutes, nous voulions allaiter au sein… S’en est ensuivi un « jeu de rôle » où nous devions donner successivement un argument « pour l’allaitement au sein » et un autre « pour l’allaitement au biberon ».
+Pendant les séances de préparation à la naissance, il y a eu une scène rigolote : la sage-femme nous a demandé (nous étions un groupe de trois) si nous allions utiliser le sein ou le biberon. Toutes, nous voulions allaiter au sein… S’en est ensuivi un « jeu de rôle » où nous devions donner successivement un argument « pour l’allaitement au sein » et un autre « pour l’allaitement au biberon ».
 
-Je me souviens avoir pensé que les arguments « pro-biberon » étaient pipeau. Je me souviens avoir jugé mes amies biberonnantes comme des mauvaises mères qui ne se souciaient pas de la santé de leur enfant. Et d’avoir pensé que si leur gamin pleurait de douleur à cause de ses coliques, ben c’était normal : ils n’avaient pas le lait adapté.
+Je me souviens avoir pensé que les arguments « pro-biberon » étaient pipeau. Je me souviens avoir jugé mes amies biberonnantes comme des mauvaises mères qui ne se souciaient pas de la santé de leur enfant. Et d’avoir pensé que si leur gamin pleurait de douleur à cause de ses coliques, ben c’était normal : ils n’avaient pas le lait adapté.
 
 Je caricature peut-être un peu, mais c’est quand même une description globale de mon état d’esprit de l’époque.
 
-Et là, bim : le parpaing de la réalité est entré en jeu.
+Et là, bim : le parpaing de la réalité est entré en jeu.
 
 Vingt-quatre heures après l’accouchement, j’étais épuisée. Ma fille pleurait et refusait de prendre le sein plus de quelques secondes. Elle avait faim. J’avais sommeil. J’ai demandé un biberon et j’ai savouré ma fille qui mangeait enfin à sa faim.
 
@@ -26,7 +26,7 @@ J’ai lutté quelque temps. J’ai loué un tire-lait pour que Mini puisse mang
 
 Le lait artificiel n’est pas aussi mauvais que ça. Certes, il ne contient pas « d’anticorps magiques », et il est plus difficile à digérer par un bébé (et plus hardcore pour les reins). Mais ça nourrit, ça contient les nutriments nécessaires. Dans un contexte où on a accès à de l’eau potable et où on peut se le permettre économiquement, pourquoi taper sur les mères qui veulent biberonner ?
 
-Ensuite, il y a un argument d’une force incomparable, bien que je l’aie considéré comme « pipeau » avant la naissance de Mini : quand on biberonne, on peut refiler le bébé à son père, mettre des boules quiès et dormir douze heures d’affilée. Je vous assure qu’en plein baby blues, quand on a le moral au fond des chaussettes et qu’on creuse encore,  douze heures de sommeil, ça compte.
+Ensuite, il y a un argument d’une force incomparable, bien que je l’aie considéré comme « pipeau » avant la naissance de Mini : quand on biberonne, on peut refiler le bébé à son père, mettre des boules quiès et dormir douze heures d’affilée. Je vous assure qu’en plein baby blues, quand on a le moral au fond des chaussettes et qu’on creuse encore,  douze heures de sommeil, ça compte.
 
 Un autre argument anti-biberon courant, c’est que les bébés au biberon manquent de contact humain. Celui-là, même ma personnalité pro-allaitement-naturel le trouve nase. Merci, mais je ne me résume pas à mes seins (tout volumineux qu’ils soient en période d’allaitement). Pour moi, le contact humain, c’est aussi porter bébé pour la bercer, la garder en écharpe pour une petite sieste, lui faire des bisous sur le ventre et sur la tête, attraper ses petites mains et lui parler. Tout ça, notez-le, je le fais, et encore mieux si je suis bien reposée (wink wink l’argument précédent).
 
@@ -47,7 +47,7 @@ Et faites-lui des câlins. Plein. C’est important, les câlins.
 
 ## Conclusion-girouette
 
-Je suis très contente, a posteriori, de mon allaitement au lait artificiel : Mini a bien grandi, elle est éveillée, elle est zen, elle nous aime très fort. Son père et moi, on est toujours amoureux et on a plus ou moins échappé au manque de sommeil. C’est probablement très lié au caractère vraiment calme de Mini, tout ne vient pas forcément de l’allaitement en lui-même.
+Je suis très contente, a posteriori, de mon allaitement au lait artificiel : Mini a bien grandi, elle est éveillée, elle est zen, elle nous aime très fort. Son père et moi, on est toujours amoureux et on a plus ou moins échappé au manque de sommeil. C’est probablement très lié au caractère vraiment calme de Mini, tout ne vient pas forcément de l’allaitement en lui-même.
 
 Et donc, pour mon prochain bébé… je réessaierai quand même l’allaitement maternel, en me préparant mieux que ça pour avoir toutes mes chances de réussir. Parce que je veux essayer, parce que je pense quand même que c’est mieux pour la santé du bébé et aussi parce que je veux avoir des gros seins (c’est une raison comme une autre, eh !).
 
