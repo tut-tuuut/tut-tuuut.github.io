@@ -24,7 +24,7 @@ J’ai lutté quelque temps. J’ai loué un tire-lait pour que Mini puisse mang
 
 ## Mais le biberon, ce n’est pas si mal.
 
-Le lait artificiel n’est pas aussi mauvais que ça. Certes, il ne contient pas « d’anticorps magiques », et il est plus difficile à digérer par un bébé (et plus hardcore pour les reins). Mais ça nourrit, ça contient les nutriments nécessaires. Dans un contexte où on a accès à de l’eau potable et où on peut se le permettre économiquement, pourquoi taper sur les mères qui veulent biberonner ?
+Le lait artificiel n’est pas aussi mauvais que ça. Certes, il ne contient pas « d’anticorps magiques », et il est plus difficile à digérer par un bébé (et plus hardcore pour les reins). Mais ça nourrit, ça contient les nutriments nécessaires. Dans un contexte où on a accès à de l’eau potable et où on peut se le permettre économiquement, pourquoi taper sur les mères qui veulent biberonner ?
 
 Ensuite, il y a un argument d’une force incomparable, bien que je l’aie considéré comme « pipeau » avant la naissance de Mini : quand on biberonne, on peut refiler le bébé à son père, mettre des boules quiès et dormir douze heures d’affilée. Je vous assure qu’en plein baby blues, quand on a le moral au fond des chaussettes et qu’on creuse encore,  douze heures de sommeil, ça compte.
 
@@ -34,7 +34,7 @@ Un autre argument anti-biberon courant, c’est que les bébés au biberon manqu
 
 Finalement, au-delà de mon expérience personnelle, ce que j’ai pu constater, c’est qu’il y a une pression dans les deux sens. Et c’est ça, le vrai problème.
 
-D’un côté, on a la moitié de la terre entière et les mentions sur les paquets de lait en poudre qui disent que l’allaitement maternel, c’est le bien absolu. On a certaines maternités où on fait culpabiliser les jeunes mères qui veulent biberonner… où on ne leur apprend pas à faire faire le petit rot si elles refusent de donner le sein, par exemple. C’est débile, non ?
+D’un côté, on a la moitié de la terre entière et les mentions sur les paquets de lait en poudre qui disent que l’allaitement maternel, c’est le bien absolu. On a certaines maternités où on fait culpabiliser les jeunes mères qui veulent biberonner… où on ne leur apprend pas à faire faire le petit rot si elles refusent de donner le sein, par exemple. C’est débile, non ?
 
 D’un autre côté, on a les gens bien intentionnés qui s’inquiètent de voir les bébés allaités qui « ne prennent pas assez de poids ». Et on insiste pour donner des biberons de complément de lait artificiel, ce qui a le pouvoir de faire pleurer les mamans, voire fiche en l’air tout l’allaitement. On donne aussi des conseils tout pourris copiés de l’allaitement artificiel, du genre « au moins 2 heures 30 entre deux tétées » ou « pas plus de 20 minutes de tétée ». QUEL EST LE PHOQUE, je vous demande.
 
@@ -49,6 +49,6 @@ Et faites-lui des câlins. Plein. C’est important, les câlins.
 
 Je suis très contente, a posteriori, de mon allaitement au lait artificiel : Mini a bien grandi, elle est éveillée, elle est zen, elle nous aime très fort. Son père et moi, on est toujours amoureux et on a plus ou moins échappé au manque de sommeil. C’est probablement très lié au caractère vraiment calme de Mini, tout ne vient pas forcément de l’allaitement en lui-même.
 
-Et donc, pour mon prochain bébé… je réessaierai quand même l’allaitement maternel, en me préparant mieux que ça pour avoir toutes mes chances de réussir. Parce que je veux essayer, parce que je pense quand même que c’est mieux pour la santé du bébé et aussi parce que je veux avoir des gros seins (c’est une raison comme une autre, eh !).
+Et donc, pour mon prochain bébé… je réessaierai quand même l’allaitement maternel, en me préparant mieux que ça pour avoir toutes mes chances de réussir. Parce que je veux essayer, parce que je pense quand même que c’est mieux pour la santé du bébé et aussi parce que je veux avoir des gros seins (c’est une vraie raison, si, si !).
 
 Et d’ici là, le seul conseil que je donnerai aux jeunes mamans dans la jungle des conseils de nutrition, c’est « ne te prends pas la tête ».
