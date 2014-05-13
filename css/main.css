@@ -179,3 +179,10 @@ header h1 {
 .post pre.terminal code {
   background-color: #333;
 }
+.footnotes {
+  font-size: .8em;
+  line-height: 1.2em;
+}
+.footnote {
+  text-decoration: none;
+}
