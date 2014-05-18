@@ -4,7 +4,7 @@ title:  "Le coût du retard — retour sur le Mix-IT 2014 (3)"
 tags: mix-it
 ---
 
-Allez, hop, on continue. Il y a plein de choses à raconter sur ce Mixit, et je m'attaque au plus gros morceau : [priorizing ideas using cost of delay][session-cost-of-delay]. Cette conf est celle qui m'a le plus intéressée, mais aussi celle que j'ai le moins bien comprise. Je vais essayer de démêler un peu et de produire un résumé en français.
+Allez, hop, on continue. Il y a plein de choses à raconter sur ce Mixit, et je m'attaque au plus gros morceau : [priorizing ideas using cost of delay][session-cost-of-delay]. Cette conf est celle qui m'a le plus intéressée, mais aussi celle que j'ai le moins bien comprise car elle n'entrait pas dans mon champ de compétences direct (ce qu'on appelle « la paperasse » dans ma boîte, par opposition à « la technique »). Je vais essayer de démêler un peu et de produire un résumé en français.
 
 Je vais repomper mes notes de la conf mais je vais combler les trous à l'aide du site _[farming black swans][ressource-cod]_.
 
@@ -12,7 +12,7 @@ Déjà, il faut que je trouve la traduction française du terme « cost of dela
 
 ## Qu'est-ce que le « coût du retard » ?
 
-Donc, qu'est-ce que le « coût du retard » ? C'est ce que ça coûte, concrètement, de retarder la sortie d'une fonctionnalité ou d'un site.
+Donc, qu'est-ce que le « coût du retard » ? C'est ce que ça coûte, concrètement, de retarder la sortie d'une fonctionnalité ou d'un site d'une semaine.
 
 Attention cependant, on ne parle pas forcément d'un coût direct. On peut aussi parler de manque à gagner. Retarder la sortie d'une fonctionnalité d'une semaine, par exemple, nous prive de la valeur qu'aurait produite cette fonctionnalité pendant une semaine.
 
@@ -36,14 +36,34 @@ Il y a plusieurs moyen d'évaluer une fonctionnalité en unités € :
 
 ## Les « profils » d'urgence
 
-Tous les retards n'ont pas le même genre de conséquences. Voyons trois situations possibles.
+Tous les retards n'ont pas le même genre de conséquences. Voyons trois situations possibles. Notons que **le premier cas est le plus courant**.
 
-Premier cas : on a une idée de fonctionnalité qui a juste pour but de réduire les coûts de fonctionnement (ou d'éviter des coûts débiles, comme des amendes). Si on prend N semaines de retard, on « paie » juste les coûts de fonctionnement pendant N semaines.
+### Premier cas : idées à long terme, maximum constant
 
-Second cas : on a un site de e-commerce, on veut être prêts pour le début des soldes donc on prépare un deuxième serveur pour tenir la charge. Si on est en retard et que le serveur tombe parce qu'il n'a pas de serveur de secours, on perd toutes les ventes du début des soldes. Premier coût de retard. Ensuite, le serveur tient la charge, mais les internautes sont partis faire leurs courses ailleurs et il en vient moins une fois la folie initiale passée.
+On a une idée de fonctionnalité qui a juste pour but de réduire les coûts de fonctionnement (ou d'éviter des coûts débiles, comme des amendes). Si on prend N semaines de retard, on « paie » juste les coûts de fonctionnement pendant N semaines.
 
-Troisième cas : on arrive sur un nouveau marché tout fou tout innovant (par exemple, les applications smartphone, le livre numérique…). Machin vend des MachinPhone, et ouvre son propre AppStore, qu'il appelle le MachinStore. Évidemment, les appareils Machin ne sont compatibles qu'avec les applications MachinStore. Ensuite, avec un peu de retard, arrive Bidule sur le même marché, qui vend un BidulePhone avec des applications BiduleStore. Eh bien Bidule ne va pas récupérer de sitôt les clients déjà captés par Machin. Le coût du retard est ici une perte de parts de marché à long terme pour Bidule.
+![Premier profil d'urgence](/img/2014/05/costdelay1.png)
 
+### Second cas : court terme, maximum affecté par le retard
+
+On a un site de e-commerce, on veut être prêts pour le début des soldes donc on prépare un deuxième serveur pour tenir la charge. Si on est en retard et que le serveur tombe parce qu'il n'a pas de serveur de secours, on perd toutes les ventes du début des soldes. Premier coût de retard. Ensuite, le serveur tient la charge, mais les internautes sont partis faire leurs courses ailleurs et il en vient moins une fois la folie initiale passée.
+
+![Deuxième profil d'urgence](/img/2014/05/costdelay2.png)
+
+
+### Troisième cas : long terme, maximum affecté par le retard
+
+On arrive sur un nouveau marché tout fou tout innovant (par exemple, les applications smartphone, le livre numérique…). Machin vend des MachinPhone, et ouvre son propre AppStore, qu'il appelle le MachinStore. Évidemment, les appareils Machin ne sont compatibles qu'avec les applications MachinStore. Ensuite, avec un peu de retard, arrive Bidule sur le même marché, qui vend un BidulePhone avec des applications BiduleStore. Eh bien Bidule ne va pas récupérer de sitôt les clients déjà captés par Machin. Le coût du retard est ici une perte de parts de marché à long terme pour Bidule.
+
+![Troisième profil d'urgence](/img/2014/05/costdelay3.png)
+
+## À quoi ça sert ?
+
+Il faut voir « le coût du retard » comme un outil pour vous aider à ordonner vos idées et vos projets par priorité. C'est un chiffre, donc c'est facile à comparer. En outre, c'est un chiffre qui n'est pas hyper difficile à calculer dans le cas d'urgence le plus simple.
+
+On peut aller encore plus loin en calculant [le coût du retard divisé par le temps de réalisation][cd3] (ou CD3). On considère ensuite que les fonctionnalités qui ont un CD3 plus élevé sont à réaliser en premier. De cette manière, on se concentre sur les idées qui sont plus rapides à réaliser et plus coûteuses à reporter.
+
+[cd3]: http://blackswanfarming.com/cost-of-delay-divided-by-duration/
 [light-blog]: http://www.mix-it.fr/lightning/543/blogger-chaque-jour-pour-etre-riche-et-celebre
 [slides-david]: http://blog.javabien.net/2014/04/29/
 [light-debutants]: http://www.mix-it.fr/lightning/560/5-apprentissages-pour-le-programmeur-debutant
@@ -64,3 +84,5 @@ Troisième cas : on arrive sur un nouveau marché tout fou tout innovant (par ex
 [frappadingue]: http://www.frappadingue.net/les-courses/rhone-xtrem/
 [magie]: https://www.youtube.com/watch?v=5igHSsydm1Q
 [ressource-cod]: http://blackswanfarming.com/cost-of-delay/
+
+*[CD3]: Cost of Delay Divided by Duration
