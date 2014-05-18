@@ -2,3 +2,4 @@ name: Tûtie’s blog
 markdown: kramdown
 pygments: true
 url: http://tut-tuuut.github.io
+permalink: /:year/:month/:day/:title.html

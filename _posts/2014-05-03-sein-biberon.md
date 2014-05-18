@@ -2,6 +2,7 @@
 layout: post
 title:  "La guéguerre du sein et du biberon"
 tags: allaitement
+categories: maman
 ---
 
 ## Je voulais allaiter, mais…

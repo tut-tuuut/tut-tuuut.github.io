@@ -2,6 +2,7 @@
 layout: post
 title:  "Le coût du retard — retour sur le Mix-IT 2014 (3)"
 tags: mix-it
+categories: tech conferences
 ---
 
 Allez, hop, on continue. Il y a plein de choses à raconter sur ce Mixit, et je m'attaque au plus gros morceau : [priorizing ideas using cost of delay][session-cost-of-delay]. Cette conf est celle qui m'a le plus intéressée, mais aussi celle que j'ai le moins bien comprise car elle n'entrait pas dans mon champ de compétences direct (ce qu'on appelle « la paperasse » dans ma boîte, par opposition à « la technique »). Je vais essayer de démêler un peu et de produire un résumé en français.
