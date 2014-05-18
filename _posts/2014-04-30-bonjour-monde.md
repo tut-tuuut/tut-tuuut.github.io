@@ -2,6 +2,7 @@
 layout: post
 title:  "Bonjour, le monde !"
 tags: jekyll hello git
+categories: tech conferences
 ---
 
 Suite à la présentation [« Blogger chaque jour pour être riche et célèbre »][pres-david] de [David Gageot][dgageot]  au Mix-IT 2014, je me décide : je crée un nouveau blog pour causer technique… Mais pas seulement. Je ressens de plus en plus le besoin de parler de mon expérience de jeune mère active et de mes réflexions de citoyenne.
