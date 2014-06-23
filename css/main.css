@@ -53,10 +53,10 @@ a:hover   { color: #f06; }
 }
 .header {
   font-family: 'Delius', cursive;
-  margin-bottom: 4em;
+  margin-bottom: 2em;
+  height: 2em;
 }
 header a {
-  font-weight: bold;
   text-decoration: none;
 }
 
@@ -85,8 +85,8 @@ header a {
   display: inline-block;
 }
 .header nav a:hover {
-  border-bottom: 3px solid #936;
-  color: #936;
+  border-bottom: 3px solid #f06;
+  color: #f06;
 }
 .header nav li + li a {
   margin-left: 1em;
