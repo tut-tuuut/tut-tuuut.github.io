@@ -183,3 +183,20 @@ header h1 {
 .footnote {
   text-decoration: none;
 }
+.prevnext {
+  display: flex;
+  padding: .5em 0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.prevnext .before,
+.prevnext .after {
+  padding: .5em;
+  flex: 1 0;
+}
+.prevnext .after {
+  text-align: right;
+}
+.before + .after {
+  border-left: 1px solid #ccc;
+}

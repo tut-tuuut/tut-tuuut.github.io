@@ -10,6 +10,14 @@ layout: default
     <div class="post">
     {{ content }}
     </div>
+    <nav class="prevnext">
+        {% if page.previous != nil %}
+        <div class="before">Avant : <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></div>
+        {% endif %}
+        {% if page.next != nil %}
+        <div class="after">Après : <a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
+        {% endif %}
+    </nav>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         var disqus_shortname = 'tut-tuuut';
