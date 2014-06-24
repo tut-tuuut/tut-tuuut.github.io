@@ -11,7 +11,7 @@ Je ne vais pas tout détailler, mais en gros, quand j'ai accouché, il y a des c
 
 Quand je dis que je les ai très mal vécus, c'est vrai : je rumine ces détails le soir dans mon lit, pendant les trajets, en donnant le bib à Mini… Ça commence à aller mieux, mais je ne m'en suis pas encore remise. Physiquement, oui. Dans ma tête, non.
 
-Comme elle en avait peut-être un peu marre que je lui tienne la jambe 15 minutes à la fin de chaque consult', la sage-femme m'a encouragée à un exercice difficile : écrire ce qui s'est bien passé lors de cet accouchement.
+Comme elle en avait peut-être un peu marre que je lui tienne la jambe 15 minutes à ce propos à la fin de chaque consult', la sage-femme m'a encouragée à un exercice difficile : écrire ce qui s'est bien passé lors de cet accouchement.
 
 J'ai fait l'exercice, et je l'ai réussi ! J'ai écrit deux petits paragraphes ! Un pour l'accouchement, un pour les suites de couches.
 
