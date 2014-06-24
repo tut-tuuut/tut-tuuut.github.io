@@ -21,7 +21,7 @@ On en parlait avec un collègue il y a quelques semaines : c'est facile de se pl
 
 Bizarre que j'y arrive si bien au boulot et que j'aie autant de mal à transposer ça à mes souvenirs.
 
-Ce que je vais essayer, pour me débarasser encore mieux de ces pensées qui tournent, c'est un texte de CNV ([communication non violente][http://fr.wikipedia.org/wiki/Communication_non-violente_%28Rosenberg%29#Les_quatre_.C3.A9tapes_de_la_CNV]). Un texte de CNV, d'après wikipedia, s'articule en quatre phases :
+Ce que je vais essayer, pour me débarasser encore mieux de ces pensées qui tournent, c'est un texte de CNV ([communication non violente][cnvwiki]). Un texte de CNV, d'après wikipedia, s'articule en quatre phases :
 
 1. Obserer la situation en termes d'observation partageable, sans évaluer.
 2. Dire son sentiment en disant « je ».
@@ -31,3 +31,5 @@ Ce que je vais essayer, pour me débarasser encore mieux de ces pensées qui tou
 J'ai déjà essayé une fois, et c'est vraiment un exercice difficile. Séparer les faits de ce qu'on en pense, séparer les besoins des demandes… C'est très formateur. Ça demande de se calmer, d'être honnête avec soi-même, de prendre du recul.
 
 Je me demande si écrire des textes en suivant ce genre de plan m'aurait aidée pendant les périodes difficiles de mes anciens boulots, quand le stress m'empêchait de dormir la nuit… Aurais-je démissionné plus tard, car j'aurais été tranquillisée ? Ou plus tôt car j'aurais analysé plus froidement la situation ?
+
+[cnvwiki]: http://fr.wikipedia.org/wiki/Communication_non-violente_%28Rosenberg%29#Les_quatre_.C3.A9tapes_de_la_CNV
