@@ -44,4 +44,39 @@ L'intérêt d'utiliser un outil pour gérer les migrations, c'est :
 - de pouvoir annuler un développement en jouant les migrations inverses au besoin ;
 - et de pouvoir suivre tout ça à l'aide d'un simple gestionnaire de version (SVN ou git).
 
+## Les migrations Doctrine
+
+Dans ma boîte, on a mis en place des migrations Doctrine sur la plupart de nos projets… Y compris et surtout sur ceux qui ne reposent pas sur un framework PHP.
+
+Je vais détailler comment ajouter Doctrine à un projet et comment générer puis jouer une migration.
+
+### Mise en place avec composer
+
+Nous utilisons Composer, le gestionnaire de dépendances PHP, sur tous nos projets PHP. Vous pouvez [le télécharger][https://getcomposer.org/download/] et découvrir ce qu'il vous permet de faire.
+
+Dans le fichier composer.json on demande les migrations doctrine :
+
+{% highlight json %}
+{
+    "minimum-stability": "dev",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {
+        "doctrine/migrations": "dev-master"
+    }
+}
+{% endhighlight %}
+
+Ensuite, on installe le bazar en lançant la commande <code>php composer.phar install</code>. On dispose à présent du binaire <code>doctrine</code> dans le dossier <code>bin</bin>.
+
+
+### Utilisation en « standalone »
+
+Si vous n'avez pas envie de vous embêter avec composer, j'ai trouvé un article qui [explique simplement comment mettre en place Doctrine sans][for-a-doctrine-less-app].
+
+Le principe est de [télécharger doctrine.phar][doctrine.phar]
+
+[for-a-doctrine-less-app]: http://devblog.collegedegrees.com/2010/11/02/doctrine-migrations-for-a-doctrine-less-app.html
+[doctrine.phar]: http://github.com/downloads/ericclemmons/migrations/doctrine-migrations.phar
 
