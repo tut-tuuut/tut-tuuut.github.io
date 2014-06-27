@@ -1,5 +1,9 @@
+---
+layout: post
+title: "Marketing « ciblé »"
+categories: minitel
+tags: chaud oups
+---	
 
-Marketing « ciblé »
-2 réponses	
+![Chaud](/img/2011/110628.png)
 
-Cette entrée a été publiée dans Neurone Minitel, et marquée avec chaud, oups, le 28 juin 2011 . 
