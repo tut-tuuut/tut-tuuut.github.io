@@ -5,6 +5,14 @@ tags: git
 categories: tech
 ---
 
+## tl; dr;
+
+* On ne peut pas avoir une branche nommée `truc/machin` et une autre nommée `truc` sur le même dépôt. Si tu n'arrives pas à créer/pusher `truc/machin`, tu as peut-être déjà une branche nommée `truc`.
+* Git appelle ça des « dossiers » quand on utilise des branches avec des préfixes suivis d'un slash comme `dev/feature-cool` et `dev/feature-mieux`, et c'est cool parce que certains clients les affichent joliment.
+* Parfois, Stackoverflow, ça fait aussi peur que Doctissimo.
+
+## Version longue
+
 Ce matin j'ai voulu tranquillement lancer un petit `git push` pour envoyer ma grosse branche de feature sur le dépôt git partagé par tous les dév de la boîte. Il s'agissait d'un dépôt github mais le problème n'est pas spécifique à github.
 
 J'ai eu un message d'erreur inquiétant : le dépôt distant refusait que je « push » ma branche, intitulée « dev/tralala », en me donnant un message sybillin. Ça ressemblait à ça :
