@@ -8,12 +8,12 @@ categories: tech
 ## tl; dr;
 
 * On ne peut pas avoir une branche nommée `truc/machin` et une autre nommée `truc` sur le même dépôt. Si tu n'arrives pas à créer/pusher `truc/machin`, tu as peut-être déjà une branche nommée `truc`.
-* Git appelle ça des « dossiers » quand on utilise des branches avec des préfixes suivis d'un slash comme `dev/feature-cool` et `dev/feature-mieux`, et c'est cool parce que certains clients les affichent joliment.
+* Git appelle ça des « dossiers » quand on utilise des branches avec des préfixes suivis d'un slash comme `dev/feature-cool` et `dev/feature-mieux`, et c'est sympathique parce que certains clients les affichent joliment.
 * Parfois, Stackoverflow, ça fait aussi peur que Doctissimo.
 
 ## Version longue
 
-Ce matin j'ai voulu tranquillement lancer un petit `git push` pour envoyer ma grosse branche de feature sur le dépôt git partagé par tous les dév de la boîte. Il s'agissait d'un dépôt github mais le problème n'est pas spécifique à github.
+Ce matin j'ai voulu tranquillement lancer un petit `git push` pour envoyer ma grosse branche[^non] de feature sur le dépôt git partagé par tous les dév de la boîte. Il s'agissait d'un dépôt github mais le problème n'est pas spécifique à github.
 
 J'ai eu un message d'erreur inquiétant : le dépôt distant refusait que je « push » ma branche, intitulée « dev/tralala », en me donnant un message sybillin. Ça ressemblait à ça :
 
@@ -44,9 +44,9 @@ Comment se fait-ce ? Kessé « failed to lock » ? Comment je push moi ? J'ai 
 
 ## Essayons d'abord de pusher
 
-J'ai cherché sur google « failed to lock git ».
+J'ai cherché sur google « failed to lock git » et j'ai atterri sur StackOverflow.
 
-Un peu comme si j'avais tapé « rhume doctissimo », j'ai trouvé des réponses toutes plus inquiétantes les unes que les autres, où les uns conseillaient aux autres de supprimer le remote et de le réimporter à partir d'une copie locale, par exemple… Mais je me voyais mal aller voir mon DT pour lui demander si par hasard il pouvait supprimer ce petit dépôt sur lequel on bosse depuis deux ans, avec ses 55 branches[^branches] et 1600 commits.
+Un peu comme si j'avais tapé « rhume doctissimo », j'ai trouvé des réponses très inquiétantes, où les uns conseillaient aux autres de supprimer le remote et de le réimporter à partir d'une copie locale, par exemple… Mais je me voyais mal aller voir mon DT pour lui demander si par hasard il pouvait supprimer ce petit dépôt sur lequel on bosse depuis deux ans, avec ses 55 branches[^branches] et 1600 commits.
 
 Ouais, non, vraiment, ça ne me tentait pas.
 
@@ -65,7 +65,7 @@ Ensuite, j'ai pu pusher tranquillement[^dev]. Ouf !
 
 ## Essayons ensuite de comprendre
 
-La présence d'un slash dans le nom de la branche a simplement un effet plus important qu'un simple préfixe  : on aurait pu choisir `dev-` au lieu de `dev/` et on aurait sûrement eu moins de problèmes.
+La présence d'un slash dans le nom de la branche a visiblement un effet plus important qu'un simple préfixe  : on aurait pu choisir `dev-` au lieu de `dev/` et on aurait sûrement eu moins de problèmes.
 
 J'ai donc creusé un peu pour voir, et j'ai découvert qu'une fois qu'on a une branche nommée `truc` sur un dépôt, on ne peut pas créer une branche nommée `truc/bidule` sur le même dépôt. Pas besoin de remote pour avoir le problème.
 
@@ -92,9 +92,7 @@ Ainsi, quand on crée une branche « truc/machin », git crée automatiquement
 
 Et quand c'est un dossier, on ne peut pas le remplacer par une branche sans supprimer d'abord le « contenu » du dossier. À l'inverse, quand ce n'est pas un dossier, on ne peut pas le transformer en dossier sans supprimer d'abord la référence « branche » qui a ce nom-là.[^tag]
 
-
-
-Et en prime, comme par hasard, je découvre que le client lourd SourceTree affiche effectivement les « préfixes en slash » comme des dossiers. Un exemple avec les branches des sources de ce blog, que je sépare entre les bidouilles et les brouillons de notes :
+Et en prime, comme par hasard, je découvre que le client SourceTree affiche effectivement les « préfixes en slash » comme des dossiers. Un exemple avec les branches des sources de ce blog, que je sépare entre les bidouilles techniques et les brouillons de notes :
 
 <pre>~/code/tut-tuuut.github.io:post/erreur-git-chelou ✗ ➭ git branch
   dev/change-css
@@ -118,6 +116,7 @@ Des branches rangées ! Youpi ! \o/
 Ce qui commençait comme une embrouille effrayante avec git s'est donc terminé par la découverte d'une fonctionnalité sympa ! Je suis contente.[^yep]
 
 
+[^non]: Malgré les apparences, ce n'est pas une phrase graveleuse.
 [^branches]: Ce sont des branches « de feature » comme on dit : on oublie souvent de les supprimer une fois qu'elles sont fusionnées. Le nombre de branches fusionnées et non supprimées augmente beaucoup moins vite depuis que Github permet de supprimer la branche après la fusion d'une _pull request_, cela dit.
 [^oups]: Et j'avais dû pusher de la merde pour découvrir ça.
 [^dev]: On suppose que la branche « dev » distante était un reliquat d'une époque aujourd'hui révolue où on utilisait un workflow de développement façon GitFlow, avec une branche « dev » et une branche master dans laquelle la branche « dev » est périodiquement fusionnée. Aujourd'hui on est plus proches d'un workflow à la GitHub, où on crée une branche par fonctionnalité, puis on la fait relire via une _pull request_, puis on fusionne dans master et on passe en prod immédiatement. Quant à la présence de cette branche sur le dépôt distant, c'est probablement un push accidentel tapé un peu vite qui a envoyé la branche sur le dépôt central.
