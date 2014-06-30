@@ -2,16 +2,24 @@
 layout: post
 title:  "Versionner une base de données avec les migrations Doctrine"
 tags: mix-it
-categories: conferences tech
+categories: tech
 ---
 
-Il y a une situation, somme toute assez fréquente, plusieurs développeurs travaillent sur le même projet, mais chacun dans leur propre environnement de développement et chacun leur propre base de données.
+J'ai très envie de parler de biberons, mais je vais encore causer un peu technique.
 
-On a aussi un cas de "multi-base" quand on a une instance de développement distincte de l'instance de production (ce qui est le cas souvent, je l'espère…).
+Plus exactement, je vais vous parler de la situation --- fréquente --- où plusieurs développeurs travaillent sur le même projet, mais chacun dans leur propre environnement de développement et leur propre base de données.
 
 Comment gérer le cas où un dév, dans le cadre de son travail, doit modifier la structure de la base ? Il peut s'agir d'ajouter un champ, d'ajouter un index, de renommer une table… Dans tous les cas, il faut que la modification de structure soit propagée dans les autres instances sinon ça pète.
 
-Un moyen assez courant, au moins en PHP et en Ruby, consiste à utiliser des "migrations" pour suivre ces modifications de base, les versionner et les propager dans les autres instances en même temps que le code.
+Il arrive aussi que les instances de développement soient distinctes de l'instance de production (et ça arrive souvent, je l'espère…). Le même problème se pose ici : si dans le cadre du développement, on doit ajouter un champ, comment fait-on ?
+
+La réponse n°1 est : « on le fait à la main dans PhpMyAdmin ».
+
+Et c'est mal.
+
+Parce que quand on fait quelque chose à la main, on le fera bien  une fois, peut-être deux ou trois… Mais il y aura forcément un jour où ça se passera mal. On oubliera de faire une des cinq manips nécessaires sur un des trois serveurs, et on perdra des données pendant deux, trois mois, le temps qu'on remarque un bug bizarre et qu'on ne puisse plus rien faire d'autre que constater l'étendue des dégâts.
+
+Un moyen assez courant d'automatiser les modifications de base, au moins en PHP et en Ruby, consiste à utiliser des « migrations », les versionner et les propager dans les autres instances en même temps que le code.
 
 ## Principe d'une migration
 
@@ -29,20 +37,15 @@ Le principe des migrations (Doctrine ou autre), c'est de _versionner_ ces petits
 
 C'est tout.
 
-Il y a des outils qui le font bien (Doctrine, active record, Magento), et des outils qui rendent fou (certains outils maison, les mails, Magento). (Oui Magento le fait bien — parfois — mais rend fou quand même.)
+On peut faire ça à la main, mais c'est plus sûr d'utiliser un outil qui fait le travail pénible à votre place (les conventions de nommage des fichiers de migrations, le suivi de la version dans la base elle-même, etc.).
 
-Généralement, quand on écrit une migration, c'est bien de prendre soin d'écrire aussi la migration inverse, dans le cas où on veut annuler un développement. On n'est pas obligé de la jouer, mais c'est bien de prévoir. Par exemple, la migration inverse de celle ci-dessus :
+Il y a plusieurs raisons d'utiliser un outil pour gérer ses migrations, même « petites ».
 
-{% highlight sql %}
-ALTER TABLE `tax` DROP COLUMN `rate`;
-{% endhighlight %}
+* D'une part, on peut dupliquer la base de données sur un nombre infini de postes de développement ou de production sans pour autant devoir faire des manipulations à la main sur chacun des postes.  
+* D'autre part, on peut gérer des migrations complexes : par exemple si on ajoute une table de jonction entre deux anciennes tables, on peut jouer un script qui la remplit juste après le changement de structure.  
+* Sinon, si on a bien fait les choses, on peut jouer les migrations inverses dans le cas où on veut annuler un développement. Cela suppose d'avoir écrit les migrations inverses, cela dit…
+* Et surtout, surtout, utiliser des migrations permet de versionner (dans git, dans SVN…) les modifications de base **au même endroit que le code.** Ainsi, lorsqu'une nouvelle personne récupère le projet, elle n'a pas besoin de demander à machin et à bidule de remonter leur historique d'e-mails pour voir ce qu'elle doit modifier dans la base pour que le code fonctionne… (Ne rigolez pas, je l'ai vu.)
 
-L'intérêt d'utiliser un outil pour gérer les migrations, c'est :
-
-- de pouvoir dupliquer une base de développement sur un nombre infini de postes de dev sans finir à l'asile ;
-- de gérer des migrations complexes (où on peut migrer des données en plus de migrer juste la structure) ;
-- de pouvoir annuler un développement en jouant les migrations inverses au besoin ;
-- et de pouvoir suivre tout ça à l'aide d'un simple gestionnaire de version (SVN ou git).
 
 ## Les migrations Doctrine
 
@@ -52,9 +55,7 @@ Je vais détailler comment ajouter Doctrine à un projet et comment générer pu
 
 ### Mise en place avec composer
 
-Nous utilisons Composer, le gestionnaire de dépendances PHP, sur tous nos projets PHP. Vous pouvez [le télécharger][https://getcomposer.org/download/] et découvrir ce qu'il vous permet de faire.
-
-Dans le fichier composer.json on demande les migrations doctrine :
+Si comme nous, vous utilisez déjà Composer sur vos projets PHP, il suffit de modifier le fichier composer.json pour avoir les migrations Doctrine :
 
 {% highlight json %}
 {
@@ -75,7 +76,64 @@ Ensuite, on installe le bazar en lançant la commande <code>php composer.phar in
 
 Si vous n'avez pas envie de vous embêter avec composer, j'ai trouvé un article qui [explique simplement comment mettre en place Doctrine sans][for-a-doctrine-less-app].
 
-Le principe est de [télécharger doctrine.phar][doctrine.phar]
+Le principe est de [télécharger un fichier doctrine-migrations.phar][doctrine.phar], puis de créer un fichier texte `doctrine-migrations` qui utilise ce fichier `.phar`.
+
+Une fois qu'on a mis ça en place, on peut exécuter « doctrine-migrations » et il vous dit ce que vous pouvez faire.
+
+
+D'après l'article, la structure de fichiers à prévoir est la suivante :
+
+<pre>.
+├── bin
+│   ├── doctrine-migrations
+│   ├── doctrine-migrations.phar
+│   ├── migrations-db.php
+│   └── migrations.yml
+└── db
+    └── migrations</pre>
+
+Et il faudra se placer dans le dossier `bin` pour utiliser le fichier `doctrine-migrations`. Chuis pas très convaincue, je pense que ça peut s'arranger mais on verra une autre fois.
+
+Niveau gestionnaire de versions, il faudrait commiter tous ces fichiers à l'exception de migrations-db.php qui contient la config de connexion à la base de données.
+
+### Générer une migration
+
+Bien, en avant.
+
+Pour créer une migration, il faut taper la commande suivante :
+
+<pre>./doctrine-migrations migrations:generate</pre>
+
+Mon ordi me dit alors la chose suivante :
+
+<pre>Generated new migration class to "/Users/agnes/Code/test-migrations-doctrine/db/migrations/Version20140628194412.php"</pre>
+
+À quoi ressemble ce fichier ?
+
+{% highlight php %}
+<?php
+
+namespace MyAppsMigrations;
+
+use Doctrine\DBAL\Migrations\AbstractMigration,
+    Doctrine\DBAL\Schema\Schema;
+
+class Version20140628194412 extends AbstractMigration
+{
+    public function up(Schema $schema)
+    {
+
+    }
+
+    public function down(Schema $schema)
+    {
+
+    }
+}
+
+{% endhighlight %}
+
+C'est dans les fonctions up() et down() que l'on pourra écrire les modifications qui nous intéressent.
 
 [for-a-doctrine-less-app]: http://devblog.collegedegrees.com/2010/11/02/doctrine-migrations-for-a-doctrine-less-app.html
 [doctrine.phar]: http://github.com/downloads/ericclemmons/migrations/doctrine-migrations.phar
