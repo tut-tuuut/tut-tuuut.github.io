@@ -112,6 +112,12 @@ button {
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-50554319-1', 'tut-tuuut.github.io');
   ga('send', 'pageview');
+
+  function dealwithit(e) {
+    console.log(e);
+  }
+
+  document.getElementById('change').addEventListener('click', dealwithit, false);
 </script>
     </body>
 </html>
