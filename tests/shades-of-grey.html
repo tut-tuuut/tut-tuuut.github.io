@@ -114,7 +114,14 @@ button {
   ga('send', 'pageview');
 
   function dealwithit(e) {
-    console.log(e);
+    var elt = e.target;
+    console.log(elt);
+    if (elt.tagName !== "BUTTON") {
+      return;
+    }
+    var cur = document.getElementById('current');
+    cur.className = elt.className;
+    cur.innerHTML = 'Couleur: #' + elt.value;
   }
 
   document.getElementById('change').addEventListener('click', dealwithit, false);
