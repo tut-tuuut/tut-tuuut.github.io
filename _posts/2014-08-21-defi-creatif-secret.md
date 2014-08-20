@@ -51,3 +51,5 @@ Je me suis fait plein de reproches pour avoir accepté ce que j'ai fini par appe
 Mais en vrai, j'ai adoré me replonger dans le dessin. J'ai aussi adoré voir mon ami ouvrir son cadeau et demander tout de suite à jouer une partie pour essayer.
 
 Et dessiner, une par une, plusieurs centaines de feuilles pour remplir deux arbres et un morceau de forêt, c'est un exercice de concentration redoutablement efficace. Mon pote a constaté la même chose en dessinant ses cinquante créneaux en perspective cavalière vue du haut.
+
+[nunsrun]: http://boardgamegeek.com/boardgame/65515/nuns-run
