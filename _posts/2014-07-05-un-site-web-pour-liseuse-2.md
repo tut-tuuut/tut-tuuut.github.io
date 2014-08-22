@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Intégrer un site web pour liseuse"
+title: "Un site web pour liseuse - l'intégration"
 tags: ereader eink
 categories: tech web
 ---
 
-Je vous avais laissés sur votre faim voilà presque une semaine, avec une explication du fonctionnement de l'encre électronique. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blances ou noires que vous voyez.
+Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> un peu plus d'un mois, avec une explication du fonctionnement de l'encre électronique. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blances ou noires que vous voyez.
 
 Ce principe physique de fonctionnement impose des limites, notamment en termes de performances. En effet, le changement de couleur que vous voyez sur l'écran est déterminé par un mouvement de petites billes solides. De fait, la performance de l'écran est directement dépendante de la vitesse des billes.
 
@@ -15,7 +15,7 @@ En outre, je vous avais expliqué que les liseuses, pour éviter la rémanence d
 
 Concrètement, ça se manifeste par des sortes de « flash » de l'écran. Pour changer de couleur, un pixel passe d'abord au noir, puis au blanc, et finalement prend sa couleur finale (une nuance de gris).
 
-Quand vous lisez un livre sur liseuse, vous pouvez configurer le lecteur pour que l'écran ne se rafraîchisse pas à chaque fois que vous changez de page. Par exemple, ma liseuse est configurée pour rafraîchir toutes les dix pages au lieu de trois ou quatre par défaut. Je trouve ça hyper pénible cet écran qui devient tout noir puis tout blanc… Mais les images fantômes gênent pas mal la lecture aussi. À chacun de trouver son compromis.
+Quand vous lisez un epub[^pdf] sur liseuse, vous pouvez configurer le lecteur pour que l'écran ne se rafraîchisse pas à chaque fois que vous changez de page. Par exemple, ma liseuse est configurée pour rafraîchir toutes les dix pages au lieu de trois ou quatre par défaut. Je trouve ça hyper pénible cet écran qui devient tout noir puis tout blanc… Mais les images fantômes gênent pas mal la lecture aussi. À chacun de trouver son compromis.
 
 Quand on est dans le navigateur intégré de la liseuse, en revanche, il n'y a pas de notion de « je tourne la page » : parfois il faut faire défiler le contenu, parfois le contenu défile tout seul, parfois il est animé… Le pilote de ma liseuse gère ça en rafraîchissant les pixels par-ci par là (donc je vois des traînées noires autour des logos animés Google, par exemple), et en rafraîchissant tout l'écran une fois de temps en temps (et là, ça fait écran blanc puis écran noir avant d'afficher le nouveau contenu).
 
@@ -35,8 +35,12 @@ Par exemple, ça, c'est un désastre : ![Un loader que la liseuse n'aime pas](/i
 
 J'ai mis un peu de temps à comprendre pourquoi la liseuse n'affiche pas bien ce genre de GIF. J'ai créé des GIF moches et un [test javascript][test] pour isoler le problème.
 
-J'ai donc compris que pour *arriver* sur du blanc ou du noir, la liseuse n'avait pas de problème. En revanche, pour arriver sur n'importe quelle nuance de gris intermédiaire, la liseuse rafraîchit les pixels en passant par le noir et le blanc pleins.
+J'ai donc compris que pour *arriver* sur du blanc ou du noir, la liseuse n'avait pas de problème. En revanche, pour arriver sur n'importe quelle nuance de gris intermédiaire, la liseuse rafraîchit les pixels en passant par le noir et le blanc pleins[^urgh]. Je vous laisse imaginer le joli gloubi-boulga de noir, gris et blanc clignotant généré par la liseuse à qui on a donné l'innocent petit ![loader pourri](/img/2014/07/loader.gif) de tout à l'heure.
 
 
 [test]: /tests/shades-of-grey.html
 [tuto-rendering]: http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
+
+[^pdf]: Un epub ou un mobi (format amazon). Ces formats sont constitués grosso modo de fichiers HTML zippés, et c'est ceux-ci que les liseuses savent lire. Les fichiers PDF n'ont rien à voir avec ça et sont une plaie à lire sur liseuse.
+[^urgh]: En fait, parfois, la machine arrive à gérer l'arrivée sur les nuances de gris intermédiaires sans passer par un noir ou un blanc plein… Mais plutôt quand le changement de nuance provient d'un gif animé qui change de trame, pas quand ça vient d'un événement javascript. Mais ce n'est pas valable pour toutes les nuances de gris. Ni pour tous les gifs animés. C'est la fête.
