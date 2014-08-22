@@ -5,7 +5,7 @@ tags: ereader eink
 categories: tech web
 ---
 
-Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> un peu plus d'un mois, avec une explication du fonctionnement de l'encre électronique. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blances ou noires que vous voyez.
+Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> (ahem) un peu plus d'un mois, avec une explication du fonctionnement de l'encre électronique. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blanches ou noires que vous voyez.
 
 Ce principe physique de fonctionnement impose des limites, notamment en termes de performances. En effet, le changement de couleur que vous voyez sur l'écran est déterminé par un mouvement de petites billes solides. De fait, la performance de l'écran est directement dépendante de la vitesse des billes.
 
@@ -37,6 +37,23 @@ J'ai mis un peu de temps à comprendre pourquoi la liseuse n'affiche pas bien ce
 
 J'ai donc compris que pour *arriver* sur du blanc ou du noir, la liseuse n'avait pas de problème. En revanche, pour arriver sur n'importe quelle nuance de gris intermédiaire, la liseuse rafraîchit les pixels en passant par le noir et le blanc pleins[^urgh]. Je vous laisse imaginer le joli gloubi-boulga de noir, gris et blanc clignotant généré par la liseuse à qui on a donné l'innocent petit ![loader pourri](/img/2014/07/loader.gif) de tout à l'heure.
 
+Bref. Alors je me suis dit que puisque les nuances de gris c'était compliqué, j'allais faire un gif noir et blanc et la liseuse serait contente :
+
+![Un loader en noir et blanc](/img/2014/07/loader-ereader-moving.gif)
+
+(Ce gif a été fabriqué avec Gimp en 10 minutes, et pourtant j'en avais des préjugés quand je m'y suis mise…)
+
+Ce gif est grosso modo constitué d'un carré de 30 &times; 30 pixels qui bouge de 30 pixels toutes les 500 ms. Au début ça me semblait chouette, mais ça demande beaucoup de travail en continu pour l'écran (qui utilise de l'électricité uniquement pour _changer_ la couleur) : il doit agir en même temps pour passer 900 pixels noirs vers le blanc et 900 pixels blancs vers le noir, soit 1800 pixels à gérer simultanément. Et en pratique, la liseuse avait un peu de mal à faire tout ça en même temps alors au bout d'un moment elle s'est satisfaite d'un carré qui clignotait sur les deux positions du milieu.
+
+Moi j'étais moins satisfaite.
+
+Du coup j'ai fait un gif comme ça :
+
+![Un autre loader en noir et blanc](/img/2014/07/loader-ereader-filling.gif)
+
+Là, la liseuse y arrive mieux : elle n'a que 900 pixels à modifier du blanc vers le noir pendant 4 étapes, puis 900 &times; 4 pixels à modifier d'un coup à la fin. J'ai trouvé le ressenti bien meilleur avec cette solution, même si c'est une fausse barre de progression qui est en réalité un _loader_… bouh, tricheuse que je suis !
+
+Voilà. Si j'ai d'autres anecdotes d'intégration pour liseuse et de prise de tête sur des détails débiles, je vous les livrerai avec plaisir… en essayant de ne pas trop me plaindre. ;)
 
 [test]: /tests/shades-of-grey.html
 [tuto-rendering]: http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
