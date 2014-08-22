@@ -5,7 +5,7 @@ tags: ereader eink
 categories: tech web
 ---
 
-Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> (ahem) un peu plus d'un mois, avec une explication du fonctionnement de l'encre électronique. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blanches ou noires que vous voyez.
+Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> (ahem) presque deux mois, avec [une explication du fonctionnement de l'encre électronique][before]. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blanches ou noires que vous voyez.
 
 Ce principe physique de fonctionnement impose des limites, notamment en termes de performances. En effet, le changement de couleur que vous voyez sur l'écran est déterminé par un mouvement de petites billes solides. De fait, la performance de l'écran est directement dépendante de la vitesse des billes.
 
@@ -55,6 +55,7 @@ Là, la liseuse y arrive mieux : elle n'a que 900 pixels à modifier du blanc ve
 
 Voilà. Si j'ai d'autres anecdotes d'intégration pour liseuse et de prise de tête sur des détails débiles, je vous les livrerai avec plaisir… en essayant de ne pas trop me plaindre. ;)
 
+[before]: /2014/06/30/un-site-web-pour-liseuse.html
 [test]: /tests/shades-of-grey.html
 [tuto-rendering]: http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
