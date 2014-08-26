@@ -9,7 +9,7 @@ Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> (ahe
 
 Ce principe physique de fonctionnement impose des limites, notamment en termes de performances. En effet, le changement de couleur que vous voyez sur l'écran est déterminé par un mouvement de petites billes solides. De fait, la performance de l'écran est directement dépendante de la vitesse des billes.
 
-Et, scoop : une bille solide dans un liquide, ça va beaucoup moins vite qu'un photon ou un électron. Donc un écran à encre életronique, ça va beaucoup moins vite qu'un écran classique d'ordi ou de smartphone. Genre plusieurs milliers de fois moins vite.
+Et, scoop : une bille solide dans un liquide, ça va beaucoup moins vite qu'un photon ou un électron. Donc un écran à encre électronique, ça va beaucoup moins vite qu'un écran classique d'ordi ou de smartphone. Genre plusieurs milliers de fois moins vite.
 
 En outre, je vous avais expliqué que les liseuses, pour éviter la rémanence d'images « fantômes », forçaient de temps en temps un passage par le tout noir et le tout blanc pour « trier » les billes comme il faut.
 
