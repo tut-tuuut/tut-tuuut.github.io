@@ -34,7 +34,7 @@ D'autres histoires m'intéressent beaucoup parce qu'ils me font découvrir des t
 
 J'aime bien les histoires de médecine vétérinaire, aussi. Boules de Fourrure est très fort pour mêler vulgarisation et anecdotes. Je vous recommande particulièrement son billet sur [la toxoplasmose et les chats][toxo-chats] (indispensable pour les femmes enceintes) et, si vous avez un chat, l'explication de l'[insuffisance rénale chronique][IRC]. Et aussi tous les billets de sa colonne « à retenir ».
 
-Certains articles m'intéressent parce qu'elles me concernent et me permettent de comprendre mieux ce que j'ai et ce qu'en savent les médecins. Par exemple les <del>allumés</del> médecins sympathiques du blog « 2 garçons une fille » ont pondu une [synthèse sur le traitement de la migraine][migraine].
+Certains articles m'intéressent parce qu'ils me concernent et me permettent de comprendre mieux ce que j'ai et ce qu'en savent les médecins. Par exemple les <del>allumés</del> médecins sympathiques du blog « 2 garçons une fille » ont pondu une [synthèse sur le traitement de la migraine][migraine].
 
 Bon, j'avoue, ce que je préfère en général sur leur blog, ce sont les histoires avec plein de gifs animés derrière des liens. Ou alors quand [La Boutonnologue raconte sa lune de miel][caplane], ou quand elle raconte n'importe quoi d'autre d'ailleurs, j'adore son style.
 
@@ -42,9 +42,9 @@ C'est aussi sur les blogs de médecins que j'ai découvert comment fonctionnaien
 
 Sinon ce qui est trop cool avec Twitter plus particulièrement, c'est de pouvoir papoter de tout et de rien avec des médecins. Ou alors parfois plus spécifiquement de médecine, comme de ce que ça signifie quand un médecin vous dit que si vous vomissez deux fois par jour c'est un « signe sympathique <del>mes fesses</del> ». Ben c'est pas « sympa ». C'est à cause du <del>salopard de</del> système nerveux sympathique.
 
-Les blogs de médecine englobent aussi les blogs de sages-femmes : c'est en lisant régulièrement le blog de 10lunes que j'ai découvert que les sages-femmes ne faisaient pas que les accouchements, mais pouvaient aussi faire, en libéral, le suivi des femmes enceintes. Et, tant qu'à faire, le suivi des femmes pas enceintes aussi. (Tant qu'elles vont bien !) Les histoires de 10lunes m'ont rendue accro aux [histoires d'accouchement respecté][10lunes], et donné envie de militer pour plus de physiologie.
+Les blogs de médecine englobent aussi les blogs de sages-femmes : c'est en lisant régulièrement le blog de 10lunes que j'ai découvert que les sages-femmes ne faisaient pas que les accouchements, mais pouvaient aussi faire, en libéral, le suivi des femmes enceintes. Et, tant qu'à faire, le suivi des femmes pas enceintes aussi. (Tant qu'elles vont bien !) Les histoires de 10lunes m'ont rendue accro aux [histoires d'accouchement][10lunes], et donné envie de militer pour le respect de la naissance, bien avant d'être enceinte moi-même.
 
-Les blogs de sage-femme et ceux des généralistes pratiquant la gynécologie m'ont fait réaliser que mon gynéco était mauvais. Il me faisait enlever haut et bas, faisait systématiquement des touchers vaginaux, s'entêtait à me prescrire Diane 35 malgré les oublis fréquents et migraines épouvantables dont je me plaignais, il réalisait un frottis par an (il m'a suivi de mes 20 ans à mes 24 ans)… À l'époque je n'avais pas de doc autre que ces blogs qui expliquaient qu'on pouvait se passer de toucher vaginal, que [le frottis c'était seulement à partir de 25 ans…][frottis] et tous les 3 ans si les 2 premiers étaient normaux. Et de découvrir qu'on n'est pas obligé de se mettre complètement à poil, et qu'on peut avoir un DIU/Stérilet même si on n'a pas eu d'enfant ! La folie !
+Les blogs de sage-femme et ceux des généralistes pratiquant la gynécologie m'ont fait réaliser que mon gynéco était mauvais. Il me faisait enlever haut et bas, faisait systématiquement des touchers vaginaux, s'entêtait à me prescrire Diane 35 malgré les oublis fréquents et migraines épouvantables dont je me plaignais, il réalisait un frottis par an (de mes 20 ans à mes 24 ans)… À l'époque je n'avais pas de doc autre que ces blogs qui expliquaient qu'on pouvait se passer de toucher vaginal, que [le frottis c'était seulement à partir de 25 ans…][frottis] et tous les 3 ans si les 2 premiers étaient normaux. Et de découvrir qu'on n'est pas obligé de se mettre complètement à poil, et qu'on peut avoir un DIU/Stérilet même si on n'a pas eu d'enfant ! La folie !
 
 (J'ai définitivement lâché ce gynéco le jour où il m'a dit « c'est pas grave si Diane vous donne des migraines, puisque je vous prescris aussi des antimigraineux ! ».)
 
@@ -53,11 +53,11 @@ Au début de ma grossesse, aurais-je appelé « ma » sage-femme si je n'avais
 Brr.
 
 En vrai, je ne lis pas que les blogs de médecin. Je lis tout.  
-Je lis tout ce que je peux dès qu'il s'agit de ma santé. Par exemple, je lis les notices des médicaments… les brochures d'information sur tout et rien… les affiches dans les salles d'attente… et j'ai lu le carnet de santé du bébé, du début à la fin, en incluant les petites notes. La pédiatre à qui je l'ai dit m'a répondu « ah ? Hé bien vous êtes avez le temps si vous en êtes arrivée là ! » sur un ton dédaigneux. Comme si c'était futile. Comme si ça la gênait que j'aie une autre source d'information qu'elle…
+Je lis tout ce que je peux dès qu'il s'agit de ma santé. Par exemple, je lis les notices des médicaments… les brochures d'information sur tout et rien… les affiches dans les salles d'attente… et j'ai lu le carnet de santé du bébé, du début à la fin, en incluant les petites notes. La pédiatre à qui je l'ai dit m'a répondu « ah ? Hé bien vous en avez du temps si vous en êtes arrivée là ! » sur un ton dédaigneux. Comme si c'était futile. Comme si ça la gênait que j'aie une autre source d'information qu'elle…
 
 (Et comme elle me parlait sur le même ton qu'au bébé, j'ai changé de pédiatre. Et comme l'autre pédiatre avait toujours 30 minutes de retard sur le premier créneau de la matinée, j'ai arrêté d'emmener bébé chez le pédiatre. Le généraliste s'en sort bien pour l'instant, même quand la gaminette veut lui piquer ses babioles.)
 
-Heureusement, tous les médecins ne sont pas effrayés à l'idée que les patients se prennent en main et remettent un peu en question leur pratique de la médecine. Dr Borée a écrit un article très bien sur [le rôle que jouent les blogs de médecine dans l'autonomisation des patients][briser-peurs], et sur la résistance au changement que lui opposent certains médecins.
+Heureusement, tous les médecins ne sont pas effrayés à l'idée que les patients se prennent en main et remettent un peu en question leur pratique de la médecine. Dr Borée a écrit un article très bien sur [le rôle que jouent les blogs de médecine dans « l'autonomisation » des patients][briser-peurs], et sur la résistance au changement que lui opposent certains médecins.
 
 
 
