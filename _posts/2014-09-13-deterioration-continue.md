@@ -23,27 +23,27 @@ Une fois le contrat signé, j'ai prêté la Gaminette à la nounou et j'ai comme
 
 Pour le premier mois, Gaminette n'a été gardée que deux semaines environ. Comme elle était toute petite petite, on s'est mis d'accord avec la nounou pour que je ne lui paie pas d'indemnité de repas (je fournissais lait et biberons). Je n'avais que le salaire horaire (3,50 € net par heure, majorés de 20 % à partir de la 46<sup>e</sup> heure) et l'indemnité d'entretien (3,50 € par jour) à payer.
 
-Par crainte de me tromper et d'oublier des éléments, j'ai stocké tout ça dans un tableur Google Documents au fur et à mesure, et ça a donné ceci :
+Par crainte de me tromper et d'oublier des éléments, j'ai stocké tout ça dans un tableur Google Documents au fur et à mesure, et ça a donné ceci :
 
 ![Mes calculs de février](/img/2014/09/excel-nounou/2-fevrier.png)
 
-Hyper sexy, hein ?
+Hyper sexy, hein ?
 
 (Non.)
 
 Compter, c'était bien, mais après, il allait falloir déclarer tout ça à l'URSSAF. C'était ça, le truc qui m'inquiétait le plus.
 
-En fait, ce n'est pas si terrible que ça. En l'occurrence, quand on emploie une assistante maternelle, on déclare tout sur un site dédié, dans un formulaire qui ressemble à ceci :
+En fait, ce n'est pas si terrible que ça. En l'occurrence, quand on emploie une assistante maternelle, on déclare tout sur un site dédié, dans un formulaire qui ressemble à ceci :
 
 ![Le site de Pajemploi](/img/2014/09/excel-nounou/1-pajemploi.png)
 
-Donc sur ce mois-ci, c'était facile : j'ai déclaré la stricte vérité, à l'heure et au centime près.
+Donc sur ce mois-ci, c'était facile : j'ai déclaré la stricte vérité, à l'heure et au centime près.
 
 À partir du deuxième mois, j'ai procédé à ce qu'on appelle la « mensualisation » du salaire de la nounou, pour qu'elle gagne à peu près la même chose tous les mois (et pour que je dépense à peu près la même chose tous les mois aussi). En gros, on calcule le nombre d'heures totales théorique sur l'année, et on divise par 12, ça donne le salaire de base à verser chaque mois.
 
 On ajoute ensuite les indemnités d'entretien (toujours pas d'indemnité de repas) au salaire de base, ça donne le montant à écrire sur le chèque.
 
-J'ai ajouté un onglet dans mon fichier Google Doc, et j'ai fait un truc propre : j'écrivais les données dans les cases jaunes, et dans les cases bleues j'avais les résultats des calculs (à déclarer et à payer)… Et… patatras, au moment de déclarer, je me suis rendu compte que j'avais oublié un truc et je l'ai ajouté à la va-vite à côté.
+J'ai ajouté un onglet dans mon fichier Google Doc, et j'ai fait un truc propre : j'écrivais les données dans les cases jaunes, et dans les cases bleues j'avais les résultats des calculs (à déclarer et à payer)… Et… patatras, au moment de déclarer, je me suis rendu compte que j'avais oublié un truc et je l'ai ajouté à la va-vite à côté.
 
 ![Excel nounou, première version](/img/2014/09/excel-nounou/3-v1.png)
 
@@ -53,7 +53,7 @@ Ensuite, à la fin du mois de mai, il a fallu calculer les congés payés acquis
 
 Ensuite, j'ai franchement galéré pour savoir _comment_ je lui payais les congés et comment je déclarais tout <del>ce bordel</del> ça. J'ai fini par comprendre que le salaire par jour était important (c'est un peu long à expliquer), alors j'ai ajouté un petit « check » pour savoir s'il avait une valeur acceptable pour la CAF. J'ai aussi ajouté, dans le bloc « données », les informations relatives aux congés payés.
 
-J'en ai profité pour changer le code couleur, afin de coller plus aux habitudes excel de mon mari : les données en vert, les calculs intermédiaires en gris, les résultats en jaune.
+J'en ai profité pour changer le code couleur, afin de coller plus aux habitudes excel de mon mari : les données en vert, les calculs intermédiaires en gris, les résultats en jaune.
 
 ![Le site de Pajemploi](/img/2014/09/excel-nounou/4-v2.png)
 
@@ -65,14 +65,14 @@ Bon. Après ça, la vie a continué. Et puis Gaminette a commencé à manger de 
 
 Ce bazar de cases en gras, en jaune, en vert, à gauche, à droite, avec des noms qui ne correspondaient à rien de concret côté URSSAF, c'était trop difficile à lire et trop long à expliquer. Il fallait trop réfléchir pour remplir le formulaire, alors que le but du tableau, c'était quand même de ne pas réfléchir, justement…
 
-Alors j'ai ajouté ça dans mon tableau, en copiant _stricto sensu_ les noms des champs du site de l'URSSAF :
+Alors j'ai ajouté ça dans mon tableau, en copiant _stricto sensu_ les noms des champs du site de l'URSSAF :
 
 ![Le site de Pajemploi](/img/2014/09/excel-nounou/5-v3.png)
 
 Et j'ai tout simplement masqué les autres lignes de calcul. Ma prochaine déclaration URSSAF, je la ferai à 2 h du mat’ et je la ferai correctement quand même !
 
 En réfléchissant à tout ça, je me dis que cette histoire toute bête de fichier excel est à garder en tête quand on conçoit des interfaces, ou qu'on leur ajoute des fonctionnalités petit à petit sans vérifier la cohérence de l'ensemble.  
-À partir de quand l'utilisateur de votre produit va-t-il cesser de dire que « c'est juste un peu chiant » ou « c'est juste un peu bordélique » pour dire « c'est de la merde, je vais voir ailleurs » ?
+À partir de quand l'utilisateur de votre produit va-t-il cesser de dire que « c'est juste un peu chiant » ou « c'est juste un peu bordélique » pour dire « c'est de la merde, je vais voir ailleurs » ?
 
 
 [contrat-ain]: http://www.ain.fr/jcms/cd_10394/fiche-le-contrat-de-travail-type
