@@ -43,7 +43,7 @@ Donc sur ce mois-ci, c'était facile : j'ai déclaré la stricte vérité, à l'
 
 On ajoute ensuite les indemnités d'entretien (toujours pas d'indemnité de repas) au salaire de base, ça donne le montant à écrire sur le chèque.
 
-J'ai ajouté un onglet dans mon fichier Google Doc, et j'ai fait un truc à peu près propre : j'écrivais les données dans les cases jaunes, et dans les cases bleues j'avais les résultats des calculs (à déclarer et à payer).
+J'ai ajouté un onglet dans mon fichier Google Doc, et j'ai fait un truc propre : j'écrivais les données dans les cases jaunes, et dans les cases bleues j'avais les résultats des calculs (à déclarer et à payer)… Et… patatras, au moment de déclarer, je me suis rendu compte que j'avais oublié un truc et je l'ai ajouté à la va-vite à côté.
 
 ![Excel nounou, première version](/img/2014/09/excel-nounou/3-v1.png)
 
