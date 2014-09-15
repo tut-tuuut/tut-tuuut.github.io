@@ -12,7 +12,7 @@ Pourquoi j'ai dit oui, déjà ?
 
 Comment j'en suis arrivée à me lever à 7 heures du matin pour aller donner mon sang, moi qui tournais de l'œil à la simple perspective d'une prise de sang ou à la vue des minuscules aiguilles des vaccins ?
 
-Ah, oui, il y a eu la mort d'Hervé, mon cousin, emporté à 14 ans par une leucémie… Moi qui n'étais pas beaucoup plus vieille, j'ai relativisé ma peur des piqûres. Puis, quelques années plus tard, mon amoureux a perdu Pascal, son meilleur ami. Encore une leucémie. J'étais triste, et surtout furieuse contre le monde entier. Comment, au XXIe siècle, des gens de 15 ou 20 ans pouvaient mourir de maladie ? C'est pas un âge fait pour être malade. Et encore moins pour mourir.
+Ah, oui, il y a eu la mort d'Hervé, mon cousin, emporté à 14 ans par une leucémie… Moi qui n'étais pas beaucoup plus vieille, j'ai relativisé ma peur des piqûres. Puis, quelques années plus tard, mon amoureux a perdu Pascal, son meilleur ami. Encore une leucémie. J'étais triste, et surtout furieuse contre le monde entier. Comment, au <span style="font-variant: small-caps;">xxi</span><sup>e</sup> siècle, des gens de 15 ou 20 ans pouvaient mourir de maladie ? Ce ne sont pas des âges faits pour être malade. Et encore moins pour mourir.
 
 À 18 ans et trois mois, j'ai donné mon sang pour la première fois, dans une association de donneurs. Ça ne s'est pas très bien passé, entre moi et l'aiguille. Je suis un peu tombée dans les pommes, mais j'ai eu un super repas pour me remettre de mes émotions.
 
@@ -26,7 +26,7 @@ Elle est « compatible ». Je ne saurai rien de plus de la femme à qui je don
 
 J'écarte ces souvenirs un peu tristes — j'ai toujours des pensées pour _eux_, dans le brouillard qui précède mes dons matinaux — et je descends du tram (terminus, tout le monde descend). Je traverse le tunnel qui sent un peu le pipi (c'est un raccourci) et j'arrive à l'EFS.
 
-Je suis pile à l'heure, c'est déjà ouvert ! Heureusement, parce qu'il fait un peu frais dehors. Je me présente à l'accueil :
+Je suis pile à l'heure, c'est déjà ouvert ! Heureusement, parce que ça caille. Je me présente à l'accueil :
 
 « Bonjour ! J'ai rendez-vous à 8 heures pour un don de plaquettes.  
 — Oui… (elle regarde sur une feuille), madame H. ?  
@@ -39,7 +39,7 @@ Elle imprime mon dossier et une feuille d'étiquettes, qu'elle glisse dans une p
 
 Je m'assois dans un fauteuil de la salle d'attente pour remplir le questionnaire pré-don, mais la brique de jus de pomme posée sur la table me fait de l'œil. Et le pain d'épice posé à côté, aussi. J'hésite. Oh, il y a des pâtes de fruits, aussi…
 
-Finalement, quand le médecin vient me chercher, je n'ai pas fini de remplir le questionnaire mais j'ai goûté le pain d'épices et j'ai rempli mes poches de pâtes de fruits (pour plus tard, si, si). Je le suis, mon dossier dans une main et un verre de jus de pomme dans l'autre.
+Finalement, quand le médecin vient me chercher, je n'ai pas fini de remplir le questionnaire mais j'ai goûté le pain d'épices et j'ai rempli mes poches de pâtes de fruits. Je trottine derrière la blouse blanche dans le couloir, mon dossier dans une main et un verre de jus de pomme dans l'autre.
 
 ## L'entretien avec le médecin
 
@@ -71,8 +71,45 @@ Maintenant, tout ce que j'ai à faire, c'est rester couchée, me laisser choyer 
 
 Dans mon bras, il y a un tuyau qui me relie à une machine.
 
-Cette machine commence par prélever du sang, qu'elle filtre pour en extraire du plasma. Elle garde le reste en réserve. Quand elle a rempli sa réserve, elle me rend les globules rouges et les plaquettes par le même tuyau. Quand elle m'a tout rendu, elle recommence à prélever. Puis elle me rend ce qu'elle ne veut pas.
+Cette machine fonctinne par cycles de quelques minutes : elle me prélève du sang, elle le centrifuge, garde ce qui l'intéresse et me rend le reste. Puis ça recommence. J'ai en main une petite poire : quand elle est gonflée, je dois « pomper » avec mes doigts, quand elle est dégonflée, je relâche tous les muscles du bras.
 
+Vous savez quoi ?
 
+C'est un peu chiant.
+
+Et il y en a pour deux heures.
+
+Heureusement, j'ai apporté de la lecture. Je choisis un roman pas trop compliqué dans ma liseuse (hyper pratique pour lire à une main), et je commence à bouquiner.
+
+Un petit chapitre plus tard, la machine émet un bip grognon. Je ne pompe pas assez, le débit d'entrée est trop faible. Je me remets à pomper avec application. Le débit remonte.
+
+Encore un chapitre plus tard, évidemment, j'ai re-oublié la machine. Elle re-bipe. Cette fois, le pompage appliqué ne suffit pas : j'ai froid, la veine se rétracte et le débit faiblit. Monsieur l'infirmier-avec-une-petite-barbe me couvre des pieds au cou avec une jolissime couette rose barbie. Il appuie sur des boutons sur la machine (sans doute pour lui dire d'être plus indulgente avec mes veines frigorifiées).
+
+Les chapitres suivants se déroulent sans encombre. Je pompe, je relâche. Mais au bout d'un moment, je m'aperçois que ma main qui tient la liseuse tremble un peu. Et j'ai l'impression que le siège sur lequel je suis couchée vibre… Ce sont les premiers signes d'une réaction au citrate, il faut les signaler rapidement à un soignant pour éviter que les symptômes ne s'aggravent.
+
+Manque de bol, monsieur petite-barbe n'est pas là, ses collègues sont occupées avec les autres donneurs. Je commence à ressentir un désagréable picotement autour des lèvres, un peu comme des fourmis. Pour le faire passer, j'essaie de faire faire un peu d'exercice à ma bouche. Autrement dit, je fais des grimaces. Maintenant, j'ai toujours des fourmis, mais en plus j'ai l'air bizarre.
+
+Une infirmière s'approche enfin de moi et de mes grimaces. Elle baisse le débit de retour de la machine et me tend un autre gobelet de calcium. Normalement, les symptômes devraient passer d'eux mêmes. D'expérience, je sais que ce n'est pas certain.
+
+Si la réaction au citrate devient douloureuse, ou même si c'est simplement désagréable, on peut arrêter le don à tout moment sans se sentir gêné ou embarassé. Ça m'est arrivé la première fois que j'ai donné des plaquettes : j'étais sur une machine « exigeante », on ne connaissait pas ma sensibilité au citrate et, une petite demi-heure avant la fin, j'ai eu des crampes à des endroits folkloriques (dans les mollets, les pieds, et… euh… les joues ? Sérieux on a des muscles dans les joues ??). On s'est arrêtés avant la fin, et l'infirmière en chef a m'a injecté du calcium en intraveineuse (pas en me faisant une nouvelle piqûre, mais en réutilisant le tuyau existant, hein).
+
+En l'occurrence, aujourd'hui, on sait avec quelle machine « je m'entends bien », mes mains ne tremblent plus, je peux continuer à bouquiner tranquille (en faisant des petites moues parce que les fourmis dans les lèvres ne passent pas vraiment). Et j'ai un historique personnel qui tend à me rendre un peu obstinée dès qu'il s'agit de donner mon sang.
+
+J'en ai un peu marre de mon livre. Je pose ma liseuse pour regarder la télé qui est allumée dans mon champ de vision. Un documentaire animalier. Je n'approche pas le haut-parleur individuel de mon oreille. Je commence à somnoler tranquillement. On est bien, sous la couette…
+
+La machine.
+
+Bipe.
+
+ÇA VA, JE POMPE !
+
+Monsieur petite-barbe revient me voir.
+
+— Ça va toujours ?
+— Oui, mais j'en ai un peu marre.
+— (Il appuie sur des boutons.) Ah, c'est le dernier cycle. Vous avez bientôt fini.
+— Yeeesss.
+
+Effectivement, j'entends la pompe de la machine couiner un peu plus fort que les autres cycles : cela indique qu'elle est en train de se vider complètement pour me rendre le maximum de globules rouges. Au-dessus de ma tête, sont suspendus une poche de plasma et une poche de plaquettes. Les deux seront transfusés à la patiente, dans moins de 48 heures.
 
 http://ansm.sante.fr/var/ansm_site/storage/original/application/6ae0b63a99fbef5084c005a34cf81fa9.pdf
