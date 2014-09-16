@@ -48,7 +48,7 @@ Les blogs de sage-femme et ceux des généralistes pratiquant la gynécologie m'
 
 (J'ai définitivement lâché ce gynéco le jour où il m'a dit « c'est pas grave si Diane vous donne des migraines, puisque je vous prescris aussi des antimigraineux ! ».)
 
-Au début de ma grossesse, aurais-je appelé « ma » sage-femme si je n'avais pas lu ces blogs ? Sûrement pas ! Je n'aurais même pas su qu'elle pouvait s'occuper de moi. J'aurais vu ce médecin-là pour mon suivi ? Et il m'aurait répété que les vomissements étaient sympathiques, et qu'il n'y avait rien à faire, et j'aurais probablement cherché à me rassurer en lisant les forums doctissimo, et j'écrirais « chez gygy »… Et ma fille serait sûrement née par césarienne, si j'en crois les statistiques de la clinique où il bosse.
+Au début de ma grossesse, aurais-je appelé [« ma » sage-femme][ma-sf] si je n'avais pas lu ces blogs ? Sûrement pas ! Je n'aurais même pas su qu'elle pouvait s'occuper de moi. J'aurais vu ce médecin-là pour mon suivi ? Et il m'aurait répété que les vomissements étaient sympathiques, et qu'il n'y avait rien à faire, et j'aurais probablement cherché à me rassurer en lisant les forums doctissimo, et j'écrirais « chez gygy »… Et ma fille serait sûrement née par césarienne, si j'en crois les statistiques de la clinique où il bosse.
 
 Brr.
 
@@ -76,3 +76,4 @@ Heureusement, tous les médecins ne sont pas effrayés à l'idée que les patien
 [caplane]: http://2garcons1fille.wordpress.com/2013/12/17/ca-plane-pour-moi/
 [frottis]: http://docteurdu16.blogspot.fr/2014/09/ma-gynecologue-est-partie-la-retraite.html
 [10lunes]: http://10lunes.com/2010/07/commentaires-sur-depassee/
+[ma-sf]: /2014/05/05/journee-des-sages-femmes.html
