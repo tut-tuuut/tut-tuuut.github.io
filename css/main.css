@@ -136,6 +136,20 @@ footer .rss img {
   padding: 0 .4em;
 }
 
+.factsheet {
+  border-collapse: collapse;
+}
+
+.factsheet th[scope=row] {
+  text-align: right;
+}
+.factsheet td, .factsheet th {
+  background: rgba(255,255,255,.5);
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+  padding: .1em .5em;
+}
+
 .post ul, .post ol {
   margin-left: 1.35em;
 }
