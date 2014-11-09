@@ -15,7 +15,7 @@ L'idée c'est de faire un petit bilan de la manière dont j'ai progressé lors d
 
 Pour vous situer le genre de fille que je suis : j'ai longtemps préféré les personnages des romans à mes petits camarades de classe. Jusqu'à la fin de mon adolescence, j'ai été une très très grande lectrice de littérature jeunesse. Et les histoires continuaient dans ma tête. J'ai eu pas mal de « dans la lune » dans mes bulletins scolaires… Pourtant, malgré toutes les histoires que je racontais dans ma tête je n'avais jamais écrit de fiction. Ou alors pas plus d'une ou deux pages avant de me détacher de l'histoire.
 
-En octobre 2010, je suis tombée sur un article de Macgenration.com qui disait que Scrivener était à 20 % de réduction pour tous les participants au NaNoWriMo, et à 50 % de réduction pour les gagnants.
+En octobre 2010, je suis tombée sur un article de Macgeneration.com qui disait que Scrivener était à 20 % de réduction pour tous les participants au NaNoWriMo, et à 50 % de réduction pour les gagnants.
 
 J'ai été voir le site nanowrimo.org, j'ai découvert le principe du NaNo et l'ambiance un peu foldingue qui existait du côté anglophone des forums… Puis j'ai installé Scrivener et j'ai voulu jouer un peu avec.
 
