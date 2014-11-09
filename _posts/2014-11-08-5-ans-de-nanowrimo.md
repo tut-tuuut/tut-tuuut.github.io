@@ -148,7 +148,7 @@ J'ai voulu écrire ce billet pour zenifier mes co-nanoteurs qui flippent ou qui 
 
 J'ai mis 4 ans, et 5 essais, à réussir à planifier mon mois d'écriture, et encore, j'ai repompé des personnages, des histoires et un univers que j'ai déjà éprouvés plusieurs fois.
 
-J'ai commis des erreurs, j'ai écrit beaucoup de caca, j'ai mis longtemps à m'avouer ce que j'aimais vramient écrire et lire. J'ai découvert que j'aimais bien écrire ce que j'aimais bien lire.
+J'ai commis des erreurs, j'ai écrit beaucoup de caca, j'ai mis longtemps à m'avouer ce que j'aimais vraiment écrire et lire. J'ai découvert que j'aimais bien écrire ce que j'aimais bien lire.
 
 Je vais encore beaucoup écrire et réécrire avant d'oser dire à mon mari « tiens, prends ce roman, lis-le et dis-moi ce que tu en penses ». Pourtant, je suis bien meilleure qu'à mon point de départ !
 
