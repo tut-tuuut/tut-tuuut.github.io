@@ -22,7 +22,7 @@ Aidez-moi.
 
 (Non en fait je suis contente que mon mari fasse la cuisine. Juste, j'ai un peu de mal avec les légumes quand il n'y a pas de pâtes ou de riz pour cacher le goût et la texture…)
 
-À part ce malentendu alimentaire, je n'ai pas d'objectif particulier pour l'année qui vient. Je veux continuer de me laisser porter tranquillement, profiter de ma fille quand elle est réveillée, jouer à des jeux vidéos quand elle ne l'est pas, écrire un peu sur mon blog…
+À part ce malentendu alimentaire, je n'ai pas d'objectif particulier pour l'année qui vient. Je veux continuer de me laisser porter tranquillement, profiter de ma fille quand elle est réveillée, jouer à des jeux vidéo quand elle ne l'est pas, écrire un peu sur mon blog…
 
 Se promettre de rester flemmarde, c'est pas mal comme résolution, non ?
 
