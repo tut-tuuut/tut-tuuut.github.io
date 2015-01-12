@@ -10,11 +10,11 @@ L'amidon est une molécule rigolote. Il entre en jeu par exemple dans la fabrica
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/yv7DZ7tY-bM?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Mais ce dont je veux vous parler aujourd'hui, ce n'est pas du pop-corn, c'est de l'eau-maïzena.
+Mais ce dont je veux vous parler aujourd'hui, ce n'est pas du pop-corn, c'est de l'eau-Maïzena.
 
-Il y en a encore dans la salle qui n'ont jamais entendu parler de l'eau-maïzena ? Je profite du thème de la semaine de #53billetsEn2015, « ceci est très amusant », pour réparer ce manque.
+Il y en a encore dans la salle qui n'ont jamais entendu parler de l'eau-Maïzena ? Je profite du thème de la semaine de #53billetsEn2015, « ceci est très amusant », pour réparer ce manque.
 
-Concrètement, qu'est-ce que l'eau-maïzena et pourquoi est-ce très amusant ? Il s'agit d'un mélange d'un peu d'eau dans de la maïzena (ça marche moins bien s'il y a trop d'eau).
+Concrètement, qu'est-ce que l'eau-Maïzena et pourquoi est-ce très amusant ? Il s'agit d'un mélange d'un peu d'eau dans de la Maïzena (ça marche moins bien s'il y a trop d'eau).
 
 <i>Début du gloubi boulga scientifique</i>
 
