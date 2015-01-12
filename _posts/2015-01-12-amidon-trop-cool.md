@@ -8,7 +8,7 @@ tags: 53BilletsEn2014
 
 L'amidon est une molécule rigolote. Il entre en jeu par exemple dans la fabrication du pop-corn.
 
-<div class="center"><iframe width="420" height="315" src="//www.youtube.com/embed/K98ZVl2ZqS4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="center"><iframe width="420" height="315" src="//www.youtube.com/embed/yv7DZ7tY-bM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Mais ce dont je veux vous parler aujourd'hui, ce n'est pas du pop-corn, c'est de l'eau-Maïzena.
 
