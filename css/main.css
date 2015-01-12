@@ -15,7 +15,9 @@ a         { color: #0bf; }
 a:visited { color: #639; }
 a:hover   { color: #f06; }
 
-
+.center {
+  text-align: center !important;
+}
 /*****************************************************************************/
 /*
 /* Home
