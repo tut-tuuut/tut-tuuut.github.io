@@ -7,7 +7,11 @@ title: Agnès H. — blog
   <h1>Notes de blog</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span class="date">{%include frenchDate.html date=post.date %}</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span class="date">{%include frenchDate.html date=post.date %}</span><a href="{{ post.url }}">{{ post.title }}</a>
+        {% for cat in post.categories %}
+        <span class="cat">{{ cat }}</span>
+        {% endfor %}
+      </li>
     {% endfor %}
   </ul>
 </div>
