@@ -97,7 +97,17 @@ header a {
 .header nav ul li {
   display: inline;
 }
-
+@media (max-width: 700px) {
+  .header nav,
+  .title {
+    display: block;
+    margin: .5em 0;
+    text-align: center;
+  }
+  .site {
+    margin-top: .2em;
+  }
+}
 .header nav a {
   color: #000;
   text-decoration: none;
