@@ -3,6 +3,7 @@ layout: post
 title:  "Journée internationale de ma sage-femme"
 tags: sage-femme
 categories: maman
+excerpt: Je vais encore vous raconter un peu ma vie.<br />Historiquement, je ne m’entends pas du tout avec les gynécos.
 ---
 
 Je sens que je suis en train de me faire avoir avec mon perfectionnisme qui me pousse à reporter la publication de la suite de mes retours sur le Mix-IT 2014, mais aujourd’hui c’est un jour spécial. Et je peux bien m’autoriser quelques notes de maman, après tout, puisque c’est mon blog (et que je suis maman).

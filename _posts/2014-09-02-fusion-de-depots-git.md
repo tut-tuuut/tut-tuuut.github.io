@@ -5,7 +5,7 @@ tags: ereader eink
 categories: git
 ---
 
-Youpi, je vais vous raconter une aventure de technicienne !
+Youpi, je vais vous raconter une aventure de technicienne !§§§
 
 Cet après-midi, avec ma collègue, on a voulu travailler ensemble sur un dépôt git que j'avais créé sur mon poste (avec un petit `git init`) et déjà bien rempli (avec pas mal de `git ci`).
 

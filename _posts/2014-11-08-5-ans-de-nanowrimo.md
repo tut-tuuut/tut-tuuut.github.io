@@ -5,7 +5,7 @@ tags: nanowrimo
 categories: ecriture nanowrimo
 ---
 
-Je n'en ai pas encore parlé sur ce blog-ci, mais depuis 2010, je participe chaque année au National Novel Writing Month, une sorte de défi créatif insensé consistant à se fixer un objectif conséquent (écrire un roman de 50 000 mots) dans un délai qui l'est moins (les 30 jours du mois de novembre).
+Je n'en ai pas encore parlé sur ce blog-ci, mais depuis 2010, je participe chaque année au National Novel Writing Month, une sorte de défi créatif insensé consistant à se fixer un objectif conséquent (écrire un roman de 50 000 mots) dans un délai qui l'est moins (les 30 jours du mois de novembre).§§§
 
 Cette année est la première où j'avance _vraiment_ bien dans mon histoire, au point d'avoir plus de 10 000 mots d'avance sur la cible. Je vais vous raconter la genèse de cette histoire, pour vous montrer d'où je suis partie et où j'en suis maintenant.
 

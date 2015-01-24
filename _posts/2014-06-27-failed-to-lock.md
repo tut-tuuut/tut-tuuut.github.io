@@ -3,6 +3,7 @@ layout: post
 title:  "Erreur git « Failed to lock »"
 tags: git
 categories: tech
+excerpt: Ce matin j'ai voulu tranquillement lancer un petit `git push` pour envoyer ma grosse branche de feature sur le dépôt git partagé par tous les dév de la boîte.
 ---
 
 ## tl; dr;

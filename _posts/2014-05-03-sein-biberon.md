@@ -3,6 +3,7 @@ layout: post
 title:  "La guéguerre du sein et du biberon"
 tags: allaitement
 categories: maman
+excerpt: Quand j’étais enceinte, et même avant, je lisais pas mal de littérature sur l’allaitement maternel et ses bienfaits. J'allaiterais, c’était une certitude…
 ---
 
 ## Je voulais allaiter, mais…

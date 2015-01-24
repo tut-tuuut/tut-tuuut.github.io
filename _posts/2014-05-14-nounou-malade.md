@@ -5,7 +5,7 @@ tags: parentalité garde nounou
 categories: maman
 ---
 
-Ce matin, ma nounou m'a appelée pour me dire qu'elle était malade et qu'elle irait voir le médecin dans la matinée, donc « Est-ce que ce serait possible que vous gardiez Mini ? ».
+Ce matin, ma nounou m'a appelée pour me dire qu'elle était malade et qu'elle irait voir le médecin dans la matinée, donc « Est-ce que ce serait possible que vous gardiez Mini ? ».§§§
 
 Haaahhh.
 

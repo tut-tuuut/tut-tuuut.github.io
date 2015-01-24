@@ -24,40 +24,22 @@ a:hover   { color: #f06; }
 /*
 /*****************************************************************************/
 .posts {
-  list-style-type: none;
   margin-bottom: 2em;
 }
 
-.posts li {
-  line-height: 1.2em;
-  margin-bottom: 0.55em;
+.posts h2 {
+  margin: 1em 0 0;
+  font-family: 'Delius', cursive;
+  font-weight: normal;
 }
-
+.posts h2 a {
+  text-decoration: none;
+}
 .posts .date {
-  display: inline-block;
   font-size: 0.8em;
   font-style: italic;
-  padding-right: 1em;
-  text-align: right;
-  width: 9em;
 }
-@media (max-width: 700px) {
-  .posts {
-    padding: .2em;
-  }
-  .posts li {
-    border: 1px solid #ccc;
-    margin: .2em 0;
-    padding: .2em;
-  }
-  .posts .date,
-  .posts li > a {
-    display: block;
-    text-decoration: none;
-    text-align: left;
-    width: auto;
-  }
-}
+
 /*****************************************************************************/
 /*
 /* Site
@@ -107,6 +89,12 @@ header a {
   .site {
     margin-top: .2em;
   }
+  .posts h2 {
+    font-size: 1em;
+  }
+  .excerpt {
+    display: none;
+  }
 }
 .header nav a {
   color: #000;
@@ -120,10 +108,6 @@ header a {
 }
 .header nav li + li a {
   margin-left: 1em;
-}
-
-.meta {
-  color: #aaa;
 }
 
 footer {
@@ -240,4 +224,29 @@ header h1 {
 }
 .before + .after {
   border-left: 1px solid #ccc;
+}
+.pagination {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 0.2em;
+}
+.pagination .cell {
+  display: table-cell;
+  padding: 0 .5em;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
+.pagination a.cell:hover {
+  border-color: #888;
+}
+.pagination .disabled {
+  color: #ccc;
+}
+.excerpt {
+  font-size: 0.9em;
+  line-height: 1.2em;
+  padding: 0 1em;
+}
+.excerpt p {
+  margin: 0;
 }

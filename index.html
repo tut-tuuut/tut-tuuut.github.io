@@ -5,13 +5,38 @@ title: Agnès H. — blog
 
 <div id="home">
   <h1>Notes de blog</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span class="date">{%include frenchDate.html date=post.date %}</span><a href="{{ post.url }}">{{ post.title }}</a>
-        {% for cat in post.categories %}
-        <span class="cat">{{ cat }}</span>
-        {% endfor %}
-      </li>
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <h2>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <div class="meta">
+        <span class="date">{%include frenchDate.html date=post.date %}</span>
+        <span class="categories">
+          {% for cat in post.categories %}
+            <span class="cat">{{ cat }}</span>
+          {% endfor %}
+        </span>
+      </div>
+      <div class="excerpt">{{ post.excerpt }}</div>
     {% endfor %}
-  </ul>
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="cell">&larr;</a>
+    {%else%}
+      <span class="cell disabled">&larr;</span>
+    {% endif %}
+      <span class="cell">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="cell">&rarr;</a>
+    {% else %}
+      <span class="cell disabled">&rarr;</span>
+    {% endif %}
+  </div>
+
 </div>
+
+
+

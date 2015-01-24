@@ -5,7 +5,7 @@ tags: ereader eink
 categories: tech web
 ---
 
-Au travail, je bosse sur des sites web qui servent à vendre des ebooks sur liseuse. C'est quelque chose d'assez… comment dire ? Gratifiant, mais souvent très compliqué.
+Au travail, je bosse sur des sites web qui servent à vendre des ebooks sur liseuse. C'est quelque chose d'assez… comment dire ? Gratifiant, mais souvent très compliqué.§§§
 
 La performance sur liseuse, ce n'est pas la même chose que sur le web. Pour faire un site web performant, il existe plein de conseils simples à appliquer : compression gzip, cache, éviter de faire plein de merdouilles en JS ou 500 requêtes MySQL par page, etc.
 
