@@ -3,6 +3,7 @@ layout: post
 title: "Un site web pour liseuse - l'intégration"
 tags: ereader eink
 categories: tech web
+excerpt: Je vous avais laissés sur votre faim voilà presque deux mois, avec une explication du fonctionnement de l'encre électronique.
 ---
 
 Je vous avais laissés sur votre faim voilà <del>presque une semaine</del> (ahem) presque deux mois, avec [une explication du fonctionnement de l'encre électronique][before]. Ce qu'il faut en retenir, c'est que la nuance de gris qui apparaît sur l'écran est déterminée par la quantité de billes blanches ou noires que vous voyez.

@@ -5,7 +5,7 @@ tags: grammaire conjugaison
 categories: orthographe
 ---
 
-En ce moment je lis un livre où la confusion entre le futur et le conditionnel est quasi systématique. Et ce genre de faute a le don de m'énerver bien comme il faut. Celle-ci en particulier, je la vois déjà régulièrement dans les mails, alors si en plus je commence à les croiser dans les romans ça va pas aller du tout. GROUMPF.
+En ce moment je lis un livre où la confusion entre le futur et le conditionnel est quasi systématique. Et ce genre de faute a le don de m'énerver bien comme il faut.§§§ Celle-ci en particulier, je la vois déjà régulièrement dans les mails, alors si en plus je commence à les croiser dans les romans ça va pas aller du tout. GROUMPF.
 
 Pourtant, ce n'est pas compliqué.
 

@@ -4,7 +4,7 @@ title: "Les tâches qui font tache"
 categories: orthographe
 ---
 
-Bon. Pour bloguer souvent, il faut bloguer bref.
+Bon. Pour bloguer souvent, il faut bloguer bref.§§§
 
 Ce soir, je vais donc écrire une brève sur un sujet qui me tient à cœur : l'orthographe. Vu le nombre de fautes que je croise quotidiennement, je suis sûre que je tiens là une manne infinie ou presque de billets de blog.
 

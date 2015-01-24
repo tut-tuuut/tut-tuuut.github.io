@@ -3,6 +3,7 @@ layout: post
 title:  "L'amidon de maïs, cette molécule infiniment cool"
 categories: science
 tags: 53BilletsEn2014
+excerpt: L'amidon est une molécule rigolote. Il entre en jeu par exemple dans la fabrication du pop-corn. Mais ce dont je veux vous parler aujourd'hui, ce n'est pas du pop-corn, c'est de l'eau-Maïzena.
 ---
 
 

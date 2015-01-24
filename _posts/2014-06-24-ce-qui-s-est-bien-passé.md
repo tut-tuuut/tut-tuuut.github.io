@@ -5,7 +5,7 @@ tags: communication
 categories: reflexion
 ---
 
-Lundi, on causait accouchements avec la sage-femme. De celui que j'ai vécu, de ceux que je voulais vivre à l'avenir.
+Lundi, on causait accouchements avec la sage-femme. De celui que j'ai vécu, de ceux que je voulais vivre à l'avenir.§§§
 
 Je ne vais pas tout détailler, mais en gros, quand j'ai accouché, il y a des choses qui se sont mal passées. On m'a fait des trucs que j'ai très mal vécus et que je tiens à ne jamais revivre.
 

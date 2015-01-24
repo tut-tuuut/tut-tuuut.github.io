@@ -5,7 +5,7 @@ tags: assistante maternelle
 categories: maternite design
 ---
 
-Pas de grosse réflexion sur le monde aujourd'hui ni de grosse découverte. J'ai juste mesuré le chemin parcouru sur un de mes fichiers excel, ça m'a fait réfléchir sur l'utilisabilité des interfaces homme-machines, et je voulais vous le montrer.
+Pas de grosse réflexion sur le monde aujourd'hui ni de grosse découverte. J'ai juste mesuré le chemin parcouru sur un de mes fichiers excel, ça m'a fait réfléchir sur l'utilisabilité des interfaces homme-machines, et je voulais vous le montrer.§§§
 
 Quand j'étais enceinte, le truc qui m'effrayait le plus avec ma maternité à venir, ce n'était pas l'accouchement ni les couches, ni de laisser mon bébé à une inconnue.
 
