@@ -241,3 +241,14 @@ header h1 {
 .before + .after {
   border-left: 1px solid #ccc;
 }
+.pagination {
+  display: table;
+}
+.pagination .cell {
+  display: table-cell;
+  padding: 0 .5em;
+  border: 1px solid #ccc;
+}
+.pagination .disabled {
+  color: #ccc;
+}
