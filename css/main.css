@@ -243,11 +243,17 @@ header h1 {
 }
 .pagination {
   display: table;
+  border-collapse: separate;
+  border-spacing: 0.2em;
 }
 .pagination .cell {
   display: table-cell;
   padding: 0 .5em;
   border: 1px solid #ccc;
+  text-decoration: none;
+}
+.pagination a.cell:hover {
+  border-color: #888;
 }
 .pagination .disabled {
   color: #ccc;
