@@ -11,7 +11,7 @@ Depuis le temps que je voulais écrire un article sur les astuces « non recomm
 
 Voici donc mes astuces de mauvaise mère, testées et approuvées.
 
-## Mes meilleures copines des soirées difficiles : les boules quiès
+## Mes meilleures copines des soirées difficiles : les boules quiès
 
 Plus exactement, les bouchons d'oreille *cylindriques* en mousse jaune.
 
@@ -25,28 +25,28 @@ Gaminette crie, hurle, se débat, refuse que je lui change sa couche ou que je l
 
 Pour tout dire, nous craignons tellement la pénurie de ces précieux cylindres jaunes que nous dévalisons les pharmacies du coin dès que notre stock descend un peu trop.
 
-> — Bonjour ! Avez-vous des bouchons d'oreille comme celui-ci ?  
+> — Bonjour ! Avez-vous des bouchons d'oreille comme celui-ci ?  
 > — Oui, tout à fait. Voici une boîte.  
 > — Parfait. Je prendrai toutes celles que vous avez, s'il vous plaît.  
 > — …  
 
 Je pressens que mes boules quiès vont rester mes copines quand surviendra le _terrible two_ de Gaminette.
 
-## Les couches : combiner Lidl et Amazon pour alléger le budget
+## Les couches : combiner Lidl et Amazon pour alléger le budget
 
 Enceinte, étant donné que j'ai une certaine fibre écolo, je me suis posé la question d'utiliser des couches lavables. Je craignais des problèmes de logistique apocalyptiques, j'ai donc décidé que je verrais peut-être quand Gaminette aurait un peu grandi.
 
 Bref. J'utilise des couches jetables. Le problème, c'est que les « bonnes » couches jetables (type Pampers), ça coûte un bras.
 
-Pendant les premiers mois (de la taille 1 à la taille 3), je me suis fournie presque exclusivement en couches Pampers sur Amazon : le budget tournait autour de 25 à 30 centimes la couche, beaucoup moins cher que les 35 à 50 centimes/couche constatés en grande surface. (Oui, la nana au supermarché qui calculait des trucs sur son smartphone au rayon bébé, c'était moi.)
+Pendant les premiers mois (de la taille 1 à la taille 3), je me suis fournie presque exclusivement en couches Pampers sur Amazon : le budget tournait autour de 25 à 30 centimes la couche, beaucoup moins cher que les 35 à 50 centimes/couche constatés en grande surface. (Oui, la nana au supermarché qui calculait des trucs sur son smartphone au rayon bébé, c'était moi.)
 
 Avec 5-6 pipicacas par jour, on était quand même aux alentours de 1,80 € par jour, ce qui ne plaisait pas trop à mon petit cœur radin. (Même si c'était toujours mieux que 2 ou 3 €, certes.)
 
 Du coup, sur les conseils combinés de la nounou et d'un de mes collègues, j'ai commencé à mettre des couches de marque distributeur le jour, et des couches Pampers Baby Dry la nuit (parce que ça doit tenir 12 heures et presque autant de litres de pipi).
 
-Et, en termes de marques distributeur, les Lidl ont deux qualités intéressantes : elles coûtent environ 15 centimes pièce et elles n'irritent pas les fesses de Gaminette.
+Et, en termes de marques distributeur, les Lidl ont deux qualités intéressantes : elles coûtent environ 15 centimes pièce et elles n'irritent pas les fesses de Gaminette.
 
-Au final, avec chaque jour 5 couches Lidl et une couche Pampers achetée sur Amazon, mes couches me coûtent environ 1 € par jour. Je gagne pas loin de 20 € par mois par rapport à la solution « tout Amazon ». D€S $OU$ ! HAHA !
+Au final, avec chaque jour 5 couches Lidl et une couche Pampers achetée sur Amazon, mes couches me coûtent environ 1 € par jour. Je gagne pas loin de 20 € par mois par rapport à la solution « tout Amazon ». D€S $OU$ ! HAHA !
 
 ## La diversification à la cool
 
@@ -64,11 +64,11 @@ Malgré la diversification à la cool, je donnais quand même de temps en temps 
 
 Inspirée par un tweet de [Mère Geek](https://flugulu.wordpress.com), je suis allée m'acheter une GROSSE glace chez Häagen-Dazs (remarquez comme je donne de ma personne pour expérimenter, hein) afin de récupérer la petite cuillère en plastique.
 
-Cette petite cuillère est parfaite pour les petites bouches et les petites portions de purée. (En outre, c'est plutôt agréable de s'en procurer plusieurs !)
+Cette petite cuillère est parfaite pour les petites bouches et les petites portions de purée. (En outre, c'est plutôt agréable de s'en procurer plusieurs !)
 
 Sinon, on aime bien aussi les cuillères Börja Ikea… mais seulement les « longues ». 1,99 € les deux cuillères dont une seule cuillère intéressante. Ça reste toujours moins cher que les super cuillères à 6 € des magasins de puériculture…
 
 ## Voilà.
 
-C'était très intéressant. Merci d'avoir lu jusqu'ici. Soyons tous des mauvais parents mais des bons papas et mamans dans la joie et la bonne humeur !
+C'était très intéressant. Merci d'avoir lu jusqu'ici. Soyons tous des mauvais parents mais des bons papas et mamans dans la joie et la bonne humeur !
 
