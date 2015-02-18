@@ -54,7 +54,7 @@ Je vous renvoie sur [l'article correspondant de la poule pondeuse](http://www.po
 
 Il s'agit d'une variante « cool », pas trop dogmatique, du concept de Diversification Menée par l'enfant. Moi j'appelle ça « le kit mains libres ».
 
-Je donne des grands morceaux de légumes bien cuits et mous à Gaminette, qui mange avec ses doigts. Pendant qu'elle mange, je peux ranger la cuisine, <del>loose sur twitter</del>, ou manger mon propre repas tout en gardant un œil sur elle.
+Je donne des longs morceaux de légumes bien cuits ou de fruits bien mous à Gaminette, qui mange avec ses doigts. Pendant qu'elle mange, je peux ranger la cuisine, <del>looser sur twitter,</del> ou manger mon propre repas tout en gardant un œil sur elle.
 
 Il y a un peu de nettoyage à faire après… mais en fait, avec de la purée c'est pareil.
 
@@ -68,12 +68,7 @@ Cette petite cuillère est parfaite pour les petites bouches et les petites port
 
 Sinon, on aime bien aussi les cuillères Börja Ikea… mais seulement les « longues ». 1,99 € les deux cuillères dont une seule cuillère intéressante. Ça reste toujours moins cher que les super cuillères à 6 € des magasins de puériculture…
 
-## Porter beaucoup pendant la journée pour que le bébé soit zen le soir
+## Voilà.
 
-On entend souvent « ne le porte pas tout le temps, il va s'habituer et tu ne pourras jamais le poser dans son lit ! ». Ma sage-femme m'a dit l'inverse : « portez-la beaucoup pendant la journée, elle aura moins peur de la séparation quand le soir viendra ».
-
-Je ne sais pas si c'est une histoire de peur ou d'autre chose (genre le bébé porté qui est plus détendu en général donc plus détendu le soir), mais effectivement, porter la gaminette un peu tout le temps en journée nous a permis assez vite d'écourter, voire éviter, les pleurs du soir.
-
-On l'a portée dans un ring sling, pour l'aspect « écharpe » mais sans les nœuds.
-
+C'était très intéressant. Merci d'avoir lu jusqu'ici. Soyons tous des mauvais parents mais des bons papas et mamans dans la joie et la bonne humeur !
 
