@@ -5,7 +5,6 @@
 html, body { height: 100%; }
 
 body {
-  background: url(../img/lined.png) 50% 0;
   font: 13.34px "PT Serif", Georgia, serif;
   font-size: small;
   text-align: center;
@@ -60,8 +59,9 @@ body {
 }
 $sidebar_width: 17em;
 .sidebar {
-  background: hotpink;
+  background: url(../img/lined.png) 50% 0;
   bottom: 0;
+  box-shadow: 0 0 1em #ccc;
   font-family: 'Delius', cursive;
   left: 0;
   position: fixed;
