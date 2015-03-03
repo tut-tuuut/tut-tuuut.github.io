@@ -112,19 +112,6 @@ $sidebar_width: 17em;
     display: none;
   }
 }
-.header nav a {
-  color: #000;
-  text-decoration: none;
-  border-bottom: 1px solid #000;
-  display: inline-block;
-}
-.header nav a:hover {
-  border-bottom: 3px solid #f06;
-  color: #f06;
-}
-.header nav li + li a {
-  margin-left: 1em;
-}
 
 footer {
   font-size: 80%;
@@ -132,25 +119,21 @@ footer {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
-}
-
-footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-footer .contact a {
-  color: #8085C1;
-}
-
-footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-footer .rss img {
-  border: 0;
+  .contact {
+    float: left;
+    margin-right: 3em;
+    a {
+      color: #8085C1;
+    }
+  }
+  .rss {
+    margin-top: 1.1em;
+    margin-right: -.2em;
+    float: right;
+    img {
+      border: 0;
+    }
+  }
 }
 
 /*****************************************************************************/
@@ -160,33 +143,43 @@ footer .rss img {
 /*****************************************************************************/
 
 /* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
-
-.post ul, .post ol {
-  margin-left: 1.35em;
-}
-
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-.post pre code {
-  border: none;
+.post {
+  pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+    code {
+      border: none;
+    }
+  }
+  pre.terminal {
+    border: 1px solid #000;
+    background-color: #333;
+    color: #FFF;
+    code {
+      background-color: #333;
+    }
+  }
+  ul, ol {
+    margin-left: 1.35em;
+  }
+  code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .2em;
+  }
+  img {
+    max-width: 100%;
+  }
 }
  article ul {
   list-style: none;
   padding: 0;
- }
- article ul li:before {
-  content: "— ";
-  margin-left: -1.2em;
- }
+  li:before {
+    content: "— ";
+    margin-left: -1.2em;
+  }
+}
 header h1 {
   border-bottom: 4px double #ccc;
   margin: 0 0 1em;
@@ -203,19 +196,6 @@ header h1 {
   line-height: 1.5em;
   border: 1px solid #e9e9e9;
 }
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
-}
-.post img {
-  max-width: 100%;
-}
 .footnotes {
   font-size: .8em;
   line-height: 1.2em;
@@ -228,15 +208,11 @@ header h1 {
   padding: .5em 0;
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
-}
-.prevnext .before,
-.prevnext .after {
-  padding: .5em;
-  flex: 1 0;
-  align-self: center;
-}
-.prevnext .after {
-  text-align: right;
+  .before, .after {
+    padding: .5em;
+    flex: 1 0;
+    align-self: center;
+  }
 }
 .before + .after {
   border-left: 1px solid #ccc;
@@ -245,26 +221,26 @@ header h1 {
   display: table;
   border-collapse: separate;
   border-spacing: 0.2em;
-}
-.pagination .cell {
-  display: table-cell;
-  padding: 0 .5em;
-  border: 1px solid #ccc;
-  text-decoration: none;
-}
-.pagination a.cell:hover {
-  border-color: #888;
-}
-.pagination .disabled {
-  color: #ccc;
+  .cell {
+    display: table-cell;
+    padding: 0 .5em;
+    border: 1px solid #ccc;
+    text-decoration: none;
+  }
+  a.cell:hover {
+    border-color: #888;
+  }
+  .disabled {
+    color: #ccc;
+  }
 }
 .excerpt {
   font-size: 0.9em;
   line-height: 1.2em;
   padding: 0 1em;
-}
-.excerpt p {
-  margin: 0;
+  p {
+    margin: 0;
+  }
 }
 blockquote {
   color: #888;
