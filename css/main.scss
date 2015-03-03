@@ -1,3 +1,6 @@
+---
+---
+
 /* Global Reset */
 html, body { height: 100%; }
 
@@ -46,20 +49,33 @@ a:hover   { color: #f06; }
 /*
 /*****************************************************************************/
 
+// global layout
+body {
+  margin: 0;
+}
 .site {
   font-size: 165%;
   text-align: left;
-  max-width: 42em;
-  margin: 3em auto 2em;
   line-height: 1.5em;
 }
-.header {
+$sidebar_width: 17em;
+.sidebar {
+  background: hotpink;
+  bottom: 0;
   font-family: 'Delius', cursive;
-  margin-bottom: 2em;
-  min-height: 2em;
-}
-header a {
+  left: 0;
+  position: fixed;
   text-decoration: none;
+  top: 0;
+  width: $sidebar_width;
+}
+.content {
+  margin-left: $sidebar_width;
+  padding: 1.2em;
+  > .wrap {
+    max-width: 50em;
+    margin: 0 auto;
+  }
 }
 
 .title {
