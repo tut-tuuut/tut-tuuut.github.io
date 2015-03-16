@@ -50,6 +50,7 @@
 },false);
   (function dealWithScrollBarOnVerticalGrid() {
     var scrollBar = document.querySelector('.sidebar');
+    var stopButton = document.getElementById('srsly_stop_moving');
     var oldHiddenLines = 0;
     var stopMoving = false;
     var moveSideBarOnScroll = function onScroll(event) {
@@ -61,15 +62,39 @@
       scrollBar.style="top:"+positionOfScrollBar+'px';
     };
     document.addEventListener('scroll', moveSideBarOnScroll, false);
-    document.getElementById('srsly_stop_moving').addEventListener('click', function toggleStopMoving() {
+
+    var stopButtonMessages = [
+      'Oui, maître.',
+      'Youpi !',
+      'Très bien.',
+      'Wheeehee !',
+      'Je reste là.',
+      'Whouhouhouhou !',
+      'À vos ordres.',
+      'YEAH !',
+      'é_è',
+      'I like to move it',
+      'Muh.',
+      'MOVE IT!',
+      'é____è',
+      ':D',
+      'é________è',
+      'Allons-y !'
+    ];
+    var clicks = -1;
+    var nbOfMessages = stopButtonMessages.length;
+    function toggleStopMoving() {
+        clicks++;
+        var thisMessage = stopButtonMessages[clicks%nbOfMessages];
         if (!stopMoving) {
           stopMoving = true;
-          document.getElementById('srsly_stop_moving').innerHTML = 'Oui, maître !';
+          stopButton.innerHTML = thisMessage;
           return;
         }
         stopMoving = false;
-        document.getElementById('srsly_stop_moving').innerHTML = 'Youpi !';
-    });
+        stopButton.innerHTML = thisMessage;
+    }
+    document.getElementById('srsly_stop_moving').addEventListener('click', toggleStopMoving);
   })();
   
   </script>
