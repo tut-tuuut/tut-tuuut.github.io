@@ -131,17 +131,17 @@ $sidebar_width: 17em;
   display: inline;
 }
 @media (max-width: 700px) {
-  .header nav,
-  .title {
-    display: block;
-    margin: .5em 0;
-    text-align: center;
+  .sidebar {
+    position: static;
+    border: none;
+    width: auto;
   }
-  .site {
-    margin-top: .2em;
+  #srsly_stop_moving {
+    display: none;
   }
-  .posts h2 {
-    font-size: 1em;
+  .content {
+    margin: 0;
+    padding: 0 1em;
   }
 }
 
