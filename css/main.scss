@@ -10,7 +10,7 @@ body {
   text-align: center;
 }
 
-h1 { margin-bottom: 1em; font-family: 'Delius', cursive; font-weight: normal;}
+h1 { margin: 0 0 1em; font-family: 'Delius', cursive; font-weight: normal;}
 h2 {
   margin: 1.3333333em 0;
 }
@@ -36,19 +36,17 @@ a:hover   { color: #f06; }
 /*****************************************************************************/
 .posts {
   margin-bottom: 2em;
-}
-
-.posts h2 {
-  margin: 1em 0 0;
-  font-family: 'Delius', cursive;
-  font-weight: normal;
-}
-.posts h2 a {
-  text-decoration: none;
-}
-.posts .date {
-  font-size: 0.8em;
-  font-style: italic;
+  h2 {
+    margin-bottom: 0;
+    font-family: 'Delius', cursive;
+    font-weight: normal;
+    a {
+      text-decoration: none;
+    }
+  }
+  .date {
+    font-style: italic;
+  }
 }
 
 /*****************************************************************************/
@@ -134,9 +132,6 @@ $sidebar_width: 17em;
   }
   .posts h2 {
     font-size: 1em;
-  }
-  .excerpt {
-    display: none;
   }
 }
 
@@ -275,14 +270,7 @@ header h1 {
     color: #ccc;
   }
 }
-.excerpt {
-  font-size: 0.9em;
-  line-height: 1.2em;
-  padding: 0 1em;
-  p {
-    margin: 0;
-  }
-}
+
 blockquote {
   color: #888;
   font-style: italic;

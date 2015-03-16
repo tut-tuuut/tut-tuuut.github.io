@@ -3,6 +3,7 @@ layout: post
 title:  "Mes astuces de « mauvaise mère »"
 categories: maman
 tags: boules-quies
+excerpt: Depuis le temps que je voulais écrire un article sur les astuces « non recommandées par les bouquins » qui m'ont permis de survivre à la cohabitation avec Gaminette…
 ---
 
 Je vous encourage à lire l'article « [Mauvaises mères et bonnes mamans](http://yahoo.mamantravaille.fr/maman_travaille/2015/02/mauvaises-m%C3%A8res-et-bonnes-mamans.html) » sur Maman Travaille. Elle explique qu'on peut être une « mauvaise mère » si on ne s'occupe pas du bébé comme dans les livres ou les magazines, mais que ce n'est pas la même chose qu'être une « mauvaise maman ».
