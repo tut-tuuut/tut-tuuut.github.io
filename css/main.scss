@@ -74,15 +74,28 @@ body {
 }
 $sidebar_width: 17em;
 .sidebar {
-  background: url(../img/lined.png) 50% 0;
-  bottom: 0;
-  box-shadow: 0 0 1em #ccc;
   font-family: 'Delius', cursive;
   left: 0;
-  position: fixed;
+  position: absolute;
   text-decoration: none;
   top: 0;
   width: $sidebar_width;
+  border-right: 1px solid #ccc;
+  text-align: center;
+  transition-property: all;
+  transition-duration: .9s;
+  nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline;
+        &+ li:before {
+          content: ' • ';
+        }
+      }
+    }
+  }
 }
 .content {
   margin-left: $sidebar_width;
@@ -94,10 +107,9 @@ $sidebar_width: 17em;
 }
 
 .title {
-  display: inline-block;
-  letter-spacing: 2px;
   font-size: 2em;
-  margin: 0 2em 0 0;
+  margin: 1em 0;
+  text-align: center;
 }
 
 .title a {

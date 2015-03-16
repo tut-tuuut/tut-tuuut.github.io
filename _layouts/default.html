@@ -40,14 +40,27 @@
     s.parentNode.insertBefore(wf, s);
   })(); </script>
   <script>
-  document.addEventListener("DOMContentLoaded", function load(event){
-     var imgs = document.querySelectorAll('img');
+  document.addEventListener("DOMContentLoaded", function resizeImages(event){
+    var imgs = document.querySelectorAll('img');
     var lineHeight = 40; // pixels
     [].forEach.call(imgs, function(e) {
-      var nbOfLines = Math.round(e.naturalHeight / lineHeight);
-      e.classList.add('image-' + nbOfLines)
+    var nbOfLines = Math.round(e.naturalHeight / lineHeight);
+    e.classList.add('image-' + nbOfLines)
     })
 },false);
+  (function dealWithScrollBarOnVerticalGrid() {
+    var scrollBar = document.querySelector('.sidebar');
+    var oldHiddenLines = 0;
+    var moveSideBarOnScroll = function onScroll(event) {
+      var hiddenLines = Math.floor(event.pageY / 40);
+      if (hiddenLines == oldHiddenLines) { return; }
+      var positionOfScrollBar = hiddenLines * 40;
+      oldHiddenLines = hiddenLines;
+      scrollBar.style="top:"+positionOfScrollBar+'px';
+    };
+    document.addEventListener('scroll', moveSideBarOnScroll);
+  })();
+  
   </script>
     </body>
 </html>
