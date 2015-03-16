@@ -135,40 +135,6 @@ $sidebar_width: 17em;
   }
 }
 
-footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  overflow: hidden;
-  margin-top: -4px;
-  position: relative;
-  line-height: 2.5em;
-
-  p {
-    margin: 1.25em 0;
-  }
-  article {
-    margin-bottom: 3em;
-  }
-
-  .contact {
-    float: left;
-    margin-right: 3em;
-    a {
-      color: #8085C1;
-    }
-  }
-
-  .rss {
-    margin-top: 1.1em;
-    margin-right: -.2em;
-    float: right;
-    img {
-      border: 0;
-    }
-  }
-}
-
 /*****************************************************************************/
 /*
 /* Posts
@@ -255,13 +221,14 @@ header h1 {
 }
 .pagination {
   display: table;
-  border-collapse: separate;
-  border-spacing: 0.2em;
   .cell {
     display: table-cell;
-    padding: 0 .5em;
-    border: 1px solid #ccc;
+    padding: 0 2em;
     text-decoration: none;
+  }
+  a.cell {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
   }
   a.cell:hover {
     border-color: #888;
