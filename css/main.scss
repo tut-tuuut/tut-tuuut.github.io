@@ -14,6 +14,15 @@ h1 { margin: 0 0 1em; font-family: 'Delius', cursive; font-weight: normal;}
 h2 {
   margin: 1.3333333em 0;
 }
+h3 {
+    font-size: 1.3em;
+    margin: 1.53846154em 0;
+}
+h4 {
+    font-size: 1.1em;
+    margin: 1.81818181em 0;
+}
+
 p {
   margin: 2em 0;
   code {
@@ -28,6 +37,7 @@ a:hover   { color: #f06; }
 
 .center {
   text-align: center !important;
+  height: 16em; // used for youtube videos
 }
 /*****************************************************************************/
 /*
@@ -196,7 +206,6 @@ header h1 {
 }
 .footnotes {
   font-size: .8em;
-  line-height: 1.2em;
 }
 .footnote {
   text-decoration: none;
@@ -251,5 +260,9 @@ blockquote {
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
   padding: 0 .7em;
+}
+.twitter-tweet-rendered {
+  margin: 1em 0 !important;
+  height: 11.8em;
 }
 
