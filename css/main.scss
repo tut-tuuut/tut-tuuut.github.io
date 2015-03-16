@@ -171,10 +171,13 @@ footer {
 /* standard */
 .post {
   img {
-      height: 560px;
-      width: auto;
-      display: block;
-    }
+    height: 560px;
+    width: auto;
+    display: block;
+  }
+  @for $i from 1 through 14 {
+    .image-#{$i} { height: 40px * $i; }
+  }
   pre {
     border-left: 3px solid #ccc;
     padding: 0 .4em;
@@ -282,3 +285,4 @@ blockquote {
   border-right: 1px solid #ccc;
   padding: 0 .7em;
 }
+

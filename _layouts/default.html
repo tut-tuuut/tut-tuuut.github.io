@@ -39,5 +39,15 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(wf, s);
   })(); </script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function load(event){
+     var imgs = document.querySelectorAll('img');
+    var lineHeight = 40; // pixels
+    [].forEach.call(imgs, function(e) {
+      var nbOfLines = Math.round(e.naturalHeight / lineHeight);
+      e.classList.add('image-' + nbOfLines)
+    })
+},false);
+  </script>
     </body>
 </html>
