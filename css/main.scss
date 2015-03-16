@@ -92,6 +92,12 @@ $sidebar_width: 17em;
   text-align: center;
   transition-property: all;
   transition-duration: .9s;
+  #srsly_stop_moving {
+    display: none;
+  }
+  &.moved #srsly_stop_moving {
+    display: inline;
+  }
   nav {
     ul {
       margin: 0;
