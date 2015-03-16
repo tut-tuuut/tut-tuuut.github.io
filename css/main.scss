@@ -142,7 +142,8 @@ $sidebar_width: 17em;
     border: none;
     width: auto;
   }
-  #srsly_stop_moving {
+  #srsly_stop_moving,
+  .sidebar.moved #srsly_stop_moving {
     display: none;
   }
   .content {
