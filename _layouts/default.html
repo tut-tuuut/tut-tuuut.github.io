@@ -51,14 +51,25 @@
   (function dealWithScrollBarOnVerticalGrid() {
     var scrollBar = document.querySelector('.sidebar');
     var oldHiddenLines = 0;
+    var stopMoving = false;
     var moveSideBarOnScroll = function onScroll(event) {
+      if (stopMoving) { return; }
       var hiddenLines = Math.floor(event.pageY / 40);
       if (hiddenLines == oldHiddenLines) { return; }
       var positionOfScrollBar = hiddenLines * 40;
       oldHiddenLines = hiddenLines;
       scrollBar.style="top:"+positionOfScrollBar+'px';
     };
-    document.addEventListener('scroll', moveSideBarOnScroll);
+    document.addEventListener('scroll', moveSideBarOnScroll, false);
+    document.getElementById('srsly_stop_moving').addEventListener('click', function toggleStopMoving() {
+        if (!stopMoving) {
+          stopMoving = true;
+          document.getElementById('srsly_stop_moving').innerHTML = 'Oui, maître !';
+          return;
+        }
+        stopMoving = false;
+        document.getElementById('srsly_stop_moving').innerHTML = 'Youpi !';
+    });
   })();
   
   </script>
