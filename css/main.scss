@@ -141,21 +141,7 @@ $sidebar_width: 17em;
 .header nav ul li {
   display: inline;
 }
-@media (max-width: 700px) {
-  .sidebar {
-    position: static;
-    border: none;
-    width: auto;
-  }
-  #srsly_stop_moving,
-  .sidebar.moved #srsly_stop_moving {
-    display: none;
-  }
-  .content {
-    margin: 0;
-    padding: 0 1em;
-  }
-}
+
 
 /*****************************************************************************/
 /*
@@ -276,5 +262,31 @@ blockquote {
 .twitter-tweet-rendered {
   margin: 1em 0 !important;
   height: 11.8em;
+}
+
+
+@media (max-width: 700px) {
+  .sidebar {
+    position: static;
+    border: none;
+    width: auto;
+  }
+  #srsly_stop_moving,
+  .sidebar.moved #srsly_stop_moving {
+    display: none;
+  }
+  .content {
+    margin: 0;
+    padding: 0 1em;
+  }
+  .pagination {
+    width: 100%;
+    margin-bottom: 2em;
+    .cell {
+      padding: 0;
+      text-align: center;
+      vertical-align: middle;
+    }
+  }
 }
 
