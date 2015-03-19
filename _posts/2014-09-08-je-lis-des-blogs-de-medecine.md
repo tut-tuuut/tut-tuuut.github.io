@@ -5,7 +5,7 @@ tags: blog medecin
 categories: perso
 ---
 
-Depuis quatre ou cinq ans, au moins, je lis des blogs et des twitter de médecin.§§§ Je ne sais plus comment j'ai commencé. J'ai probablement vu un tweet de Jaddo, qui donnait un lien vers son blog, et j'ai lu le blog en entier. J'ai enchaîné sur d'autres blogs, d'autres comptes twitter…  
+Depuis quatre ou cinq ans, au moins, je lis des blogs et des twitter de médecin.<!-- more --> Je ne sais plus comment j'ai commencé. J'ai probablement vu un tweet de Jaddo, qui donnait un lien vers son blog, et j'ai lu le blog en entier. J'ai enchaîné sur d'autres blogs, d'autres comptes twitter…  
 J'ai découvert les blogs de sages-femmes et les comptes twitter qui allaient avec. Et dans la foulée, un blog de vétérinaire hyper instructif et bien écrit. J'ai même trouvé un blog de dentiste que j'aime beaucoup.
 
 Et ma thèse, là, pour faire court, c'est que vous, en tant que patients, devriez vous aussi lire des blogs de médecine.
