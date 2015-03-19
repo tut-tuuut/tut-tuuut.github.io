@@ -4,7 +4,7 @@ title:  "Alice on the run : le défi créatif secret"
 categories: jeu
 ---
 
-Voici un peu plus d'un an, un de nos bons amis fêtait ses trente ans. Il n'avait rien fêté ni mis en valeur son nouvel âge un peu fou…§§§ Donc, quelques mois (= onze mois) plus tard, la bande de joyeux lurons fans de jeux de société que nous sommes a décidé de lui fomenter un merveilleux « non anniversaire » surprise.
+Voici un peu plus d'un an, un de nos bons amis fêtait ses trente ans. Il n'avait rien fêté ni mis en valeur son nouvel âge un peu fou…<!-- more --> Donc, quelques mois (= onze mois) plus tard, la bande de joyeux lurons fans de jeux de société que nous sommes a décidé de lui fomenter un merveilleux « non anniversaire » surprise.
 
 De fil en aiguille, en cherchant le cadeau que nous pourrions lui offrir, nous avons décidé de lui offrir un remake du jeu [« Nuns on the run »][nunsrun] qu'il adore… Un remake intitulé « Alice on the run », sur le thème d'Alice au pays des merveilles, puisque c'était pour fêter un non-anniversaire !
 

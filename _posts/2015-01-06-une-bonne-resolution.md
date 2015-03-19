@@ -5,7 +5,7 @@ categories: divers
 tags: 53BilletsEn2014
 ---
 
-J'ai découvert le projet « [53 billets en 2014][greenwitch] » en même temps que le blog de GreenWitch. Le principe est d'écrire un billet chaque semaine sur un thème donné, les thèmes tournant plutôt autour de la pensée positive.§§§ J'aime bien l'idée d'écrire un peu chaque semaine, sans pression, et avoir avec moi une petite communauté de gens qui font la même chose m'aiderait peut-être à gagner plus de régularité.
+J'ai découvert le projet « [53 billets en 2014][greenwitch] » en même temps que le blog de GreenWitch. Le principe est d'écrire un billet chaque semaine sur un thème donné, les thèmes tournant plutôt autour de la pensée positive.<!-- more --> J'aime bien l'idée d'écrire un peu chaque semaine, sans pression, et avoir avec moi une petite communauté de gens qui font la même chose m'aiderait peut-être à gagner plus de régularité.
 
 Du coup, je me lance. Les thèmes devraient me convenir, dans la mesure où je suis un bisounours, mais je m'autorise tout à fait à dévier du thème ou à m'en inspirer de façon… disons… inattendue.
 
