@@ -9,7 +9,7 @@ excerpt: L'amidon est une molécule rigolote. Il entre en jeu par exemple dans l
 
 L'amidon est une molécule rigolote. Il entre en jeu par exemple dans la fabrication du pop-corn.
 
-<div class="center"><iframe width="420" height="315" src="//www.youtube.com/embed/yv7DZ7tY-bM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="center video"><iframe width="420" height="315" src="//www.youtube.com/embed/yv7DZ7tY-bM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Mais ce dont je veux vous parler aujourd'hui, ce n'est pas du pop-corn, c'est de l'eau-Maïzena.
 
@@ -29,15 +29,15 @@ Bon. Les jolis mots qui font peur, c'est bien… mais concrètement, qu'est-ce q
 
 Par contre, tu peux jongler avec, le faire passer d'une main à l'autre, et tu n'en mettras pas par terre.
 
-<div class="center"><iframe width="420" height="315" src="//www.youtube.com/embed/K98ZVl2ZqS4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="center video"><iframe width="420" height="315" src="//www.youtube.com/embed/K98ZVl2ZqS4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Il y a des gens qui se sont amusés à remplir une piscine de cette chose et qui jouent à marcher sur l'eau.
 
-<div class="center"><iframe width="420" height="315" src="//www.youtube.com/embed/f2XQ97XHjVw?rel=0&amp;t=1m35s" frameborder="0" allowfullscreen></iframe></div>
+<div class="center video"><iframe width="420" height="315" src="//www.youtube.com/embed/f2XQ97XHjVw?rel=0&amp;t=1m35s" frameborder="0" allowfullscreen></iframe></div>
 
 Mais l'application la plus évidente de ce fluide reste bien évidemment de pouvoir faire danser un flubber en Maïzena sur fond de Dubstep.
 
-<div class="center"><iframe width="560" height="315" src="//www.youtube.com/embed/1L5SJUOv_Ts?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="center video"><iframe width="560" height="315" src="//www.youtube.com/embed/1L5SJUOv_Ts?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Voilà ! C'était mon petit quart d'heure « la physique amusante ».
 
