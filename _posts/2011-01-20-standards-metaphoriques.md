@@ -5,7 +5,7 @@ categories: tech
 tags: html standard w3c
 ---
 
-Bonjour. Vous le savez peut-être, mon métier dans la vie, c’est de faire des sites web. En gros. Je ne fais pas tout dans les sites web, mais l’idée est là.
+Bonjour. Vous le savez peut-être, mon métier dans la vie, c’est de faire des sites web. En gros. Je ne fais pas tout dans les sites web, mais l’idée est là.<!-- more -->
 
 Quand le métier de quelqu’un est de faire des sites web, son devoir est de respecter les standards du web, dans la mesure du possible. En général c’est assez possible, il y a quelques règles à connaître, et il ne faut pas avoir peur de vérifier les autres. Les standards du web sont écrits par un groupe de gens d’origines et de métiers divers, regroupés sous le nom de W3C. Ces gens-là écrivent dans des longues recommandations comment on doit écrire le code HTML qui constitue les pages que vous lisez, donnent des conférences techniques pour informer les gens et recruter des joueurs de loup-garou[^loupgarou], et ont un travail et une vie en dehors du W3C. Si j’ai bien compris.
 
