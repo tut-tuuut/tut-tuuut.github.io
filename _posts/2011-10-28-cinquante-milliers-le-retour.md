@@ -3,6 +3,7 @@ layout: post
 title:  "Cinquante milliers. Le retour."
 tags: futur style
 categories: ecriture orthographe
+excerpt: Voici ma déclaration d’intentions pour le NaNoWriMo 2011.
 ---
 
 Bonjour, lecteur égaré qui te souviens de l’adresse de mon blog !
@@ -21,7 +22,7 @@ Mon roman sera toujours un texte de **science-fiction** cette année, mais j’a
 
 ## Le mot du neurone geek
 
-Je versionnerai aussi quotidiennement, [sur mon profil github][https://github.com/tut-tuuut], le fichier Scrivener et les différents fichiers annexes (le HTML lisible, les feuilles de comptage des mots au format tableur, etc.). Dans la mesure où le fichier Scrivener (le dossier .scriv, là) contient tous mes documents préparatoires, c’est un vrai petit nid de spoilers et donc je vous déconseille formellement d’aller le voir.
+Je versionnerai aussi quotidiennement, [sur mon profil github](https://github.com/tut-tuuut), le fichier Scrivener et les différents fichiers annexes (le HTML lisible, les feuilles de comptage des mots au format tableur, etc.). Dans la mesure où le fichier Scrivener (le dossier .scriv, là) contient tous mes documents préparatoires, c’est un vrai petit nid de spoilers et donc je vous déconseille formellement d’aller le voir.
 
 L’an dernier, je manquais d’un moyen de sauvegarder en lieu sûr les versions successives de mon roman, et je pense que cette sécurité supplémentaire sera un atout non négligeable si je compte un jour exploiter sérieusement le texte que je produirai en novembre.
 
