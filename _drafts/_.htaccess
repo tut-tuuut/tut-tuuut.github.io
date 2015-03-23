@@ -1,12 +1,13 @@
-Redirect 301 /2013/07/bons-cotes/
-Redirect 301 /2013/07/quand-je-suis-sympa-je-vomis/
-Redirect 301 /2013/07/statistiques/
-Redirect 301 /2013/07/instant-pedagogique-lage-dune-grossesse/
-Redirect 301 /2013/07/lechographie-de-datation-des-images-saisissantes/
-Redirect 301 /2013/07/28-jours-a-peu-pres/
+Redirect 301 /2013/07/bons-cotes/ http://tut-tuuut.github.io/2013/07/21/les-bons-cotes.html
+Redirect 301 /2013/07/quand-je-suis-sympa-je-vomis/ http://tut-tuuut.github.io/2013/07/19/quand-je-suis-sympa-je-vomis.html
+Redirect 301 /2013/07/ce-quon-ne-dit-pas-dans-les-bouquins-sur-la-grossesse/ http://tut-tuuut.github.io/2013/07/17/les-bouquins-sur-la-grossesse.html
+Redirect 301 /2013/07/statistiques/ http://tut-tuuut.github.io/2013/07/15/statistiques.html
+Redirect 301 /2013/07/instant-pedagogique-lage-dune-grossesse/ http://tut-tuuut.github.io/2013/07/13/l-age-d-une-grossesse.html
+Redirect 301 /2013/07/lechographie-de-datation-des-images-saisissantes/ http://tut-tuuut.github.io/2013/07/11/l-echo-de-datation.html
+Redirect 301 /2013/07/28-jours-a-peu-pres/ http://tut-tuuut.github.io/2013/07/09/28-jours-a-peu-pres.html
 Redirect 301 /2013/07/vla-autre-chose/ http://tut-tuuut.github.io/2013/07/07/vla-autre-chose.html
-Redirect 301 /2012/06/diapos-des-conferences-du-web-event-lyon-n4/
-Redirect 301 /2012/03/patates-ninja/
+Redirect 301 /2012/06/diapos-des-conferences-du-web-event-lyon-n4/ http://tut-tuuut.github.io/2012/06/15/web-event.html
+Redirect 301 /2012/03/patates-ninja/ http://tut-tuuut.github.io/2013/03/28/patates-ninja.html
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
