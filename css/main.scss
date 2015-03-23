@@ -264,6 +264,15 @@ blockquote {
   height: 11.8em;
 }
 
+table {
+  border-collapse: collapse;
+  td, th {
+    padding: 0 1em;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
+}
+
 
 @media (max-width: 700px) {
   .sidebar {
