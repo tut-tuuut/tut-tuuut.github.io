@@ -19,6 +19,12 @@ Redirect 301 /2011/03/ce-blog-ne-mange-pas-de-chatons/ http://tut-tuuut.github.i
 Redirect 301 /2011/01/standards-metaphoriques/ http://tut-tuuut.github.io/2011/01/20/standards-metaphoriques.html
 Redirect 301 /2011/01/ceci-est-un-test/ http://tut-tuuut.github.io/2011/01/18/ceci-est-un-test.html
 
+Redirect 301 /2010/12/nouveaux-habits/ http://tut-tuuut.github.io/2010/12/05/nouveaux-habits.html
+Redirect 301 /2010/12/travaux-chapeau-pointu/ http://tut-tuuut.github.io/2010/12/03/travaux-chapeau-pointu.html
+Redirect 301 /2010/12/bilan-du-national-novel-writing-month/ http://tut-tuuut.github.io/2010/12/01/bilan-du-national-novel-writing-month.html
+Redirect 301 /2010/11/bilan-du-lendemain/ http://tut-tuuut.github.io/2010/11/30/bilan-du-lendemain.html
+Redirect 301 /2010/11/en-attendant-un-bilan-final/ http://tut-tuuut.github.io/2010/11/29/en-attendant-un-bilan-final.html
+
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
