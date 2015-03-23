@@ -1,4 +1,12 @@
+Redirect 301 /2013/07/bons-cotes/
+Redirect 301 /2013/07/quand-je-suis-sympa-je-vomis/
+Redirect 301 /2013/07/statistiques/
+Redirect 301 /2013/07/instant-pedagogique-lage-dune-grossesse/
+Redirect 301 /2013/07/lechographie-de-datation-des-images-saisissantes/
+Redirect 301 /2013/07/28-jours-a-peu-pres/
 Redirect 301 /2013/07/vla-autre-chose/ http://tut-tuuut.github.io/2013/07/07/vla-autre-chose.html
+Redirect 301 /2012/06/diapos-des-conferences-du-web-event-lyon-n4/
+Redirect 301 /2012/03/patates-ninja/
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
