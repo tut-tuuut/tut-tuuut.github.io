@@ -6,8 +6,19 @@ Redirect 301 /2013/07/instant-pedagogique-lage-dune-grossesse/ http://tut-tuuut.
 Redirect 301 /2013/07/lechographie-de-datation-des-images-saisissantes/ http://tut-tuuut.github.io/2013/07/11/l-echo-de-datation.html
 Redirect 301 /2013/07/28-jours-a-peu-pres/ http://tut-tuuut.github.io/2013/07/09/28-jours-a-peu-pres.html
 Redirect 301 /2013/07/vla-autre-chose/ http://tut-tuuut.github.io/2013/07/07/vla-autre-chose.html
+
 Redirect 301 /2012/06/diapos-des-conferences-du-web-event-lyon-n4/ http://tut-tuuut.github.io/2012/06/15/web-event.html
 Redirect 301 /2012/03/patates-ninja/ http://tut-tuuut.github.io/2013/03/28/patates-ninja.html
+
+Redirect 301 /2011/12/le-futur-proche-va-devoir-etre-consomme-avec-moderation/ http://tut-tuuut.github.io/2011/12/26/le-futur-proche.html
+Redirect 301 /2011/10/cinquante-milliers-le-retour/ http://tut-tuuut.github.io/2011/10/28/cinquante-milliers-le-retour.html
+Redirect 301 /2011/06/marketing-%c2%ab-cible-%c2%bb/ http://tut-tuuut.github.io/2011/06/28/marketing-cible.html
+Redirect 301 /2011/06/obslescence-programmee/ http://tut-tuuut.github.io/2011/06/09/obslescence-programmee.html
+Redirect 301 /2011/04/tout-doit-disparaitre/ http://tut-tuuut.github.io/2011/04/04/tout-doit-disparaitre.html
+Redirect 301 /2011/03/ce-blog-ne-mange-pas-de-chatons/ http://tut-tuuut.github.io/2011/03/22/ce-blog-ne-mange-pas-de-chatons.html
+Redirect 301 /2011/01/standards-metaphoriques/ http://tut-tuuut.github.io/2011/01/20/standards-metaphoriques.html
+Redirect 301 /2011/01/ceci-est-un-test/ http://tut-tuuut.github.io/2011/01/18/ceci-est-un-test.html
+
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
