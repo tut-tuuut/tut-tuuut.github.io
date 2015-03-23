@@ -1,8 +1,13 @@
 name: Tûtie’s blog
 markdown: kramdown
-pygments: true
+highlighter: pygments
 url: http://tut-tuuut.github.io
 permalink: /:year/:month/:day/:title.html
+paginate: 5
+paginate_path: "blog/page:num/"
+excerpt_separator: "<!-- more -->"
+gems:
+  - jekyll-sitemap
 sass:
-    sass_dir: css
-    style: compressed
+  sass_dir: css
+  style: compressed

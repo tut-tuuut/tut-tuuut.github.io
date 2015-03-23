@@ -10,6 +10,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 ![Premier profil d'urgence](/img/2014/05/costdelay1.png)
 
+![Légende de l'image](/img/2014/06/e-ink-principe.png)
+
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
