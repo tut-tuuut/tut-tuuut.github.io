@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "La boussole des patates ninja"
-category: tech
+category: tech dessin
 ---
 
-Ce soir j’ai découvert les opérateurs binaires (ou bit à bit) en programmation, et — surtout – des cas d’utilisation concrète. Comme à chaque fois que je découvre un truc chouette, je suis toute contente.
+Ce soir j’ai découvert les opérateurs binaires (ou bit à bit) en programmation, et — surtout – des cas d’utilisation concrète.<!-- more --> Comme à chaque fois que je découvre un truc chouette, je suis toute contente.
 
 ![](/img/2012/binaires1.png)
 
@@ -44,7 +44,7 @@ Et elle se déplace dans un monde où il existe **4 directions** : le nord, le s
 
 En réalité, vous utiliserez 1, 2, 4 et 8 dans votre programme. Une sombre histoire de compter en binaire, que je ne sais expliquer qu’avec des shadoks.
 
-Quand tout est simple, si vous voulez déplacer votre ninja de coordonnées x et y, vous regardez dans quelle direction il va et vous agissez en conséquence :
+Quand tout est simple, si vous voulez déplacer votre ninja de coordonnées `x` et `y, vous regardez dans quelle direction il va et vous agissez en conséquence :
 
 <pre>
 si directionDuNinja == NORD alors y_du_ninja = y_du_ninja + 1 ;
@@ -57,15 +57,15 @@ Sauf que ! Sauf que votre ninja peut très bien aller dans deux directions à la
 
 ![](/img/2012/binaires9.png)
 
-C’est un peu la louze là, parce qu’il va en même temps vers le sud et vers l’est. Qu’est-ce qu’on met dans la variable directionDuNinja ? On fait une direction SUDEST est on ajoute des millions de tests ?
+C’est un peu la louze là, parce qu’il va en même temps vers le sud et vers l’est. Qu’est-ce qu’on met dans la variable `directionDuNinja` ? On fait une direction `SUDEST` et on ajoute des millions de tests ?
 
-On aurait des trucs du genre si direction == sud ou sud-est ou sud-ouest, alors le y_du_ninja = -1, et des conditions en plus sur toutes les directions.
+On aurait des trucs du genre « si direction == sud ou sud-est ou sud-ouest », alors le « y_du_ninja = -1 », et des conditions en plus sur toutes les directions.
 
-Regardons ce que ça donne quand on sort nos opérateurs binaires. D’abord, **donnons une valeur adéquate à la direction SUDEST…**
+Regardons ce que ça donne quand on sort nos opérateurs binaires. D’abord, **donnons une valeur adéquate à la direction `SUDEST`…**
 
 ![](/img/2012/binaires10.png)
 
-Et ensuite, regardons à tout hasard ce que donne l’opérateur `&…
+Et ensuite, regardons à tout hasard ce que donne l’opérateur `&`…
 
 ![](/img/2012/binaires11.png)
 

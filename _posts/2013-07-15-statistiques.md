@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Statistiques"
-categories: maman
+categories: maman dessin
+excerpt: "98 % gras, 2 % utérus."
 ---
 
 ![12 SA : DU VENTRE ! Hmm, c'est quand même très compressible. À vue de nez, je dirais 98% gras, 2% utérus. Pouic pouic](/img/2013/130715.png)

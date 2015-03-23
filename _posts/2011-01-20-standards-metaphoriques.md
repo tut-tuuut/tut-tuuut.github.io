@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Standards métaphoriques"
-categories: tech
+categories: tech dessin
 tags: html standard w3c
 ---
 

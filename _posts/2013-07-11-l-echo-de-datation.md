@@ -4,7 +4,7 @@ title: "L’échographie de datation, des images (plus) saisissantes (qu’elles
 categories: maman
 ---
 
-L’échographie de datation, ça sert surtout à savoir depuis quand une femme est enceinte. Accessoirement, ça permet de vérifier que l’embryon est situé à peu près là où il faut (dans l’utérus, et pas ailleurs), et de voir si l’embryon a des copains embryons avec lui.
+L’échographie de datation, ça sert surtout à savoir depuis quand une femme est enceinte.<!-- more --> Accessoirement, ça permet de vérifier que l’embryon est situé à peu près là où il faut (dans l’utérus, et pas ailleurs), et de voir si l’embryon a des copains embryons avec lui.
 
 En général, comme c’est le tout début de grossesse… c’est tout ce qu’on voit.
 

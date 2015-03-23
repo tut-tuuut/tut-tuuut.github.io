@@ -1,7 +1,8 @@
 ---
 title: "Quand je suis sympa, je vomis"
 layout: post
-categories: maman
+categories: maman dessin
+excerpt: "En tout début de grossesse, travaillant à Perpète-les-oies, j’étais allée voir le médecin de garde, qui a répondu rapidement à mes quelques questions."
 ---
 
 En tout début de grossesse, travaillant à Perpète-les-oies, j’étais allée voir le médecin de garde, qui a répondu rapidement à mes quelques questions :

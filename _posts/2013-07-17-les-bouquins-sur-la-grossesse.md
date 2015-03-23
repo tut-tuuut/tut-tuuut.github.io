@@ -1,7 +1,8 @@
 ---
 title: "Ce qu’on ne dit pas dans les bouquins sur la grossesse"
 layout: post
-categories: tech maman
+categories: tech maman dessin
+excerpt: "Je me souviens très exactement du jour où j’ai commencé à me promener la braguette ouverte parce que mon bas-ventre devenait incompressible. C’était mi-mai, quand j’ai donné ma conf à Sud Web."
 ---
 
 ![Aujourd'hui, ça fait un mois que je bosse la braguette ouverte, avec des hauts longs, pour que ça ne se voie pas.](/img/2013/130717.png)

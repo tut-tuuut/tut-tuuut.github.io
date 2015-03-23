@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ceci est un test"
-category: tech
+category: tech dessin
 tags: CSS HTML webdesign
 excerpt: Bonne année 2011. En effet, c’est la première note de l’année !
 ---

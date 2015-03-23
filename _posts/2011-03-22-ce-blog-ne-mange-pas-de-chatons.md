@@ -2,7 +2,7 @@
 layout: post
 title:  "Ce blog ne mange pas de chatons"
 date:   2011-03-22 22:08:21
-categories: orthographe
+categories: orthographe dessin
 tags: chaton conjugaison grammaire
 ---
 

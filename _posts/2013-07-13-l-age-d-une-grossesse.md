@@ -2,6 +2,7 @@
 layout: post
 title: "Instant pédagogique : l’âge d’une grossesse"
 categories: maman
+excerpt: "C’est encore moi. Je vais encore parler de grossesse."
 ---
 
 Bijour.

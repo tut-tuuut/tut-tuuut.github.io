@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Tout doit disparaître"
-categories: fille useless
+categories: fille useless dessin
 tags: papeterie promotion pub
 ---
 
-Sans caricaturer aucunement, j’ai très peur des magasins de fringues, surtout en période d’affluence. J’arrive à y poser un orteil en période ultra-creuse, si les circonstances l’exigent absolument. De même, je redoute les grands magasins qui nous assomment de promotions « exceptionnelles », agressives et agrémentées de spots bruyants, qui augmentent significativement mes migraines sans diminuer réellement l’addition…
+Sans caricaturer aucunement, j’ai très peur des magasins de fringues, surtout en période d’affluence.<!-- more --> J’arrive à y poser un orteil en période ultra-creuse, si les circonstances l’exigent absolument. De même, je redoute les grands magasins qui nous assomment de promotions « exceptionnelles », agressives et agrémentées de spots bruyants, qui augmentent significativement mes migraines sans diminuer réellement l’addition…
 
 Cependant, un type de magasin (physique) résiste encore et toujours à mes angoisses, et me transforme en bête assoiffée de l’achat, en esclave aveugle toutes les promotions.
 

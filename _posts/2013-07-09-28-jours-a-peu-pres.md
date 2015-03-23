@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "28 jours à peu près"
-categories: maman
+categories: maman dessin
+excerpt: "Ah, la régularité de mes cycles…"
 ---
 
 
