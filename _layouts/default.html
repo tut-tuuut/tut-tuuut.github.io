@@ -55,14 +55,14 @@
     var stopMoving = false;
     var moveSideBarOnScroll = function onScroll(event) {
       if (stopMoving) { return; }
-      var hiddenLines = Math.floor(event.pageY / 40);
+      var hiddenLines = Math.floor(window.scrollY / 40);
       if (hiddenLines == oldHiddenLines) { return; }
       if (hiddenLines >= 13) {
         scrollBar.classList.add('moved');
       }
       var positionOfScrollBar = hiddenLines * 40;
       oldHiddenLines = hiddenLines;
-      scrollBar.style="top:"+positionOfScrollBar+'px';
+      scrollBar.style.top = positionOfScrollBar+'px';
     };
     document.addEventListener('scroll', moveSideBarOnScroll, false);
 
