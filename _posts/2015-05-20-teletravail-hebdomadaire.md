@@ -17,7 +17,7 @@ J'arrivais au travail vers 9h05-9h10 et je repartais tranquillement à 18h15, je
 
 En novembre 2014, ma boîte a déménagé pour des locaux beaucoup plus agréables à vivre (oui parce que dans le 8<sup>e</sup> on devait choisir entre les WC avec cuvette ou les WC avec lumière, par exemple) situés dans le 9<sup>e</sup>, soit… à l'autre bout de la ville.[^arrondissements-lyon]
 
-J'ai rapidement fait le calcul : je passais de 10 minutes à plus de 40 minutes de trajet. Si je voulais garder le même volume horaire de travail, je devais payer la nounou 5 heures de plus.
+J'ai rapidement fait le calcul : je passais de 10 minutes à plus de 40 minutes de trajet. Si je voulais garder le même volume horaire de travail, je devais payer la nounou 5 heures de plus par semaine.
 
 Après quelques tâtonnements, j'ai réaménagé mes horaires de présence dans l'entreprise : de 9h - 18h15, je suis progressivement arrivée à l'intervalle 9h30 - 18h, sans possibilité de rallonger outre mesure. J'ai raccourci ma pause midi en conséquence, soit en partant manger plus tard, soit en reprenant le travail plus tôt, selon les horaires.
 
