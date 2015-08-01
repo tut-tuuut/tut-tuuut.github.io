@@ -24,7 +24,11 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-50554319-1', 'tut-tuuut.github.io');
-  ga('send', 'pageview');
+  ga('send', 'pageview', {
+    'page': '{{ page.url }}',
+    'title': '{{ page.title | replace: "'", "\\'" }}'
+  });
+
 </script>
  <script>
   WebFontConfig = {
