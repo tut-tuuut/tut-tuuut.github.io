@@ -3,6 +3,7 @@ layout: post
 title: "Petits détails techniques pour le nanowrimo"
 category: tech ecriture
 tags: écriture "ligne de commande" leanpub
+excerpt: "Allons-y pour le NaNo ! Et comptons les mots en ligne de commande."
 ---
 
 Le [NaNoWriMo](http://nanowrimo.org/about) a commencé cette année, dans la joie et la bonne humeur. Pour rappel, le but est d'écrire pendant le mois de novembre un roman de 50.000 mots, soit environ 200 pages, à partir de zéro.
