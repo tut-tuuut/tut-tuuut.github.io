@@ -7,7 +7,7 @@ tags: écriture "ligne de commande" leanpub
 
 Le [NaNoWriMo](http://nanowrimo.org/about) a commencé cette année, dans la joie et la bonne humeur. Pour rappel, le but est d'écrire pendant le mois de novembre un roman de 50.000 mots, soit environ 200 pages, à partir de zéro.
 
-Cette année, je tente d'utiliser Leanpub, combiné avec un dépôt Bitbucket privé, pour garder mon roman à jour.
+Cette année, je tente d'utiliser [Leanpub](https://leanpub.com/phosphoreEtAntimoine), combiné avec un dépôt Bitbucket privé, pour garder mon roman à jour.
 
 Concrètement, j'ai un dossier qui ressemble à ça, que je versionne sur git :
 
