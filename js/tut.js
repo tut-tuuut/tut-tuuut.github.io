@@ -1,11 +1,11 @@
-document.addEventListener("DOMContentLoaded", function resizeImages(event){
+/*document.addEventListener("DOMContentLoaded", function resizeImages(event){
     var imgs = document.querySelectorAll('img');
     var lineHeight = 40; // pixels
     [].forEach.call(imgs, function(e) {
     var nbOfLines = Math.round(e.naturalHeight / lineHeight);
     e.classList.add('image-' + nbOfLines)
     })
-},false);
+},false);*/
 
 (function dealWithScrollBarOnVerticalGrid() {
     var scrollBar = document.querySelector('.sidebar');

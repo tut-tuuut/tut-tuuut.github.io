@@ -73,11 +73,10 @@ a:hover   { color: #f06; }
 // global layout
 body {
   margin: 0;
-  background-image: none;
-  background-image: linear-gradient(transparent calc(100% - 1px), rgba(0, 0, 0, 0.2) 100%);
-  background-position: 0 0;
-  background-size: 3.07692308em 3.07692308em; // @TODO
-  margin: 0;
+  //background-image: none;
+  //background-image: linear-gradient(transparent calc(100% - 1px), rgba(0, 0, 0, 0.2) 100%);
+  //background-position: 0 0;
+  //background-size: 3.07692308em 3.07692308em; // @TODO
 }
 .site {
   font-size: 1.53846154em;
@@ -152,17 +151,19 @@ $sidebar_width: 17em;
 /* standard */
 .post {
   img {
-    height: 560px;
-    width: auto;
-    display: block;
+    //height: 560px;
+    //width: auto;
+    //display: block;
   }
   @for $i from 1 through 14 {
     .image-#{$i} { height: 40px * $i; }
   }
   pre {
     border-left: 3px solid #ccc;
+    border-bottom: 3px solid #ccc;
     padding: 0 .4em;
     margin: 2em 0;
+    overflow-x: auto;
   }
   pre.terminal {
     background-color: #333;
