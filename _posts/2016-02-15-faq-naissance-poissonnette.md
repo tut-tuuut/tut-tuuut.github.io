@@ -10,6 +10,14 @@ Voilà ! Ma deuxième (seconde ?) fille est née au début du mois. Les circonst
 
 Quand j'explique ça comme ça, on me pose un peu toujours les mêmes questions. Je tente ici d'y répondre.
 
+## En préambule, une précision importante à propos de l'accouchement non assisté
+
+Il se trouve que j'ai « accouché sans sage-femme » parce que le travail a été très rapide (entre 1 h et 2 h à peine d'après nos estimations a posteriori) et que ça s'est _très_ bien passé. La sage-femme n'a pas eu le temps d'arriver.
+
+D'ailleurs, en réalité, je n'ai fait que la moitié de l'accouchement de manière non assistée : la délivrance (expulsion du placenta) a été surveillée de près par la sage-femme qui suivait ma grossesse depuis neuf mois. Même si la naissance du bébé s'est passée sans encombre, une surveillance médicale est nécessaire lors de l'expulsion du placenta : il faut qu'il sorte en moins d'une demi-heure et il faut un œil exercé pour vérifier qu'il est complet. Un problème à la délivrance peut mener à une hémorragie ou à une infection et, dans le pire des cas, à la mort de la maman. Donc non. C'est pas glop.
+
+En résumé : accoucher à la maison/dans l'eau/sans produit chimique c'est trop bien, mais le faire sans assistance (ni sage-femme ni médecin) est irresponsable et dangereux. Je ne veux pas que cet article donne l'impression que je fais la promotion de l'accouchement non assisté : de grâce, si vous choisissez d'accoucher hors de l'hôpital, faites-le avec une sage-femme.
+
 ## Qu'est-ce qu'il s'est passé ?
 
 C'est un peu confus. Tentative de chronologie :
@@ -91,6 +99,7 @@ La sage-femme est arrivée chez nous juste après la naissance. Elle a coupé le
 L'accouchement et les suites de couches immédiates s'étaient bien passées, donc elle m'a laissé le choix entre partir à la maternité pour y rester hospitalisée 3-4 jours, ou rester hospitalisée cette même durée à domicile (avec la sage-femme qui vient me voir une fois par jour). J'étais en train de réfléchir à la question quand mon mari est arrivé avec les pâtes (crème et fromage) qu'il m'avait préparées avec amour. MIAM. J'ai compris : hospit à domicile = repas cuisinés par mon mari, hospit classique = repas d'hôpital. J'ai tranché : je suis restée à la maison. #laBouffeÇaCompte
 
 J'imagine que dans certains autres cas (pas de SF référente, accouchement difficile), on n'a pas le choix et on doit partir à l'hôpital.
+
 
 ## Donc ça y est, tu veux accoucher à domicile la prochaine fois ?
 
