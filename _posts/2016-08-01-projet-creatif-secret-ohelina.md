@@ -170,3 +170,39 @@ Donc je vous l'offre. Si jamais vous avez envie de cacher des anagrammes dans un
 
 (Dans quelques semaines, je donne une conférance à Paris Web sur le sujet du syndrome de l'imposteur… donc je travaille assez fort sur le mien ces temps-ci.)
 
+Cette énigme était assez loin dans la chaîne et elle n'a pas été tentée par beaucoup de joueurs. Une fois atteinte, elle ne leur a cependant pas présenté de difficulté particulière. Tant mieux pour eux.
+
+### Mots fléchés sur les mariés
+
+Très facile à concevoir, difficile à résoudre par les invités.
+Difficulté de conception : billingue FR/FI et faire travailler les mariés.
+
+### FedEx Quest
+
+Tout à fait billingue, fait appel à la culture vidéoludique des joueurs. Début avec un ocarina picross éhontément pompé dans picross DS. Testé en conditions réelles de fatigue => ajout de quelques indices.
+
+### Code Cochon
+
+J'ai commencé à tracer les signes du code en dessin dans mon logiciel, j'ai terminé sur un site de scouts qui faisait l'encodage automatiquement.
+
+J'ai ajouté les accents français et les ¨ finnois sur les signes du code. On est psychorigide de l'orthographe ou on ne l'est pas, hé.
+
+### Le renard brun rapide
+
+Culture générale. Indice "qu'est-ce qu'un pangramme ?" en anglais. Le premier résultat google est la phrase.
+
+Idée éhontément pompée sur le jeu vidéo Fez (que vous devez faire si vous ne connaissez pas).
+
+### Morse's hexaflexagon
+
+Recto-verso parfait à l'impression, j'ai eu de la chance.
+
+C'est trop cool, regardez cette vidéo youtube !
+
+J'ai choisi de coder les messages en morse pour que ça soit joli avant pliage et pas trop évident. Mais au final il aurait suffi aux joueurs de décoder le morse et de tenter de recoller les morceaux de lettres en suivant les bons motifs (différents sur les 2 faces).
+
+Difficile de trouver la face 5, dommage : c'est sur celle-là que le mot de passe avait atterri.
+
+### Coloriage de marques
+
+« Cahier d'activités » qui a bien marché pour faire réfléchir un peu la culture gé des invités.
