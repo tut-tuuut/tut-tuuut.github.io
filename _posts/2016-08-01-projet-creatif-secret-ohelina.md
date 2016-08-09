@@ -83,7 +83,7 @@ Cette énigme, placée plutôt au début du jeu, a très bien marché pour faire
 
 ### Été indien à Kuusamo
 
-La chanson _L'été Indien_ de Joe Dassin a été reprise en finnois par un artiste Finlandais, et elle ne parle pas _du tout_ de la même chose. J'ai voulu caser cela dans une énigme, mais comment ? Je me suis souvenue d'un épisode de Sherlock où il est question d'un message codé à l'aide d'un livre via un procédé appelé _book cipher_. À la place d'un livre, j'ai utilisé les paroles comme code de base pour cacher un message dedans.
+La chanson _L'été Indien_ de Joe Dassin a été reprise en finnois par un artiste Finlandais, et elle ne parle pas _du tout_ de la même chose. J'ai voulu caser cela dans une énigme, mais comment ? Je me suis souvenue d'un épisode de Sherlock où il est question d'un message codé à l'aide d'un livre via un procédé appelé _book cipher_. À la place d'un livre, j'ai utilisé les paroles comme code de base pour cacher un message dedans. (Ne googlez pas si vous voulez tester l'énigme.)
 
 J'ai ajouté une couche de mystère en utilisant des vieux chiffres indiens à la place de ces chers chiffres arabes. Il y avait donc ces messages dans la salle :
 
@@ -103,4 +103,70 @@ Si vous êtes inconditionnel(le) de Joe Dassin, vous remarquerez que j'ai modifi
 
 Quant à la version finnoise, eh bien… Vu que j'avais passé le texte sur 2 colonnes, certains vers ont été coupés sur deux lignes… Donc toute la numérotation dont dépendait l'énigme était cassée dès la ligne 5 ou 6. OUPS. Nous nous sommes contentés d'écrire en gros le nom et le prénom de la personne « complice ».
 
+Pour cette énigme, j'avais peur que le système de codage soit trop obscur et que les joueurs restent coincés, ne sachant que faire. Finalement, elle a très bien fonctionné. La difficulté était juste assez bien dosée pour que la récompense soit accessible sans être donnée toute cuite.
+
 En tout cas, même si l'énigme était insoluble, c'était très amusant de voir des groupes hétéroclites de joueurs s'amasser aux toilettes pour compter les vers de chansons à la noix.
+
+### Sudoku itinérant
+
+Comme on ne voulait pas faire que des énigmes de type « cahier d'activités » ainsi que mon cher marié les a désignées, j'ai mijoté quelques énigmes qui obligeraient les joueurs à fouiner et à ouvrir l'œil.
+
+C'est comme ça que je me suis retrouvée à scotcher un peu partout les morceaux d'une grille de sudoku soigneusement choisie.
+
+![](/img/2016/mariage/sudoku1.png)
+
+Comment cache-t-on un message dans une grille de sudoku ? Fastoche, en associant une lettre à chaque chiffre ! On peut également proposer une grille contenant uniquement les lettres, mais cela nécessite que le message contienne 9 lettres distinctes. Et je n'avais aucun invité dont le prénom était constitué de 9 lettres distinctes.
+
+![](/img/2016/mariage/sudoku2.png)
+
+Comment cache-t-on _deux_ messages dans une grille de sudoku ? Fastoche, il suffit que le deuxième message soit un anagramme du premier… et que la grille de sudoku soit bien fichue.
+
+Pour obtenir un anagramme du prénom de mon complice, j'ai utilisé anagramme.org, un site fort utile (probablement initialement destiné aux joueurs de Scrabble).
+
+Pour obtenir une grille « bien fichue », j'ai un peu plus galéré déjà. (Euphémisme.)
+
+J'avais téléchargé des cahiers de sudoku en PDF, contenant des grilles et les solutions dans un format copiable-collable au format texte.
+
+J'ai commencé par faire les remplacements avec mon éditeur de texte avant de chercher avec mes petits yeux si je voyais quelque part l'annagrame recherché. Ça faisait 18x9 rechercher-remplacer pour une seule grille, et mes petits yeux ne trouvaient pas grand-chose vu que mon heure théorique de coucher était largement dépassée.
+
+Alors j'ai fait plus efficace (et franchement moins fatigant si vous voulez mon avis) : j'ai écrit un programme qui analyse les solutions à la recherche d'une grille contenant les deux anagrammes que je voulais.
+
+C'est la première fois que j'utilise un algorithme de recherche « en profondeur d'abord » pour résoudre un vrai problème, hors du contexte d'un exercice de cours ou d'un entretien d'embauche. Je vous livre ici le cœur de l'analyse (un terme simple pour désigner les 15 lignes vaguement élégantes d'un fichier qui en compte 175).
+
+{% highlight php %}
+// $i et $j (entiers) = position horizontale et verticale du curseur ds le sudoku
+// $index (entier) = position dans le terme de recherche
+// $graph (tableau) = grille du sudoku
+// $search (chaîne de caractères) = terme recherché
+// $direction (entier 0, 1 ou 2) = direction dans laquelle on cherche
+function analyse_char($i, $j, $index, $graph, $search, $direction) {
+    if ($i > 8 || $j > 8) {
+        return;
+    }
+
+    if ($graph[$i][$j] == $search[$index]) {
+        if ($index === strlen($search) - 1) {
+            echo "found $search !!!".PHP_EOL;
+            display_anagramme($graph);
+            return true;
+        }
+        if ($direction === 0 || $direction === 1) {
+            // on cherche verticalement
+            analyse_char($i+1, $j, $index + 1, $graph, $search, 1);
+        }
+        if ($direction === 0 || $direction === 2) {
+            // on cherche horizontalement
+            analyse_char($i, $j+1, $index + 1, $graph, $search, 2);
+        }
+    }
+}
+{% endhighlight %}
+
+Si vous voulez voir le programme en entier, [je vous en prie](/img/2016/mariage/sudoku1.png). Il y a pas mal de code pour construire des tableaux à partir de la solution copiée-collée depuis mon PDF, ensuite du code pour rechercher-remplacer les chiffres par la grille de correspondance désirée (bonus j'ai galéré en UTF8 et j'ai pas cherché à comprendre) et finalement la recherche elle-même dans la grille de lettres.
+
+En bonne victime du syndrome de l'imposteur, j'ai envie de cacher la source de ce programme parce qu'elle est « moche », probablement trop verbeuse par endroits et pas assez à d'autres, mal optimisée côté CPU et conso mémoire. Peut-être qu'elle ne passerait aucune revue de code, mais elle est _vraie_. Je sais qu'elle fonctionne.
+
+Donc je vous l'offre. Si jamais vous avez envie de cacher des anagrammes dans un sudoku, sait-on jamais… ou si vous voulez vous décomplexer un peu. Vous n'êtes pas lela seul(e) à écrire du code moche et jetable !
+
+(Dans quelques semaines, je donne une conférance à Paris Web sur le sujet du syndrome de l'imposteur… donc je travaille assez fort sur le mien ces temps-ci.)
+
