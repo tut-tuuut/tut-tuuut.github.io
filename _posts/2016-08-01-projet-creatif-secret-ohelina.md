@@ -83,18 +83,24 @@ Cette énigme, placée plutôt au début du jeu, a très bien marché pour faire
 
 ### Été indien à Kuusamo
 
-La chanson _L'été Indien_ de Joe Dassin a été reprise en finnois par un artiste Finlandais, et elle ne parle pas _du tout_ de la même chose. J'ai voulu caser cela dans une énigme, mais comment ? Je me suis souvenue d'un épisode de Sherlock où il est question d'un message codé à l'aide d'un livre via un procédé appelé _book cipher_.
+La chanson _L'été Indien_ de Joe Dassin a été reprise en finnois par un artiste Finlandais, et elle ne parle pas _du tout_ de la même chose. J'ai voulu caser cela dans une énigme, mais comment ? Je me suis souvenue d'un épisode de Sherlock où il est question d'un message codé à l'aide d'un livre via un procédé appelé _book cipher_. À la place d'un livre, j'ai utilisé les paroles comme code de base pour cacher un message dedans.
 
 J'ai ajouté une couche de mystère en utilisant des vieux chiffres indiens à la place de ces chers chiffres arabes. Il y avait donc ces messages dans la salle :
 
 ![](/img/2016/mariage/msg-fi.png)
 
+Ainsi que les paroles des chansons, accrochées aux toilettes :
 
-Ainsi que les paroles des chansons :
+![](/img/2016/mariage/ete-indien.png)
+
+![](/img/2016/mariage/kuusmao.png)
 
 Et les participants disposaient de ceci dans leur enveloppe :
 
+![](/img/2016/mariage/ete-indien-a-kuusamo.png)
 
-Vous remarquerez que j'ai modifié légèrement les paroles de la chanson française pour coller à mes besoins. Une équipe de jeunes technophiles qui avait pris la version originale sur Google a donc eu un peu de mal.
+Si vous êtes inconditionnel(le) de Joe Dassin, vous remarquerez que j'ai modifié légèrement les paroles de la chanson française pour coller à mes besoins. Une équipe de jeunes technophiles qui avait pris la version originale sur Google a donc eu un peu de mal.
 
-Quant à la version finnoise, eh bien… Vu que j'avais passé le texte sur 2 colonnes, certains vers ont été coupés sur deux lignes… Donc toute la numérotation dont dépendait l'énigme était cassée dès la ligne 5 ou 6. OUPS. Nous nous sommes contentés d'écrire en gros qu'il y avait un bug et que la personne à trouver s'appelait Marie.
+Quant à la version finnoise, eh bien… Vu que j'avais passé le texte sur 2 colonnes, certains vers ont été coupés sur deux lignes… Donc toute la numérotation dont dépendait l'énigme était cassée dès la ligne 5 ou 6. OUPS. Nous nous sommes contentés d'écrire en gros le nom et le prénom de la personne « complice ».
+
+En tout cas, même si l'énigme était insoluble, c'était très amusant de voir des groupes hétéroclites de joueurs s'amasser aux toilettes pour compter les vers de chansons à la noix.
