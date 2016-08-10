@@ -38,9 +38,11 @@ C'est là qu'on se dit que le projet commence à être ambitieux. Tant pis, je m
 
 La conception des énigmes a pris environ deux mois en régime réduit (cf. difficultés n°4 et n°5) avec une accélération du rythme à la fin. J'ai tout mis en page sur Apple pages qui était le logiciel de traitement de texte le plus stable que j'avais à disposition (Libre Office fait parfois des BSOD sur mon nordi, j'avais pas envie).
 
-Une semaine avant le mariage, j'ai fait tester trois énigmes un peu complexes à des cobayes (mon petit frère et sa copine) pour vérifier qu'il n'y avait pas de souci. Il y en avait. J'ai bien fait.
+Au fur et à mesure que je concevais les énigmes, je collais les phrases d'instructions dans un google doc que la fiancée finnoise (et tout à fait psychorigide de la grammaire) les traduise. Ainsi, j'ai eu la plupart des énigmes billingues français-finnois. Certaines nécessitaient même de parler français ET finnois pour être résolues. Certaines ont cependant été rédigées en anglais (et nécessitaient donc de ne parler ni français ni finnois).
 
-Je comptais imprimer les énigmes à la COREP (pas cher pas cher, 3 centimes la page) mais à cause de difficultés d'organisation, j'ai partagé les impressions entre une imprimante perso et un imprimeur bien plus cher, pendant la semaine précédant immédiatement le mariage. Il y a aussi certains bouts d'énigmes que j'ai écrits à la main. (Pas ceux qu'il fallait en 15 exemplaires, heureusement !)
+Une semaine avant le mariage, j'ai fait tester trois énigmes un peu complexes à des cobayes (mon petit frère et sa copine) pour vérifier qu'il n'y avait pas de souci. Il y en avait. Et des bien gras, encore. J'ai bien fait.
+
+Je comptais imprimer les énigmes à la COREP (pas cher pas cher, 3 centimes la page) mais à cause de difficultés d'organisation, j'ai partagé les impressions entre une imprimante perso et un imprimeur bien plus cher, pendant la semaine précédant immédiatement le mariage. Il y a aussi certains bouts d'énigmes que j'ai écrits à la main. (Pas ceux qu'il me fallait en 15 exemplaires, heureusement !)
 
 La veille du mariage, j'ai également préparé les cartons « récompense » en découpant et collant les bouts de l'histoire des mariés sur des photos du couple. Dans la foulée je les ai mis dans des enveloppes avec les papiers contenant les textes des énigmes. J'ai fini à 3h30 du matin. Hum. Notes pour plus tard : utiliser un massicot et préparer largement à l'avance tout ce qui peut l'être.
 
