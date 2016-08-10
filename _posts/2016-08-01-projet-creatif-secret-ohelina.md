@@ -42,7 +42,7 @@ Une semaine avant le mariage, j'ai fait tester trois énigmes un peu complexes �
 
 Je comptais imprimer les énigmes à la COREP (pas cher pas cher, 3 centimes la page) mais à cause de difficultés d'organisation, j'ai partagé les impressions entre une imprimante perso et un imprimeur bien plus cher, pendant la semaine précédant immédiatement le mariage. Il y a aussi certains bouts d'énigmes que j'ai écrits à la main. (Pas ceux qu'il fallait en 15 exemplaires, heureusement !)
 
-La veille du mariage, j'ai également préparé les cartons « récompense » en découpant et collant les bouts de l'histoire des mariés sur des photos du couple. Dans la foulée je les ai mis dans des enveloppes avec les papiers contenant les textes des énigmes. J'ai fini à 3h30 du matin. Hum. Notes pour plus tard : utiliser un massicot et faire tout ce qui est faisable largement à l'avance.
+La veille du mariage, j'ai également préparé les cartons « récompense » en découpant et collant les bouts de l'histoire des mariés sur des photos du couple. Dans la foulée je les ai mis dans des enveloppes avec les papiers contenant les textes des énigmes. J'ai fini à 3h30 du matin. Hum. Notes pour plus tard : utiliser un massicot et préparer largement à l'avance tout ce qui peut l'être.
 
 J'ai scotché une partie des indices dans la salle la veille du mariage, avec bébé dans le porte-bébé. Une partie était également intégrée dans le trombinoscope des invités conçu par les mariés. (On envisageait aussi d'en cacher certains dans les menus, mais tout le monde était beaucoup trop à l'arrache pour ça.) J'ai scotché la fin des indices dans la salle… au début du vin d'honneur. LARGE !
 
@@ -51,7 +51,7 @@ J'ai scotché une partie des indices dans la salle la veille du mariage, avec b�
 
 À la fin du vin d'honneur, j'ai écrit et accroché un petit panneau « vous voulez jouer ? Allez parler au témoin qui a le plus de filles… » avec la traduction en anglais (je n'avais pas de Finlandais sous la main pour la traduction en finnois). Cela constituait une première énigme assez soft pour entraîner les joueurs à chercher un peu. On a évité de faire une annonce : c'était beaucoup plus amusant de laisser traîner des indices mystérieux dans la salle et de piquer ainsi l'attention des invités.
 
-J'ai également confié à chaque « complice » un paquet de 15 enveloppes identiques, en leur reprécisant le mot de passe qui leur correspondait. (Natacha, qui était pointée par l'énigme n°2, portait l'énoncé de l'énigme n°3.) J'ai réexpliqué le principe du jeu, et bien insisté sur le fait qu'ils pouvaient jouer aussi : ils connaissaient un mot de passe, mais ils ne savaient pas de quelle énigme ils étaient la solution, ni à quel niveau du jeu leur énigme se situait.
+J'ai également confié à chaque « complice » un paquet de 15 enveloppes identiques, en leur reprécisant le mot de passe qui leur correspondait. (Natacha, qui était pointée par l'énigme n°2, donnait l'énoncé de l'énigme n°3 quand on lui donnait le mot de passe n°2.) J'ai réexpliqué le principe du jeu, et bien insisté sur le fait qu'ils pouvaient jouer aussi : ils connaissaient un mot de passe, mais ils ne savaient pas de quelle énigme ils étaient la solution, ni à quel niveau du jeu leur énigme se situait.
 
 Ensuite, j'ai attendu que le jeu se lance. Quelques invités ont vu le panneau et sont venus me trouver. Je leur ai expliqué et je leur ai donné l'enveloppe contenant la première énigme. Ensuite, d'autres invités ont vu les premiers joueurs et leur ont demandé où ils avaient trouvé le jeu, et de fil en aiguille une dizaine d'équipes d'horizons divers se sont lancées sur la piste.
 
@@ -70,6 +70,8 @@ Et enfin, contrairement à d'autres, je parle beaucoup moins bien les langues é
 Si c'était à refaire, je prendrais également un bon baby-sitter pour les mois de conception et pour le soir du mariage : trop compliqué de faire travailler les neurones à côté d'un bébé qui braille, et trop dur physiquement de surveiller 2 gamines en bas âge en même temps qu'une troupe de joueurs enthousiastes.
 
 ## Les énigmes
+
+Voici les neuf énigmes que j'ai terminées. Je me suis inspirée du génial site Ouverture Facile, de certains jeux vidéo, de séries télé… Il y en a aussi quelques-unes que j'ai inventées de zéro.
 
 ### Nuit étoilée
 
@@ -134,6 +136,7 @@ Alors j'ai fait plus efficace (et franchement moins fatigant si vous voulez mon 
 C'est la première fois que j'utilise un algorithme de recherche « en profondeur d'abord » pour résoudre un vrai problème, hors du contexte d'un exercice de cours ou d'un entretien d'embauche. Je vous livre ici le cœur de l'analyse (un terme simple pour désigner les 15 lignes vaguement élégantes d'un fichier qui en compte 175).
 
 {% highlight php %}
+<?php
 // $i et $j (entiers) = position horizontale et verticale du curseur ds le sudoku
 // $index (entier) = position dans le terme de recherche
 // $graph (tableau) = grille du sudoku
@@ -160,6 +163,7 @@ function analyse_char($i, $j, $index, $graph, $search, $direction) {
         }
     }
 }
+?>
 {% endhighlight %}
 
 Si vous voulez voir le programme en entier, [je vous en prie](/img/2016/mariage/solution-cherchons.php). Il y a pas mal de code pour construire des tableaux à partir de la solution copiée-collée depuis mon PDF, ensuite du code pour rechercher-remplacer les chiffres par la grille de correspondance désirée (bonus j'ai galéré en UTF8 et j'ai pas cherché à comprendre) et finalement la recherche elle-même dans la grille de lettres.
