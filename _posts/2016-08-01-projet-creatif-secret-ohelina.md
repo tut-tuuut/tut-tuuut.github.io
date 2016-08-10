@@ -193,19 +193,46 @@ J'ai ajouté les accents français et les ¨ finnois sur les signes du code. On 
 
 ### Le renard brun rapide
 
-Culture générale. Indice "qu'est-ce qu'un pangramme ?" en anglais. Le premier résultat google est la phrase.
+Elle, c'est mon énigme préférée.
 
-Idée éhontément pompée sur le jeu vidéo Fez (que vous devez faire si vous ne connaissez pas).
+Dans l'enveloppe, il n'y avait que ceci :
+
+![](/img/2016/mariage/quickbrownfox-enigme.png)
+
+Des signes étranges, un titre mystérieux qui constitue probablement un indice… C'est ce genre d'ambiance que j'adorais dans les énigmes d'Ouverture Facile. À première vue on se demande bien ce qu'on va pouvoir faire avec ce truc, et quand on atteint le moment « aha » où tout se met en place, on se sent prodigieusement intelligent.
+
+Il y avait également cette affichette dans la salle :
+
+![](/img/2016/mariage/quickbrownfox-pangram.jpg)
+
+Pour être honnête, je la trouve encore un peu trop facile. Si j'avais voulu offrir une vraie belle réflexion aux joueurs, j'aurais enlevé TOUS les textes. J'ai préféré laisser quelques mots à googler aux brebis égarées qui auraient moins de culture typo que moi.
+
+L'idée, géniale, a été éhontément pompée sur le jeu vidéo Fez (auquel vous DEVEZ jouer si vous ne le connaissez pas).
 
 ### Morse's hexaflexagon
 
-Recto-verso parfait à l'impression, j'ai eu de la chance.
+Je voulais une énigme qui fasse faire quelques menus travaux manuels à mes joueurs. Le pliage me semblait de circonstance. Au début je voulais leur faire faire une cocotte en papier, je réfléchissais à un moyen de cacher un message sur une cocotte, et puis… mon marié m'a montré les hexaflexagones.
 
-C'est trop cool, regardez cette vidéo youtube !
+Qu'est-ce qu'un hexaflexagone ? En résumé : un truc trop cool.
 
-J'ai choisi de coder les messages en morse pour que ça soit joli avant pliage et pas trop évident. Mais au final il aurait suffi aux joueurs de décoder le morse et de tenter de recoller les morceaux de lettres en suivant les bons motifs (différents sur les 2 faces).
+(vidéo youtube)
 
-Difficile de trouver la face 5, dommage : c'est sur celle-là que le mot de passe avait atterri.
+J'ai plié mon premier hexaflexagone le jour de mon anniversaire. Et j'en ai plié quelques autres les jours qui ont suivi pour concevoir mon énigme.
+
+L'avantage de l'hexaflexagone sur la cocotte, outre que c'est trop cool, c'est que les messages sont beaucoup mieux cachés dessus avant le pliage. Et comme peu d'invités connaissaient ce truc avant le mariage, ils ont découvert quelque chose !
+
+J'ai donc fabriqué un hexaflexagone à plier soi-même pour cette énigme-là. Il a aussi fallu que je conçoive des instructions de montage qui ne dépendent pas des « numéros » des faces. C'est pour cela que j'ai fait tester cette énigme à des « vrais » cobayes : moi je savais faire donc je n'avais pas moyen de savoir si mes explications fonctionnaient. (Verdict : elles fonctionnaient, mais le message était encodé n'importe comment.)
+
+![](/img/2016/mariage/hexaflexagon.png)
+
+![](/img/2016/mariage/hexaflexagon2.png)
+
+
+J'ai choisi de coder les messages en morse pour que ça soit joli avant pliage et pas trop évident à lire sans plier-coller l'hexaflex. Mais au final il aurait suffi aux joueurs de décoder le morse et de remettre dans l'ordre les morceaux de phrases qui apparaissaient.
+
+Il était difficile de trouver la face 5. Dommage : c'est sur celle-là que le mot de passe avait atterri. Les joueurs ont fini par décoller et déplier leur hexaflexagone de manière tout à fait barbare (mais efficace).
+
+À noter : à l'impression, j'ai eu un recto-verso parfait, donc les hexaflexagones produits ce soir-là l'étaient aussi.
 
 ### Coloriage de marques
 
