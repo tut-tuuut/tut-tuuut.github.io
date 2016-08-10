@@ -6,6 +6,13 @@ tags:
 excerpt: "PCS #17 - nom de code Ohélina"
 ---
 
+<!-- "sale", dit Tûtie -->
+<style>
+.post img {
+    border: 1px solid #ccc;
+}
+</style>
+
 À la toute fin du mois de juillet, j'ai été témoin au mariage d'un bon ami avec sa belle chérie. Cet ami étant un gros geek et un compagnon de jeu de longue date, il m'avait demandé ce que je pensais d'une idée qui sortait de l'ordinaire : remplacer les traditionnelles animations de repas de mariage par une sorte de jeu de piste ou de chasse au trésor. J'en pensais tellement de bien que je me suis lancée à peu près aussitôt dans la réalisation du truc. Je vous livre ici un retour d'expérience au cas où vous voudriez faire pareil (et aussi pour moi, au cas où je voudrais recommencer).
 
 En résumé : je me suis beaucoup amusée mais j'ai pas beaucoup dormi.
@@ -141,7 +148,7 @@ C'est la première fois que j'utilise un algorithme de recherche « en profonde
 <?php
 // $i et $j (entiers) = position horizontale et verticale du curseur ds le sudoku
 // $index (entier) = position dans le terme de recherche
-// $graph (tableau) = grille du sudoku
+// $graph (tableau) = grille de lettres
 // $search (chaîne de caractères) = terme recherché
 // $direction (entier 0, 1 ou 2) = direction dans laquelle on cherche
 function analyse_char($i, $j, $index, $graph, $search, $direction) {
@@ -174,7 +181,7 @@ En bonne victime du syndrome de l'imposteur, j'ai envie de cacher la source de c
 
 Donc je vous l'offre. Si jamais vous avez envie de cacher des anagrammes dans un sudoku, sait-on jamais… ou si vous voulez vous décomplexer un peu. Vous n'êtes pas lela seul(e) à écrire du code moche et jetable !
 
-(Dans quelques semaines, je donne une conférance à Paris Web sur le sujet du syndrome de l'imposteur… donc je travaille assez fort sur le mien ces temps-ci.)
+(Dans quelques semaines, je donne une conférence à Paris Web sur le sujet du syndrome de l'imposteur… donc je travaille assez fort sur le mien ces temps-ci.)
 
 Cette énigme était assez loin dans la chaîne et elle n'a pas été tentée par beaucoup de joueurs. Une fois atteinte, elle ne leur a cependant pas présenté de difficulté particulière. Tant mieux pour eux.
 
@@ -238,4 +245,8 @@ Il était difficile de trouver la face 5. Dommage : c'est sur celle-là que le m
 
 ### Coloriage de marques
 
-« Cahier d'activités » qui a bien marché pour faire réfléchir un peu la culture gé des invités.
+Une énigme de type « cahier d'activités » qui a bien marché pour détendre les invités entre deux méchantes énigmes en faisant marcher leur culture générale (et leur smartphone en 4G). Découvrez les affichages 10 segments, une invention photoshop maison.
+
+![](/img/2016/mariage/marques.png)
+
+Pour trouver les marques, j'ai beaucoup utilisé wikipedia mais également des articles de blog ou de forum d'expatriés en Finlande. Mention spéciale à la liste des meilleures et pires bières finlandaises.
