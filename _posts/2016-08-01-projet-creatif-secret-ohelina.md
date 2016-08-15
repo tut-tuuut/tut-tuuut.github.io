@@ -181,24 +181,47 @@ En bonne victime du syndrome de l'imposteur, j'ai envie de cacher la source de c
 
 Donc je vous l'offre. Si jamais vous avez envie de cacher des anagrammes dans un sudoku, sait-on jamais… ou si vous voulez vous décomplexer un peu. Vous n'êtes pas lela seul(e) à écrire du code moche et jetable !
 
-(Dans quelques semaines, je donne une conférence à Paris Web sur le sujet du syndrome de l'imposteur… donc je travaille assez fort sur le mien ces temps-ci.)
+(Dans quelques semaines, je donne une [conférence](https://www.paris-web.fr/2016/conferences/liberee-delivree-du-syndrome-de-limposteur.php) à Paris Web sur le sujet du syndrome de l'imposteur… donc je travaille assez fort sur le mien ces temps-ci.)
 
 Cette énigme était assez loin dans la chaîne et elle n'a pas été tentée par beaucoup de joueurs. Une fois atteinte, elle ne leur a cependant pas présenté de difficulté particulière. Tant mieux pour eux.
 
 ### Mots fléchés sur les mariés
 
-Très facile à concevoir, difficile à résoudre par les invités.
-Difficulté de conception : billingue FR/FI et faire travailler les mariés.
+Je ne sais pas vous, mais dans les mariages que je fréquente, les mots fléchés sur les mariés sont un grand classique. En outre, c'est très facile à concevoir et c'est un bon moyen de faire découvrir des petits détails sympathiques sur le couple aux invités curieux.
+
+![](/img/2016/mariage/motsfleches.png)
+
+
+Bon. Ben c'est (inutilement) difficile à résoudre par les invités. Surtout que les mariés s'étaient bien lâchés sur les petits détails difficiles à deviner…
+
+C'était une énigme de début de chaîne. J'ai peur qu'elle ait un peu trop filtré les participants…
+
+Une difficulté supplémentaire de ce jeu-là a été la contrainte « billingue franco-finnois ». J'ai dû préciser dans certaines définitions si le terme était attendu en français ou en finnois.
+
+Le mot de passe à trouver était le nom de cette danse, que je vous laisse découvrir :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bagc7HlKf3w" frameborder="0" allowfullscreen></iframe>
 
 ### FedEx Quest
 
-Tout à fait billingue, fait appel à la culture vidéoludique des joueurs. Début avec un ocarina picross éhontément pompé dans picross DS. Testé en conditions réelles de fatigue => ajout de quelques indices.
+Vous savez ce qu'est une quête FedEx ? Vous en avez de la chance, vous n'avez pas assez joué aux jeux vidéo.
+
+![](/img/2016/mariage/fedex.png)
+
+Le principe était le suivant : on commençait avec un picross muet, qui donnait un indice indiquant une affichette dans la salle (en l'occurrence un Link de _Ocarina of Time_). Au verso de l'affichette, un indice indiquait une autre affiche… et ainsi de suite jusqu'à l'ultime affichette qui donnait le mot de passe et le complice à qui le dire.
+
+Tout à fait billingue car muette, cette énigme fait appel à la culture vidéoludique des joueurs. Le Picross du début a été éhontément pompé dans le jeu _Picross DS_ (auquel j'ai beaucoup beaucoup joué en 2007 entre les épreuves des concours de l'ENS). Je l'ai testé en conditions réelles de fatigue, ce qui m'a conduit à ajouter quelques indices.
 
 ### Code Cochon
 
-J'ai commencé à tracer les signes du code en dessin dans mon logiciel, j'ai terminé sur un site de scouts qui faisait l'encodage automatiquement.
+Quatre jours avant le mariage, il me manquait encore quelques énigmes alors j'ai demandé à mon mari (alors dans un tram à 600 kilomètres de moi) s'il avait une idée. Il m'a dit « code cochon », j'ai dit « quoi ?? » il a répété « code cochon » et j'ai rétorqué que j'avais pas besoin de trucs cochons. En fait ce n'est pas cochon du tout, c'est un grand classique des scouts. (Le nom vient en fait de la ressemblance avec des enclos à cochons…)
 
-J'ai ajouté les accents français et les ¨ finnois sur les signes du code. On est psychorigide de l'orthographe ou on ne l'est pas, hé.
+![](/img/2016/mariage/code-cochon.png)
+
+
+J'ai commencé à tracer les signes du code en dessin dans mon logiciel, j'ai terminé 1h30 plus tard sur un [site de scouts](https://www.latoilescoute.net/decodeur/) qui faisait l'encodage automatiquement et je m'en suis sortie en 20 minutes.
+
+J'ai toutefois ajouté les accents français et les ¨ finnois sur les signes du code. On est psychorigide de l'orthographe ou on ne l'est pas, hé.
 
 ### Le renard brun rapide
 
@@ -224,13 +247,13 @@ Je voulais une énigme qui fasse faire quelques menus travaux manuels à mes jou
 
 Qu'est-ce qu'un hexaflexagone ? En résumé : un truc trop cool.
 
-(vidéo youtube)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQo8tYQuWQw" frameborder="0" allowfullscreen></iframe>
 
 J'ai plié mon premier hexaflexagone le jour de mon anniversaire. Et j'en ai plié quelques autres les jours qui ont suivi pour concevoir mon énigme.
 
 L'avantage de l'hexaflexagone sur la cocotte, outre que c'est trop cool, c'est que les messages sont beaucoup mieux cachés dessus avant le pliage. Et comme peu d'invités connaissaient ce truc avant le mariage, ils ont découvert quelque chose !
 
-J'ai donc fabriqué un hexaflexagone à plier soi-même pour cette énigme-là. Il a aussi fallu que je conçoive des instructions de montage qui ne dépendent pas des « numéros » des faces. C'est pour cela que j'ai fait tester cette énigme à des « vrais » cobayes : moi je savais faire donc je n'avais pas moyen de savoir si mes explications fonctionnaient. (Verdict : elles fonctionnaient, mais le message était encodé n'importe comment.)
+J'ai donc fabriqué un hexaflexagone à 6 faces à plier soi-même pour cette énigme-là. Il a aussi fallu que je conçoive des instructions de montage qui ne dépendent pas des « numéros » des faces. C'est pour cela que j'ai fait tester cette énigme à des « vrais » cobayes : moi je savais faire donc je n'avais pas moyen de savoir si mes explications fonctionnaient. (Verdict : elles fonctionnaient, mais le message était encodé n'importe comment.)
 
 ![](/img/2016/mariage/hexaflexagon.png)
 
@@ -245,8 +268,8 @@ Il était difficile de trouver la face 5. Dommage : c'est sur celle-là que le m
 
 ### Coloriage de marques
 
-Une énigme de type « cahier d'activités » qui a bien marché pour détendre les invités entre deux méchantes énigmes en faisant marcher leur culture générale (et leur smartphone en 4G). Découvrez les affichages 10 segments, une invention photoshop maison.
+Une énigme de type « cahier d'activités » qui a bien marché pour détendre les invités entre deux méchantes énigmes tout en faisant marcher leur culture générale (ainsi que leur smartphone en 4G). Découvrez les affichages 10 segments, une invention photoshop maison.
 
 ![](/img/2016/mariage/marques.png)
 
-Pour trouver les marques, j'ai beaucoup utilisé wikipedia mais également des articles de blog ou de forum d'expatriés en Finlande. Mention spéciale à la liste des meilleures et pires bières finlandaises.
+Pour trouver les marques, j'ai beaucoup utilisé wikipedia mais également des articles de blog ou de forum d'expatriés en Finlande. Mention spéciale à [la liste des meilleures et pires bières finlandaises](http://www.happybeertime.com/blog/2013/07/10/voyage-en-finlande-les-bieres-tops-et-les-bieres-flops/).
