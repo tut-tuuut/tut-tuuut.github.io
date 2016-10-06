@@ -26,11 +26,11 @@ Là où on a commis notre première petite erreur, c'est qu'on a oublié de mett
 
 La salle a été complète dès 14h15 pour l'atelier qui commençait à 14h30. J'ai fait quelques tours de salle pendant qu'elle se remplissait pour redemander aux personnes qui étaient là si elles avaient déjà installé git, et de s'en occuper le cas échéant dans la mesure du possible.
 
-PALC qui empêche l'installation de trucs (git et gitk) via homebrew
+2-3 « j'ai pas installé git comment je fais » dès le premier exercice
+=> comme prévu, PALC qui empêche l'installation de trucs (git et gitk) via homebrew
 
 => on s'est démerdés avec les installeurs sourceforge et git log --graph
 
-2-3 « j'ai pas installé git comment je fais » dès le premier exercice
 
 explication des bases de la CLI à qq-uns et celles de vim à beaucoup
 
