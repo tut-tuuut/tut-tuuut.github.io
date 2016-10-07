@@ -26,21 +26,18 @@ Là où on a commis notre première petite erreur, c'est qu'on a oublié de mett
 
 La salle a été complète dès 14h15 pour l'atelier qui commençait à 14h30. J'ai fait quelques tours de salle pendant qu'elle se remplissait pour redemander aux personnes qui étaient là si elles avaient déjà installé git, et de s'en occuper le cas échéant dans la mesure du possible.
 
-2-3 « j'ai pas installé git comment je fais » dès le premier exercice
-=> comme prévu, PALC qui empêche l'installation de trucs (git et gitk) via homebrew
+Le principe initial était de partager les diapos entre Guillaume et moi selon les sujets que l'on maîtrisait le mieux. Finalement, Guillaume a fait l'essentiel de la présentation pendant que je tentais de démêler les problèmes des participants.
 
-=> on s'est démerdés avec les installeurs sourceforge et git log --graph
+Comme je le craignais, il y a eu quelques « j'ai pas installé git, comment je fais ? » dès le premier exercice. Comme je le craignais, le <abbr name="Proxy à la con">PALC</abbr> de l'école empêchait l'installation de git et gitk via apt-get et autres homebrew. Nous avons donc dû nous débrouiller avec les installeurs sourceforge et avec `git log --graph`.
 
+Ce que je n'avais pas anticipé, par contre, c'est qu'il y avait aussi de grands débutants en ligne de commande : j'ai dû expliquer `mkdir` et `pwd` à deux personnes et le fonctionnement de vim à quelques autres. Ce n'est pas tant d'avoir dû l'expliquer qui m'embête (moi aussi j'ai été une n00b et il m'a fallu du temps pour être efficace au travail), mais plutôt d'avoir dû l'expliquer plusieurs fois en les distrayant de la partie « git » qui était le cœur de l'atelier, et en m'empêchant de m'occuper des participants qui étaient davantage notre cible.
 
-explication des bases de la CLI à qq-uns et celles de vim à beaucoup
+À part ça j'ai découvert des bugs windows auxquels je n'ai strictement rien compris, j'ai voulu expliquer les branches à l'aide d'une métaphore « retour vers le futur » à une fille à qui ça a fait très peur et j'ai empêché plusieurs personnes de commiter tout leur dossier utilisateur dans un dépôt git local.
 
-3-4 personnes qui font un `git init` dans leur dossier home (je les ai repêchés avant qu'ils fassent un `git add . && git commit -m "yolooo"`)
+## À essayer la prochaine fois
 
-j'ai voulu expliquer les branches en utilisant une métaphore retour vers le futur, la nana a eu vraiment très peur de moi :'(
+Je suis embêtée à l'idée de laisser en plan les grands débutants. Tous les gourous de la ligne de commande ont un jour dû apprendre à taper leur premier `mkdir`. Par contre, j'aimerais n'avoir besoin d'expliquer qu'une seule fois et pas autant qu'il y a de débutants : je caresse l'idée de regrouper les participants par groupes de niveau dans la salle.
 
+Dans ce cas, comment aider les participants à auto-évaluer leur niveau ? Peut-être en affichant au mur `mkdir plop` puis `:wq` et un peu plus loin `git commit -m "Youpi"` et encore un peu plus loin `git rebase --interactive master`. On leur demande de s'assoir à la première affichette qu'ils ne comprennent pas.
 
-des bugs inédits sur windows
-
-## Bilan
-
-
+Une piste à suivre pourrait aussi être de proposer un atelier « ligne de commande » avant l'atelier « git ». Je garde cette idée pour la prochaine fois que j'assiste à un événement où le public propose des sujets (les informelles paris web ou les ateliers Sud Web, par exemple).
