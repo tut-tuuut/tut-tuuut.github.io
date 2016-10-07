@@ -78,6 +78,11 @@ J'ai retrouvé le bébé un peu moins de deux heures plus tard. Apparemment elle
 
 ![Bébé qui dort sur Audrey, le nez dans le foulard](/img/2016/pw/portage-audrey.jpg)
 
+### Discuter avec les autres participants
+
+La poussette me rendait assez facile à repérer. En outre, un bébé fournit une excellente occasion d'entamer la conversation. J'avais toujours été un peu trop timide pour adresser la parole à Glazou, maintenant c'est chose faite grâce à la bonne bouille de mon joli bébé.
+
+![Bébé qui dort sur Audrey, le nez dans le foulard](/img/2016/pw/tonton-glazou.jpg)
 
 
 ## Ce que j'en retiens
