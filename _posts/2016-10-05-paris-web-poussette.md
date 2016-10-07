@@ -34,9 +34,51 @@ Au petit déj, je laissais bébé dans la poussette à côté de moi et je lui d
 
 Comme précisé plus haut, baby est allaitée et c'est la raison principale pour laquelle je l'ai emmenée à Paris Web. Je n'ai donc pas eu à me soucier de trimbaler, préparer ou laver des biberons. C'était franchement confortable.
 
-Comme elle est diversifiée partiellement en <abbr title="diversification menée par l'enfant">DME</abbr>, elle a pu profiter un peu du traiteur : bâtonnets de concombre, petites purées de légumes en verrines, feuilles de salade, compotes de fruits, (hum) madeleines au beurre, (hum hum) donuts au chocolat…
+Les sièges des salles de conférences étaient particulièrement confortables pour allaiter, mais on m'avait indiqué une petite salle à l'abri des regards où j'ai pu allaiter allongée.
 
-### Donner et suivre des conférences
+![Pause allaitement à la cool entre deux conférences](/img/2016/pw/miam-sein.jpg)
+
+Comme elle est diversifiée partiellement en <abbr title="diversification menée par l'enfant">DME</abbr>, Baby a aussi pu profiter des plats du traiteur : bâtonnets de concombre, petites purées de légumes en verrines, feuilles de salade, (hum) madeleines au beurre, (hum hum) donuts au chocolat…
+
+### Suivre des conférences
+
+Les salles étant accessibles aux personnes en fauteuil roulant, elles le sont aussi aux personnes poussant une poussette. J'ai suivi la plupart des conf du premier jour dans la salle Moebius. Il y avait un beau spot pour garer la poussette et poser le bébé.
+
+![Bébé à mes pieds en salle Moebius, sur sa petite couverture](/img/2016/pw/conf-moebius.jpg)
+
+![Bébé à l'entrée de la salle Moebius, par terre sur la moquette](/img/2016/pw/poussette-moebius.jpg)
+
+Pendant l'après-midi, j'ai séché une des conférences pour m'aérer un peu la tête. Baby a beaucoup apprécié d'avoir un peu de place pour gambader. « Un peu. »
+
+![Tout petit bébé rampant dans l’immense hall désert](/img/2016/pw/pause-hall.jpg)
+
+Le deuxième jour a été un peu plus compliqué. Baby, qui papotait déjà pas mal la veille, avait décidé ce matin-là qu'elle allait CRIER sa joie au monde. Notamment dans les oreilles des autres participants. Et grimper sur mes voisins.
+
+![Fesses et jambes de bébé tentant une incursion depuis mes genoux vers ceux de la voisine](/img/2016/pw/conf-blin.jpg)
+
+J'ai donc promené cette chère enfant dans les couloirs pendant la première conf, réussi à l'endormir dans le Manduca pendant la deuxième, et assisté à la troisième avec un bébé endormi dans la poussette à côté de moi.
+
+Le deuxième jour, j'ai surtout suivi des conférences dans l'auditorium Blin, avec des emplacements fauteuils roulants. Avec la bénédiction du seul monsieur en fauteuil de la conférence, j'ai pu squatter un de ces emplacements pendant presque toute la journée.
+
+![Poussette garée sur un emplacement pour fauteuil roulant](/img/2016/pw/poussette-blin.jpg)
+
+Pendant la suite de la journée, le staff a gentiment promené Baby pendant l'une ou l'autre conférence. J'ai reçu des photos intéressantes, visiblement personne ne s'est ennuyé pendant ces promenades. :)
+
+### Donner des conférences
+
+Je devais donner une courte conférence le jeudi matin (15 minutes) et un atelier d'1h30 le samedi après-midi.
+
+Pendant la conférence du jeudi matin, j'ai confié le bébé à ma collègue Florie. Elle a d'abord voulu garder la bébé avec elle dans la salle… Mais bébé ayant fait savoir à grands cris qu'elle n'appréciait guère de m'avoir dans son champ de vision sans que je m'occupe d'elle, Florie a fini par sortir de la salle avec la poussette (et le bébé dedans).
+
+(Moi j'ai rien remarqué. J'étais dans mon truc. Mais merci, Florie.)
+
+Pour le samedi, c'est le staff Paris Web qui a gentiment proposé de me garder Baby pendant 1h30. Avant que commence mon atelier, j'ai fourni la poussette, le bébé, le manduca et (c'est là que c'est intéressant) le foulard en coton que je portais autour du cou depuis quelques jours.
+
+J'ai retrouvé le bébé un peu moins de deux heures plus tard. Apparemment elle a testé plusieurs endroits où faire la sieste, et elle a préféré Audrey à la poussette. Je retiens la solution Manduca + foulard-qui-sent-comme-maman pour le baby-sitting à venir !
+
+![Bébé qui dort sur Audrey, le nez dans le foulard](/img/2016/pw/portage-audrey.jpg)
+
+
 
 ## Ce que j'en retiens
 
