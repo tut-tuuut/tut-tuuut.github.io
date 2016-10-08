@@ -34,7 +34,7 @@ Au petit déj, je laissais bébé dans la poussette à côté de moi et je lui d
 
 Comme précisé plus haut, baby est allaitée et c'est la raison principale pour laquelle je l'ai emmenée à Paris Web. Je n'ai donc pas eu à me soucier de trimbaler, préparer ou laver des biberons. C'était franchement confortable.
 
-Les sièges des salles de conférences étaient particulièrement confortables pour allaiter, mais on m'avait indiqué une petite salle à l'abri des regards où j'ai pu allaiter allongée.
+Les sièges des salles de conférences étaient particulièrement confortables pour allaiter, et j'en ai bien profité. On m'avait aussi indiqué une petite salle à l'abri des regards où j'ai pu allaiter allongée.
 
 ![Pause allaitement à la cool entre deux conférences](/img/2016/pw/miam-sein.jpg)
 
@@ -64,6 +64,8 @@ Le deuxième jour, j'ai surtout suivi des conférences dans l'auditorium Blin, a
 
 Pendant la suite de la journée, le staff a gentiment promené Baby pendant l'une ou l'autre conférence. J'ai reçu des photos intéressantes, visiblement personne ne s'est ennuyé pendant ces promenades. :)
 
+De mon côté j'ai quand même pu profiter de la plupart des conférences qui m'intéressaient.
+
 ### Donner des conférences
 
 Je devais donner une courte conférence le jeudi matin (15 minutes) et un atelier d'1h30 le samedi après-midi.
@@ -80,11 +82,16 @@ J'ai retrouvé le bébé un peu moins de deux heures plus tard. Apparemment elle
 
 ### Discuter avec les autres participants
 
-La poussette me rendait assez facile à repérer. En outre, un bébé fournit une excellente occasion d'entamer la conversation. J'avais toujours été un peu trop timide pour adresser la parole à Glazou, maintenant c'est chose faite grâce à la bonne bouille de mon joli bébé.
+La poussette me rendait assez facile à repérer pour qui voulait me parler de ma conf. En outre, un bébé fournit une excellente occasion d'entamer la conversation. J'avais toujours été un peu trop timide pour adresser la parole à Glazou, maintenant c'est chose faite grâce à la bonne bouille de mon joli bébé.
 
-![Bébé qui dort sur Audrey, le nez dans le foulard](/img/2016/pw/tonton-glazou.jpg)
+![Glazou penché sur bébé dans sa poussette, vus d'en haut](/img/2016/pw/tonton-glazou.jpg)
 
+Je ne dis pas non plus que j'ai parlé de la même chose que d'habitude à ce Paris Web. D'habitude, je parle un peu plus de web et un peu moins de diversification alimentaire, et je trolle plus sur les langages de programmation que sur les différentes marques de poussettes.
+
+### Apéro ?
+
+De base je ne suis pas la fille la plus apéro du monde, et de loin. Je me sens très mal à l'aise quand il y a beaucoup de personnes dans un espace clos et bruyant (je déteste particulièrement les bars et les tables de groupe, le métro bondé est assez mal classé également). Le bébé était un parfait prétexte socialement acceptable pour échapper aux divers restaurants et apéros. Après 10 heures de bain de foule au Beffroi, Baby n'aspirait qu'à une longue sieste au calme, et moi aussi.
 
 ## Ce que j'en retiens
 
-Au-delà de mon expérience personnelle, je trouve que c'est une très bonne chose d'avoir pu assister à une conf avec un bébé. Le message qui passe est le suivant : « on ne met pas au placard les jeunes parents ni les mères allaitantes ». J'ai pu venir comme je suis : développeuse web et mère poule, sans avoir besoin de renoncer dans la douleur à l'un de ces rôles pendant 4 jours non stop. Personne n'a remis en question ni le premier ni le deuxième.
+Au-delà de mon expérience personnelle, je trouve que c'est une très bonne chose d'avoir pu assister à une conf avec un bébé. Le message qui passe est le suivant : « on ne met pas au placard les jeunes parents ni les mères allaitantes ». J'ai pu venir comme je suis : développeuse web _et_ mère poule, sans avoir besoin de renoncer dans la douleur à l'un de ces rôles pendant quatre jours non stop. Personne n'a remis en question ni le premier ni le deuxième.
