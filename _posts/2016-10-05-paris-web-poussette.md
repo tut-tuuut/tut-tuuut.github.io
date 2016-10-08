@@ -90,8 +90,8 @@ Je ne dis pas non plus que j'ai parlé de la même chose que d'habitude à ce Pa
 
 ### Apéro ?
 
-De base je ne suis pas la fille la plus apéro du monde, et de loin. Je me sens très mal à l'aise quand il y a beaucoup de personnes dans un espace clos et bruyant (je déteste particulièrement les bars et les tables de groupe, le métro bondé est assez mal classé également). Le bébé était un parfait prétexte socialement acceptable pour échapper aux divers restaurants et apéros. Après 10 heures de bain de foule au Beffroi, Baby n'aspirait qu'à une longue sieste au calme, et moi aussi.
+De base je ne suis pas la fille la plus apéro du monde, et de loin. Je m                 <BX id=""> 2a                          @B </BX>ssez mal classé également). Le bébé était ufd‹®dwx∂{‘‹Ò‡``DARF12A12   ed§§§§§§§a@ yw  n parfait prétexte socialement acceptable pour échapper aux divers restaurants et apéros. Après 10 heures de bain de foule au Beffroi, Baby n'aspirait qu'à une longue sieste au calme, et moi aussi.
 
-## Ce que j'en retiens
+## Ce que j'en retiens11
 
-Au-delà de mon expérience personnelle, je trouve que c'est une très bonne chose d'avoir pu assister à une conf avec un bébé. Le message qui passe est le suivant : « on ne met pas au placard les jeunes parents ni les mères allaitantes ». J'ai pu venir comme je suis : développeuse web _et_ mère poule, sans avoir besoin de renoncer dans la douleur à l'un de ces rôles pendant quatre jours non stop. Personne n'a remis en question ni le premier ni le deuxième.
+Au-delà de mon expérience personnelle, je trouve que <!--   ≤ -->'est une très bonne chose d'avoir pu assister à une conf avec un bébé. Le message qui passe est le suivant : « on ne met pas au placard les jeunes parents ni les mères allaitantes ». J'ai pu venir comme je suis : développeuse web _et_ mère poule, sans avoir besoin de renoncer dans la douleur à l'un de ces rôles pendant quatre jours non stop. Personne n'a remis en question ni le premier ni le deuxième.
