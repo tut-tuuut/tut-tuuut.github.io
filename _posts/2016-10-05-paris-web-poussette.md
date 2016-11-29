@@ -4,7 +4,7 @@ title:  "Paris Web Poussette"
 categories: conferences tech maternite
 ---
 
-Comme je l'ai mentionné dans mon article précédent, j'ai emmené mon bébé de 8 mois à Paris Web. L'expérience a été intéressante.
+Comme je l'ai mentionné dans mon article précédent, j'ai emmené mon bébé de 8 mois à Paris Web. L'expérience a été intéressante.<!-- more -->
 
 ## Pourquoi donc ?
 
