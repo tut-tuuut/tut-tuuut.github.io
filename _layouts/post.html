@@ -18,10 +18,9 @@ layout: default
         <div class="after">Après : <a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
         {% endif %}
     </nav>
-{{page.slug}}
+</article>
 
 {% assign comments = site.data.comments[page.slug] %}
-
 <div class="comments">
     {% if comments == nil %}
         <div class="sad">Aucun commentaire… :'(</div>
@@ -39,6 +38,7 @@ layout: default
         {% endfor %}
     {% endif %}
 </div>
+<h2>Ajouter un commentaire</h2>
 <div class="new-comment">
     <form method="POST" action="https://api.staticman.net/v2/entry/tut-tuuut/tut-tuuut.github.io/master/comments">
         <fieldset>
@@ -84,7 +84,6 @@ layout: default
     </script>
     <noscript>Activez le JavaScript pour voir les <a href="http://disqus.com/?ref_noscript">commentaires Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">Commentaires propulsés par <span class="logo-disqus">Disqus</span></a>-->
-</article>
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@tut_tuuut" />
 <meta name="twitter:title" content="{{ page.title }}" />
