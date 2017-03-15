@@ -22,12 +22,12 @@ On tricote des _mailles_ (_stitches_ en anglais), qui sont l'unité de base d'un
 
 On peut tricoter de deux manières :
 
-* en allers-retours, où on retourne le travail à chaque fin de rang (on tricote donc la première maille du rang suivant sur la dernière maille du rang précédent),
-* en rond, où on tricote le début du rang suivant sur la première maille du rang précédent (à l'aide d'aiguilles circulaires ou à doubles pointes).
+* en _allers-retours_, où on retourne le travail à chaque fin de rang (on tricote donc la première maille du rang suivant sur la dernière maille du rang précédent),
+* en _rond_, où on tricote le début du rang suivant sur la première maille du rang précédent (à l'aide d'aiguilles circulaires ou à doubles pointes).
 
 Il est aussi possible de tricoter un bout du travail en allers-retours et un autre bout en rond. C'est open. Vous pouvez faire tout ce que vous voulez. Ça sera peut-être moche, par contre. On n'a rien sans rien.
 
-Après mes premiers essais, j'ai voulu me fabriquer quelque chose, pour moi. Mais comme j'étais toute débutante, j'ai cherché des idées et des conseils sur le grand internet du monde…
+Après mes premiers essais de -carrés- -rectangles- quadrilatères tricotés, j'ai voulu me fabriquer quelque chose, pour moi. Mais comme j'étais toute débutante, j'ai cherché des idées et des conseils sur le grand internet du monde…
 
 …et au fil (haha) de ma navigation, j'ai trouvé des idées. Plein !
 
@@ -35,7 +35,7 @@ Après mes premiers essais, j'ai voulu me fabriquer quelque chose, pour moi. Mai
 
 Oui, il existe un réseau social dédié au tricot et au crochet. Le site s'appelle Ravelry. Il contient un catalogue immense de modèles partagés par les membres, souvent gracieusement. On y trouve des instructions pour tricoter des chaussettes, des moufles, des pulls, des chauffe-épaules, des couvertures…
 
-Oui, évidemment, je me suis empressée de créer un compte dessus. Toute cette potentialité de tricot qui s'ouvrait à moi, c'était génial ! J'allais pouvoir me changer les idées du boulot ! PARFAIT !
+Évidemment, je me suis empressée de créer un compte dessus. Toute cette potentialité de tricot qui s'ouvrait à moi, c'était génial ! J'allais pouvoir me changer les idées du boulot ! PARFAIT !
 
 J'ai téléchargé des dizaines de PDF d'instructions en m'exclamant « ce bonnet est trop beau », ou « j'adore ces mitaines », ou encore « il faut que je me fasse ce pull ». Et puis… et puis j'ai ouvert un des fichiers PDF sus-mentionnés. Voici ce que j'ai vu :
 
@@ -71,11 +71,13 @@ Mais vraiment.
 
 Écrire `kfab` au lieu de `knit into the front and back of stitch`, c'est définir une fonction pour alléger le code.
 
-Et `*kfab, slipm, kfab, knit to one st before sm; repeat from * twice`, en programmation, ça s'appelle une boucle `for`.
+Et `*kfab, slipm, kfab, knit to one st before sm; répéter deux fois depuis *`, en programmation, ça s'appelle une boucle `for`.
 
 Et ces gros tableaux imbitables en fonction de la taille du vêtement que l'on tricote, c'est presque une utilisation de variables. (Ou en tout cas ça serait bien !)
 
 On a aussi des boucles `while`. Par exemple, « tricoter tout à l'envers, puis tricoter tout à l'endroit, répéter ces deux rangs _jusqu'à ce que la pièce mesure 30 cm_ ».
+
+On a même une notion de somme de contrôle : je croise souvent des _à la fin de ce rang, vous devriez avoir 118 mailles_.
 
 Qu'on ne vienne pas me répéter que les nanas ne savent pas coder : celles qui écrivent des modèles de tricot font preuve d'une capacité d'abstraction et de modélisation plutôt remarquable. Sans parler de la concentration nécessaire pour comprendre puis suivre un modèle sans se tromper.
 
@@ -97,5 +99,5 @@ Sinon, plus subtil : vous savez qu'un programme est analysé par l'ordinateur po
 
 D'ailleurs je vois en écrivant cette note qu'il manque 3 rangs d'augmentations dans mon excel… Cela pourrait expliquer que mon truc ait l'air trop petit. Je vais recompter.
 
-(Oui je fais des excel de tricot, et j'assume. Voilà.)
+(Oui, je fais des excel de tricot, et j'assume. Voilà.)
 (Ah oui et effectivement, je tricote en franglais. Ça va plus vite de dire _knit_ et _purl_ dans ma tête que _tricoter une maille à l'endroit_ et _tricoter une maille à l'envers_ !)
