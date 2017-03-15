@@ -67,19 +67,25 @@ Et là, j'ai enfin compris.
 
 ## Écrire un modèle de tricot, c'est comme écrire un programme
 
-Mais vraiment.
+Mais vraiment. On peut pousser la comparaison _très très loin_.
 
 Écrire `kfab` au lieu de `knit into the front and back of stitch`, c'est définir une fonction pour alléger le code.
 
-Et `*kfab, slipm, kfab, knit to one st before sm; répéter deux fois depuis *`, en programmation, ça s'appelle une boucle `for`.
+Et `*kfab, slipm, kfab, knit to one st before sm; repeat twice from *`, en programmation, ça s'appelle une boucle `for`.
 
 Et ces gros tableaux imbitables en fonction de la taille du vêtement que l'on tricote, c'est presque une utilisation de variables. (Ou en tout cas ça serait bien !)
 
+Et on a même des mélange : une définition de fonction (ici, `tour d'aug` pour « tour d'augmentation ») qui contient une boucle for.
+
+```
+tour d'aug: 1 end, M1, *end jusqu'à 1 m avant le marqueur, M1, 2 end, M1*; répéter la séquence *…*  deux fois encore, end jusqu'à la dernière m, M1, 1 end.
+```
+
 On a aussi des boucles `while`. Par exemple, « tricoter tout à l'envers, puis tricoter tout à l'endroit, répéter ces deux rangs _jusqu'à ce que la pièce mesure 30 cm_ ».
 
-On a même une notion de somme de contrôle : je croise souvent des _à la fin de ce rang, vous devriez avoir 118 mailles_.
+On a même une notion de _somme de contrôle_ : je croise souvent des _à la fin de ce rang, vous devriez avoir 118 mailles_.
 
-Qu'on ne vienne pas me répéter que les nanas ne savent pas coder : celles qui écrivent des modèles de tricot font preuve d'une capacité d'abstraction et de modélisation plutôt remarquable. Sans parler de la concentration nécessaire pour comprendre puis suivre un modèle sans se tromper.
+Donc, qu'on ne vienne pas me répéter que les nanas ne savent pas coder : celles qui écrivent des modèles de tricot font preuve d'une capacité d'abstraction et de modélisation plutôt remarquable. Et celles qui arrivent à comprendre un modèle comme ça se débrouillent sûrement bien aussi.
 
 (Fin de la parenthèse féministe.)
 
@@ -93,11 +99,11 @@ Les pelotes sont les données d'entrées, le pull est la donnée de sortie, le r
 
 On a des programmes qui se prêtent bien au multi-thread (on peut se mettre à plusieurs tricoteuses pour fabriquer chacune un carré de couverture et tout assembler à la fin) et d'autres, pas du tout (un pull tricoté en rond sans couture, il faut le faire seule… ou à la limite on peut se mettre chacune sur une manche vers la fin).
 
-Sinon, plus subtil : vous savez qu'un programme est analysé par l'ordinateur pour en faire des instructions qu'il comprend (on parle de langage machine, bas niveau). La plupart des langages de programmation ont plusieurs niveaux d'abstraction. Je sais que mon cerveau n'est pas capable d'interpréter directement les instructions complexes ci-dessus. J'ai besoin de les redécouper en instructions plus simples (quoique pas forcément élémentaires) : au lieu de « répéter les deux rangs précédents 8 fois », je vais me faire un fichier excel avec 9 fois les deux rangs décrits, et je vais les cocher au fur et à mesure. J'hésite entre une analogie entre le langage machine ou simplement l'opcode de PHP. L'opcode, c'est encore du "relativement" haut niveau (du genre "je tricote 118 mailles à l'endroit, une augmentation, 2 mailles à l'endroit…"). Le langage machine, ce serait plutôt "je pique l'aiguille dans la maille, j'enroule le fil et je ramène l'aiguille"
+Sinon, plus subtil : vous savez qu'un programme est analysé par l'ordinateur pour en faire des instructions qu'il comprend (on parle de langage machine, ou de langage bas niveau). Je sais que mon cerveau n'est pas capable d'interpréter directement les instructions complexes ci-dessus. J'ai besoin de les redécouper en instructions plus simples (quoique pas forcément élémentaires) : au lieu de « répéter les deux rangs précédents 8 fois », je vais me faire un fichier excel avec 9 fois les deux rangs décrits, et je vais les cocher au fur et à mesure. Donc je travaille avec une représentation de niveau intermédiaire, du genre « je tricote 118 mailles à l'endroit, une augmentation, 2 mailles à l'endroit… »). Le langage machine, de très bas niveau, ce serait plutôt « je pique l'aiguille dans la maille, j'enroule le fil et je ramène l'aiguille ».
 
 ![Alternance débile de rangs normaux et de rangs d'augmentation, dont les 8 premiers sont cochés](/img/2017/excel-tricot.png)
 
-D'ailleurs je vois en écrivant cette note qu'il manque 3 rangs d'augmentations dans mon excel… Cela pourrait expliquer que mon truc ait l'air trop petit. Je vais recompter.
+D'ailleurs je vois en écrivant cette note qu'il manque 3 rangs d'augmentation dans mon excel… Cela pourrait expliquer que mon truc ait l'air trop petit. Je vais recompter.
 
 (Oui, je fais des excel de tricot, et j'assume. Voilà.)
 (Ah oui et effectivement, je tricote en franglais. Ça va plus vite de dire _knit_ et _purl_ dans ma tête que _tricoter une maille à l'endroit_ et _tricoter une maille à l'envers_ !)
