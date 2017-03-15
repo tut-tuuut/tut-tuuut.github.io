@@ -18,6 +18,37 @@ layout: default
         <div class="after">Après : <a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
         {% endif %}
     </nav>
+{{page.slug}}
+{% assign comments = site.data.comments[page.slug] %}
+{% if comments == nil %}
+<div class="sad">Aucun commentaire… :'(</div>
+{% else %}
+{% assign sortedComments = comments | sort %}
+{% for comment in comments %}
+{% assign comData = comment[1] %}
+<div class="comment">
+      <img src="https://www.gravatar.com/avatar/{{ comData.email }}?s=100&d=monsterid" alt="">
+      {{ comData.name }}
+      {{ comData.message }}
+</div>
+
+{% endfor %}
+{% endif %}
+
+
+    <form method="POST" action="https://api.staticman.net/v2/entry/tut-tuuut/tut-tuuut.github.io/master/comments">
+        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
+        <label for="commentsName">Nom</label><input id="commentsName" name="fields[name]" type="text">
+        <label for="commentsEmail">Adresse e-mail</label><input id="commentsEmail" name="fields[email]" type="email">
+        <label for="commentsUrl">URL</label><input id="commentsUrl" name="fields[url]" type="text">
+
+        <label for="commentsMessage">Message</label>
+        <textarea id="commentsMessage" name="fields[message]"></textarea>
+  
+        <button type="submit">Commenter</button>
+    </form>
+
     <!--<div id="disqus_thread"></div>
     <script type="text/javascript">
         var disqus_shortname = 'tut-tuuut';
