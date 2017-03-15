@@ -31,7 +31,9 @@ layout: default
             {% assign comData = comment[1] %}
             <div class="comment">
                   <img src="https://www.gravatar.com/avatar/{{ comData.email }}?s=100&d=monsterid" alt="">
-                  <div class="name">{{ comData.name }}</div>
+                  <div>
+                    <span class="name">{{ comData.name }}</span>
+                    <span class="date">le {{ comData.date | date: "%d/%m/%Y à %H:%M"}}</span></div>
                   <div class="message">{{ comData.message }}</div>
             </div>
         {% endfor %}

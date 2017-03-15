@@ -295,7 +295,29 @@ input, textarea {
     width: 70%;
   }
 }
-
+.comments {
+  margin: .5em 0;
+  border: 1px solid #ccc;
+  padding: .5em;
+  .comment {
+    img {
+      float: left; margin: .5em;
+    }
+    .name {
+      font-weight: bold;
+    }
+    .date {
+      font-style: italic;
+      color: #aaa;
+      font-size: .9em;
+    }
+    &:after {
+      content: '…';
+      clear: both;
+      color: transparent;
+    }
+  }
+}
 
 @media (max-width: 700px) {
   .sidebar {
