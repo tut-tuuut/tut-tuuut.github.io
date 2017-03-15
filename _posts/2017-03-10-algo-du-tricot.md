@@ -4,7 +4,7 @@ title:  "L'algo du tricot"
 categories: algorithmique tricot
 ---
 
-Il y a quelques semaines, pour des raisons qui restent à expliquer, j'ai ressenti l'appel impérieux de ma nouvelle passion : le tricot. J'ai donc acheté une pelote et une paire d'aiguilles n<sup>o</sup> 8, et je m'y suis mise. J'ai commencé avec une vidéo youtube, puis deux, puis… puis j'ai racheté des aiguilles plus petites, et d'autres pelotes, et…
+Il y a quelques semaines, pour des raisons qui restent à expliquer, j'ai ressenti l'appel impérieux de ma nouvelle passion : le tricot. J'ai donc acheté une pelote et une paire d'aiguilles n<sup>o</sup> 8, et je m'y suis mise. J'ai commencé avec une vidéo youtube, puis deux, puis… puis j'ai racheté des aiguilles plus petites, et d'autres pelotes, et…<!-- more -->
 
 Bref, ça me plaît.
 
