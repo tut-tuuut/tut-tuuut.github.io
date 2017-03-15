@@ -107,3 +107,9 @@ D'ailleurs je vois en écrivant cette note qu'il manque 3 rangs d'augmentation d
 
 (Oui, je fais des excel de tricot, et j'assume. Voilà.)
 (Ah oui et effectivement, je tricote en franglais. Ça va plus vite de dire _knit_ et _purl_ dans ma tête que _tricoter une maille à l'endroit_ et _tricoter une maille à l'envers_ !)
+
+## Conclusion
+
+Je suis nulle en conclusions. J'hésite entre « Embauchez des tricoteuses ! » et « rabattez toutes les mailles et rentrez les fils ».
+
+Disons les deux, alors ? Embauchez des tricoteuses, puis rabattez les mailles et rentrez les fils. À bientôt !
