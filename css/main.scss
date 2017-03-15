@@ -276,6 +276,26 @@ table {
   }
 }
 
+// Add comment form
+
+input, textarea {
+  font-size: 1em;
+  padding: .5em;
+  font-family: "PT Serif", Georgia, serif;
+}
+.field {
+  display: flex;
+  padding: .25em;
+  label {
+    text-align: right;
+    padding-right: .5em;
+    width: 30%;
+  }
+  input, textarea {
+    width: 70%;
+  }
+}
+
 
 @media (max-width: 700px) {
   .sidebar {
@@ -298,6 +318,16 @@ table {
       padding: 0;
       text-align: center;
       vertical-align: middle;
+    }
+  }
+  .field {
+    flex-direction: column;
+    label, input, textarea {
+      width: auto;
+    }
+    label {
+      text-align: center;
+      padding: 0;
     }
   }
 }
