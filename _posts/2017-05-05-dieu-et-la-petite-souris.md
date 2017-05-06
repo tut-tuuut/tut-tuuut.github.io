@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dieu et la Petite Souris"
-categories: reflexion
+categories: reflexion religion
 ---
 
 Je mijote un article sur la religion chrétienne (catholique en particulier) depuis plusieurs années. J'ai envie — besoin ? — de poser à plat les opinions contradictoires qu'elle m'inspire. Il y a du matériel, je vais donc sortir plusieurs épisodes. Commençons par… eh bien, le commencement. Il se trouve que j'ai reçu des fragments d'éducation religieuse pendant mon enfance. C'est cela que je vais vous raconter ce soir. <!-- more --> Dans les articles suivants, je serai moins sympa, ne vous inquiétez pas. :p
