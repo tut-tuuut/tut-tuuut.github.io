@@ -184,6 +184,8 @@ Et enfin, s'informer sur l'allaitement. Ça peut aider pour éviter de dire trop
 
 <span class="name agnes">Agnès :</span> Oui. <em class="didascalie">(Elle acquiesce.)</em>
 
-<span class="name sarah"></span>
+<span class="name sarah">Sarah :</span> Si vous pouvez donner un avis sur les locaux, essayez de dire non aux vitres. Agnès en a parlé, c'était compliqué pour elle d'avoir de l'intimité pour son allaitement. Une solution peut être de mettre des stores qu'on peut relever ou abaisser sur toutes les parois vitrés.
+
+Par contre, prévoyez des infirmeries, qui ferment à clé, avec un frigo, un point d'eau et une assise confortable… Cela dit, quelqu'un m'a expliqué ce matin que dans la grosse entreprise où elle travaillait, elle devait aller à l'infirmerie située… à 15 minutes de marche. Elle passe vite, la pause de 30 minutes, comme ça.
 
 <img src="/img/2017/mafia-lactee/slide-22.png" alt="">
