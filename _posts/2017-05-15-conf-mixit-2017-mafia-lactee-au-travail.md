@@ -188,4 +188,13 @@ Et enfin, s'informer sur l'allaitement. Ça peut aider pour éviter de dire trop
 
 Par contre, prévoyez des infirmeries, qui ferment à clé, avec un frigo, un point d'eau et une assise confortable… Cela dit, quelqu'un m'a expliqué ce matin que dans la grosse entreprise où elle travaillait, elle devait aller à l'infirmerie située… à 15 minutes de marche. Elle passe vite, la pause de 30 minutes, comme ça.
 
+Niveau organisation, plusieurs points. D'abord, le télétravail c'est sympa quand on allaite : on est tranquille pendant et après avoir tiré son lait, on a son propre frigo… mais ce n'est pas seulement bénéfique pour l'allaitement : c'est souvent utile pour travailler efficacement de pouvoir s'isoler de l'open space bruyant ou de s'épargner du temps de transport. Ensuite, ne le prenez pas mal si une femme allaitante quitte une réunion en courant… parfois, il y a besoin. Et même, en général, ne vous offusquez pas si quelqu'un quitte une réunion avant la fin : il ou elle sera peut-être plus utile ailleurs…
+
+
 <img src="/img/2017/mafia-lactee/slide-22.png" alt="">
+
+<span class="name sarah">Sarah :</span> Et voilà la fin de cette conférence. Nous espérons que ça vous a plu.
+
+<span class="name agnes">Agnès :</span> Si vous voulez creuser la question de l'allaitement en général, le livre de Marie Thirion, _L'allaitement_, est vraiment très bien. Il vulgarise le fonctionnement des seins, les erreurs courantes, etc. Et sur l'allaitement au travail, le blog Lactissima.com est très bien, avec des informations pour les femmes qui veulent concillier allaitement et boulot, mais _aussi_ pour les employeurs.
+
+Merci de votre attention ! :)
