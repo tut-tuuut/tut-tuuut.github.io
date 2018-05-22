@@ -109,10 +109,10 @@ $sidebar_width: 17em;
     ul {
       margin: 0;
       padding: 0;
+      list-style: none;
       li {
-        display: inline;
-        &+ li:before {
-          content: ' • ';
+        a {
+          display: block;
         }
       }
     }
