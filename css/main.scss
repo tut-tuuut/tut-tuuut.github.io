@@ -5,12 +5,12 @@
 html, body { height: 100%; }
 
 body {
-  font: 13.34px "PT Serif", Georgia, serif;
+  font: 13.34px Georgia, serif;
   font-size: small;
   text-align: center;
 }
 
-h1 { margin: 0 0 1em; font-family: 'Delius', cursive; font-weight: normal;}
+h1 { margin: 0 0 1em; font-weight: bold;}
 h2 {
   margin: 1.3333333em 0;
 }
@@ -53,7 +53,6 @@ a:hover   { color: #f06; }
   margin-bottom: 2em;
   h2 {
     margin-bottom: 0;
-    font-family: 'Delius', cursive;
     font-weight: normal;
     a {
       text-decoration: none;
@@ -89,7 +88,6 @@ body {
 }
 $sidebar_width: 17em;
 .sidebar {
-  font-family: 'Delius', cursive;
   left: 0;
   position: absolute;
   text-decoration: none;
