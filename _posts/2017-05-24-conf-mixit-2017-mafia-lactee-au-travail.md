@@ -106,13 +106,11 @@ Si on a « trop de lait » et qu'on décide de tirer son lait pour soulager…
 
 Pour conduire correctement un allaitement, il faut laisser le bébé téter souvent, sans limiter en temps ou en nombre. Et un allaitement bien conduit peut durer 2, 3 ans… tant que le bébé tète, il y a du lait ! Il n'y a pas de "oulala, avec tout ce qu'il tète, bientôt je n'aurai plus de lait" !
 
-<img src="/img/2017/mafia-lactee/slide-12.png" alt="">
-
-<span class="name agnes">Agnès :</span> Voilà, félicitations ! Vous en savez autant que mon pédiatre.
+<span class="name agnes">Agnès :</span> Voilà, félicitations ! Vous connaissez les bases.
 
 <span class="name sarah">Sarah :</span> <em class="didascalie">(Applaudit)</em> Bravo !
 
-<span class="name agnes">Agnès :</span> Bon, j'exagère un peu… Il y a sûrement des pédiatres qui connaissent le sujet. Sûrement. Mais derrière la blague, je voulais quand même signaler qu'il y a un problème d'accompagnement de l'allaitement en France.
+<span class="name agnes">Agnès :</span> Derrière la blague, je voulais quand même signaler qu'il y a un problème d'accompagnement de l'allaitement en France.
 
 <img src="/img/2017/mafia-lactee/slide-13.png" alt="">
 
