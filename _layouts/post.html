@@ -1,38 +1,37 @@
 ---
 layout: default
 ---
-<article>
-    <header><h1>{{ page.title }}</h1></header>
-    <aside class="meta">
-        {%include frenchDate.html date=page.date %}
-    </aside>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <div class="post">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
-    </div>
-    <nav class="prevnext">
-        {% if page.previous != nil %}
-        <div class="before">Avant : <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></div>
-        {% endif %}
-        {% if page.next != nil %}
-        <div class="after">Après : <a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
-        {% endif %}
-    </nav>
-    <!--<div id="disqus_thread"></div>
-    <script type="text/javascript">
-        var disqus_shortname = 'tut-tuuut';
-        var disqus_url = '{{ site.url }}{{ page.url }}';
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Activez le JavaScript pour voir les <a href="http://disqus.com/?ref_noscript">commentaires Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">Commentaires propulsés par <span class="logo-disqus">Disqus</span></a>-->
+  </div>
+
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}">&larr;&nbsp;{{ page.previous.title }}</a>
+  {% endif %}
+
+  {% if page.previous and page.next %}
+  <span class="separator">&nbsp;&nbsp;</span>
+  {% endif %}
+
+  {% if page.next %}
+    <a href="{{ page.next.url }}">{{ page.next.title }}&nbsp;&rarr;</a>
+  {% endif %}
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
 </article>
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@tut_tuuut" />
-<meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines }}" />
-<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
