@@ -1,4 +1,9 @@
-name: Tûtie’s blog
+title: Tûtie’s blog
+author: Agnès Haasser
+email: prenom.nom@gmail.com
+github_username: tut-tuuut
+twitter_username: tut_tuuut
+description: Bienvenue.
 markdown: kramdown
 theme: minima
 highlighter: pygments
