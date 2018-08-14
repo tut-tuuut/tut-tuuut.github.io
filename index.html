@@ -17,12 +17,13 @@ title: Blog
   </div>
 
   <div class="pagination">
+    <p class="">Page {{ paginator.page }} / {{ paginator.total_pages }}</p>
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="cell">&larr;&nbsp;Précédente</a>
+      <p><a href="{{ paginator.previous_page_path }}" class="cell">&larr;&nbsp;Précédente</a></p>
     {% endif %}
-      <span class="">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
+      
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="cell">Suivante&nbsp;&rarr;</a>
+      <p><a href="{{ paginator.next_page_path }}" class="cell">Suivante&nbsp;&rarr;</a></p>
     {% endif %}
   </div>
 
