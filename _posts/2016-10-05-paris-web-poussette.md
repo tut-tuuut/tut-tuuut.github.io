@@ -22,9 +22,7 @@ Finalement, j'ai emporté ma poussette Babyzen Yoyo (hyper légère et très com
 
 ### À l'hôtel
 
-J'avais prévenu le staff quelques semaines (jours ?) à l'avance pour savoir s'il était possible d'avoir un lit parapluie. J'ai eu la confirmation que oui l'avant-veille de mon départ. Au final elle n'a dormi que la moitié de chaque nuit dans le lit parapluie… En effet, la clim asséchant vite l'atmosphère, baby voulait toujours boire un coup à 2 heures du mat’, que je lui donnais allongée dans le lit double. À chaque fois on s'est donc réveillée 5 heures plus tard dans ledit lit double.
-
-J'apprécie tout de même d'avoir eu le lit parapluie : ça me rassurait d'avoir un endroit où poser bébé éveillée en pleine forme sans risquer qu'elle ne tombe plus bas.
+J'avais prévenu le staff quelques semaines (jours ?) à l'avance pour savoir s'il était possible d'avoir un lit parapluie. J'ai eu la confirmation que oui l'avant-veille de mon départ.
 
 Sinon j'ai quand même dû laver cette chère enfant à un moment donné. Je n'avais pas de bassine ni de baignoire bébé, donc je l'ai posée dans la douche de la salle de bains de l'hôtel, sur une serviette de bain, et je l'ai douchée à l'eau tiède. Elle a trouvé ça très amusant jusqu'à ce qu'elle reçoive de l'eau sur la tête.
 
