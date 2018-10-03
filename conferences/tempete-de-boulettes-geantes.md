@@ -5,7 +5,7 @@ layout: page
 
 # Tempête de boulettes géantes
 
-![Bonjour ! Je suis Agnès, je travaille chez TEA](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.004.jpeg)
+![Bonjour ! Je suis Agnès, je travaille chez TEA](/img/2018/boulettes/boulettes.004.jpeg)
 
 Bonjour à tous, bienvenue <del>à Paris Web</del> sur cette page web ! Merci à vous d’être ici pour assister à ma conférence… même si vous n’avez pas le choix puisque c’est une plénière… hum…
 
@@ -15,7 +15,7 @@ Pour l’instant, tout ce que vous avez besoin de savoir à mon propos, c’est 
 
 ---
 
-![boulettes.005](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.005.jpeg)
+![boulettes.005](/img/2018/boulettes/boulettes.005.jpeg)
 
 Avant de passer à la suite, voici le lien vers la transcription de ma conférence à l’écrit, des fois que le flux vidéo ne marcherait pas parfaitement ou que la vélotypie. Et vous avez un QR code aussi. Technologie !
 
@@ -23,7 +23,7 @@ Avant de passer à la suite, voici le lien vers la transcription de ma conféren
 
 ---
 
-![boulettes.006](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.006.jpeg)
+![boulettes.006](/img/2018/boulettes/boulettes.006.jpeg)
 
 Et maintenant, un tout petit peu de sport pour commencer la journée. Le sujet d’aujourd’hui : les boulettes. Je vous affiche la définition à l’écran : une erreur humaine donnant lieu à un incident en production.
 
@@ -37,7 +37,7 @@ De mon côté, je baisse la main… en 8 ans de développement, j'ai eu le temps
 
 ---
 
-![boulettes.008](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.008.jpeg)
+![boulettes.008](/img/2018/boulettes/boulettes.008.jpeg)
 
 Je vous disais donc qu’en 8 ans j’ai eu le temps de commettre moult boulettes, je vous présente la plus spectaculaire… elle date du 8 mars de cette année.
 
@@ -49,7 +49,7 @@ Je ne sais pas si vous vous souvenez du nom de l’entreprise où je bosse, mais
 
 ---
 
-![boulettes.009](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.009.jpeg)
+![boulettes.009](/img/2018/boulettes/boulettes.009.jpeg)
 
 D’ailleurs, ce n’était pas une « idée » . Ce que je voulais faire en vrai, c’était supprimer seulement certains ebooks et pour ça je voulais passer un identifiant comme vous voyez là, en fin de requête.
 
@@ -57,15 +57,15 @@ Et donc j’avais stocké l’identifiant dans une variable, et ça s’est pas 
 
 ---
 
-![boulettes.010](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.010.jpeg)
+![boulettes.010](/img/2018/boulettes/boulettes.010.jpeg)
 
 Voilà comment je me sentais après (j’étais grise-blanche pareil, mais un peu moins barbue).
 
 ---
 
-![boulettes.011](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.011.jpeg)
+![boulettes.011](/img/2018/boulettes/boulettes.011.jpeg)
 
-![boulettes.012](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.012.jpeg)
+![boulettes.012](/img/2018/boulettes/boulettes.012.jpeg)
 
 Alors, j’ai fait ce que je fais déjà beaucoup trop, je suis allée sur twitter, et j’ai posé la question : quelle est la pire boulette que vous ayez commise au cours de votre carrière ?
 
@@ -73,13 +73,13 @@ J’ai eu pas mal de réponses. Pas loin de 200.
 
 ---
 
-![bouledex.001](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/bouledex.001.jpeg)
+![bouledex.001](/img/2018/boulettes/bouledex.001.jpeg)
 
 Et toutes ces boulettes qu’on m’avait racontées, je les ai numérotés, puis stockées dans un tableur que j’ai surnommé le « boulédex ». Parce que en plus de passer trop de temps sur twitter, je passe aussi beaucoup de temps à jouer à Pokémon.
 
 ---
 
-![boulettes.014](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.014.jpeg)
+![boulettes.014](/img/2018/boulettes/boulettes.014.jpeg)
 
 Là c’est le moment où je vous donne quelques exemples tirés de mon boulédex pour rire un peu avant de passer dans la partie plus sérieuse. Pour commencer,  celle-ci, la boulette 230 : un script en perl qui fait un `rm -rf /$variable`… et un jour `$variable` est vide. Ça me dit quelque chose…
 
@@ -87,7 +87,7 @@ Donc un jour, cette personne a supprimé tout le contenu du disque. Quand on fai
 
 ---
 
-![boulettes.015](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.015.jpeg)
+![boulettes.015](/img/2018/boulettes/boulettes.015.jpeg)
 
 Ensuite, on rentre dans la catégorie spam.
 
@@ -95,13 +95,13 @@ Classique, si on envoie plusieurs millions de mails accidentellement, on se fait
 
 ---
 
-![boulettes.017](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.017.jpeg)
+![boulettes.017](/img/2018/boulettes/boulettes.017.jpeg)
 
 Dans la même catégorie, j’aime particulièrement le spam double, papier et numérique : ça pour le coup c’est quelque chose que je n’ai jamais fait. Cette personne a envoyé 60 fois la même facture — papier et email — à une trentaine de gros clients. Pourquoi ? Un mauvais if. Quand j’ai lu ce tweet, j’ai vu « un bug dans le code est arrivé en prod », et j’ai commencé à avoir envie de donner une conférence…
 
 ---
 
-![boulettes.020](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.020.jpeg)
+![boulettes.020](/img/2018/boulettes/boulettes.020.jpeg)
 
 On arrive à la boulette 276, celle qui m’a fait relativiser BEAUCOUP. En lettres capitales.
 
@@ -113,7 +113,7 @@ Ma boulette à moi ce n’était pas du même ordre de grandeur.
 
 ---
 
-![boulettes.023](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.023.jpeg)
+![boulettes.023](/img/2018/boulettes/boulettes.023.jpeg)
 
 Et enfin, en hors compétition, il y a les boulettes des sysadmin : celui-ci gérait des serveurs sur une baie hébergée à environ 100 km de là. Il se connectait en SSH, c’est-à-dire via internet… et il a totalement isolé sa machine d'internet. À ce moment-là, le seul moyen de rétablir le service, c'était de se rendre sur place… pour appuyer sur un bouton.
 
@@ -121,7 +121,7 @@ Ya des jours comme ça. Au moins, en général je n’ai pas besoin de rouler 20
 
 ---
 
-![boulettes.027](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.027.jpeg)
+![boulettes.027](/img/2018/boulettes/boulettes.027.jpeg)
 
 Bref, une fois que j’avais bien rigolé et bien relativisé, tous ces récits de boulette m’ont donné envie d’en parler. Parce qu’il y a un certain nombre de ces boulettes qui sont tout à fait évitables en 2018.
 
@@ -135,7 +135,7 @@ Et pour finir, car c’est ça le plus important, comment tirer le meilleur de c
 
 ---
 
-![boulettes.031](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.031.jpeg)
+![boulettes.031](/img/2018/boulettes/boulettes.031.jpeg)
 
 En première partie, je vais vous donner quelques astuces pour éviter de commettre des boulettes.
 
@@ -143,13 +143,13 @@ On va exploiter des robots, des oiseaux, et votre cerveau.
 
 ---
 
-![boulettes.032](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.032.jpeg)
+![boulettes.032](/img/2018/boulettes/boulettes.032.jpeg)
 
 Première sous-partie : exploiter les robots. Qu’est-ce qu’elle veut dire par là ?
 
 ---
 
-![boulettes.033](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.033.jpeg)
+![boulettes.033](/img/2018/boulettes/boulettes.033.jpeg)
 
 Je donne l’exemple de la boulette numéro 10 : un gars qui déploie en prod à la place de la recette parce que… l’IP des serveurs est presque la même ? :o
 
@@ -157,9 +157,9 @@ Et donc… il tape l’IP du serveur à la main à chaque fois qu’il déploie 
 
 ---
 
-![boulettes.034](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.034.jpeg)
+![boulettes.034](/img/2018/boulettes/boulettes.034.jpeg)
 
-![boulettes.037](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.037.jpeg)
+![boulettes.037](/img/2018/boulettes/boulettes.037.jpeg)
 
 Ce que fait ce monsieur, c’est du déploiement manuel. Je n’aime pas ça.
 
@@ -171,7 +171,7 @@ Et aussi, ça vous fait perdre du temps sur des tâches qui n’ont pas de valeu
 
 ---
 
-![boulettes.039](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.039.jpeg)
+![boulettes.039](/img/2018/boulettes/boulettes.039.jpeg)
 
 Le premier rempart contre les boulettes, c’est de réduire le nombre d’interventions manuelles. Donc il faut automatiser : les déploiements, car ça arrive souvent ; les tests, car on a vite fait d’oublier de vérifier que ce n’est pas cassé ; et… tout ce que vous faites souvent, en fait.
 
@@ -181,13 +181,13 @@ Vous voyez la logique ?
 
 ---
 
-![boulettes.040](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.040.jpeg)
+![boulettes.040](/img/2018/boulettes/boulettes.040.jpeg)
 
 Pour automatiser tout ça, vous avez une belle quantité d’outils. Chez TEA on utilise capistrano pour la majorité de nos déploiements, et Jenkins pour faire tourner les tests automatisés sur toutes nos pull requests.
 
 ---
 
-![boulettes.043](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.043.jpeg)
+![boulettes.043](/img/2018/boulettes/boulettes.043.jpeg)
 
 En résumé : si vous le faites souvent, ne le faites pas à la main.
 
@@ -195,7 +195,7 @@ Comment savoir par où commencer ? J'aurais tendance à commencer par les déplo
 
 ---
 
-![boulettes.044](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.044.jpeg)
+![boulettes.044](/img/2018/boulettes/boulettes.044.jpeg)
 
 On passe à la partie « oiseaux » qui, en réalité, parle surtout d’humains…
 
@@ -205,7 +205,7 @@ Je ne suis pas désolée.
 
 ---
 
-![boulettes.045](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.045.jpeg)
+![boulettes.045](/img/2018/boulettes/boulettes.045.jpeg)
 
 C’est la boulette 79 qui m’a inspiré cette partie.
 
@@ -217,13 +217,13 @@ Bon OK, mais c’est quoi le rapport avec les oiseaux ? J'y viens.
 
 ---
 
-![boulettes.047](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.047.jpeg)
+![boulettes.047](/img/2018/boulettes/boulettes.047.jpeg)
 
 Les premiers oiseaux impliqués, ce sont les oies. Car ce sont des oiseaux migrateurs, et parce que ce qu’il a fait ce monsieur, c’est une migration de schéma. Et il existe des moyens pour que ces migrations se passent bien.
 
 ---
 
-![boulettes.049](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.049.jpeg)
+![boulettes.049](/img/2018/boulettes/boulettes.049.jpeg)
 
 Un des moyens pour que ça se passe bien, c’est d’utiliser des poules.
 
@@ -237,7 +237,7 @@ La revue de code systématique par pull requests, j’en ai aussi déjà parlé 
 
 ---
 
-![boulettes.050](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.050.jpeg)
+![boulettes.050](/img/2018/boulettes/boulettes.050.jpeg)
 
 Et enfin, le dernier oiseau impliqué : le canard en plastique.
 
@@ -245,7 +245,7 @@ Vous connaissez le principe du canard en plastique ? Quand on a un problème, on
 
 ---
 
-![boulettes.051](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.051.jpeg)
+![boulettes.051](/img/2018/boulettes/boulettes.051.jpeg)
 
 Chez TEA, on a élargi cette notion de canard en plastique : on préfère se servir de nos collègues à la place.
 
@@ -253,17 +253,17 @@ Chez TEA, on a élargi cette notion de canard en plastique : on préfère se ser
 
 ---
 
-![boulettes.054](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.054.jpeg)
+![boulettes.054](/img/2018/boulettes/boulettes.054.jpeg)
 
 Par exemple, on a pris l’habitude de se mettre au moins à deux à chaque fois que l’on touche manuellement à la production : un dév qui fait le boulot, et qui explique tout ça à un « canard »… qui en réalité est un autre dév.
 
 ---
 
-![boulettes.055](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.055.jpeg)
+![boulettes.055](/img/2018/boulettes/boulettes.055.jpeg)
 
 Je vous montre la boulette 82, qui ne serait probablement pas arrivée avec la technique du canard en plastique : l’auteur a modifié toute une table, suite à une erreur dans une clause where sur une requête « update ». Évidemment, directement en prod, sans tester ailleurs avant. Il a filé le même numéro de téléphone à tous ses clients. OUPS
 
-![boulettes.057](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.057.jpeg)
+![boulettes.057](/img/2018/boulettes/boulettes.057.jpeg)
 
 Pour ce genre de trucs, les interventions manuelles en base en prod — ça arrive chez nous aussi — je propose deux astuces santé : la première, toujours commencer par « start transaction » quand vous intervenez en ligne de commande. Comme ça vous pouvez toujours faire demi-tour (*rollback*) si vous vous rendez compte que vous avez merdé. Et *commit* si ça marche.
 
@@ -271,7 +271,7 @@ Deuxième astuce santé : comme précisé plus tôt, appelez un canard pour reli
 
 ---
 
-![boulettes.058](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.058.jpeg)
+![boulettes.058](/img/2018/boulettes/boulettes.058.jpeg)
 
 …faites cygne ! #badumTss
 
@@ -281,7 +281,7 @@ Deuxième astuce santé : comme précisé plus tôt, appelez un canard pour reli
 
 ---
 
-![boulettes.062](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.062.jpeg)
+![boulettes.062](/img/2018/boulettes/boulettes.062.jpeg)
 
 En résumé.
 
@@ -293,31 +293,31 @@ Et enfin, faites cygne si vous êtes en galère.
 
 ---
 
-![boulettes.063](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.063.jpeg)
+![boulettes.063](/img/2018/boulettes/boulettes.063.jpeg)
 
 Voilà pour la partie sur les oiseaux. Parlons de votre cerveau, maintenant.
 
 ---
 
-![boulettes.064](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.064.jpeg)
+![boulettes.064](/img/2018/boulettes/boulettes.064.jpeg)
 
 Ce que j’ai en tête, ce sont les nombreuses boulettes où du code a été joué dans le mauvais environnement. Par exemple ici : drop table sur le dév… c’était bien le dév ? Ah non…
 
 ---
 
-![boulettes.065](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.065.jpeg)
+![boulettes.065](/img/2018/boulettes/boulettes.065.jpeg)
 
 Ou ici : drop database en prod, alors que je pensais être en dév.
 
 ---
 
-![boulettes.066](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.066.jpeg)
+![boulettes.066](/img/2018/boulettes/boulettes.066.jpeg)
 
 Je n’ai pas tout le contexte de ces boulettes, mais je suppose que leurs outils manquent de management visuel. C’est un terme très mal choisi pour dire « on rappelle dans quel environnement on se trouve par tous les moyens possibles ».
 
 ---
 
-![boulettes.069](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.069.jpeg)
+![boulettes.069](/img/2018/boulettes/boulettes.069.jpeg)
 
 Je vais vous donner quelques exemples tout de suite. Nous par exemple chez TEA, on a associé une couleur à chaque environnement : violet en dév, orange en préprod, rouge en prod. Si on avait eu des daltoniens dans l’équipe on aurait sûrement choisi autre chose, et on s’adaptera si besoin.
 
@@ -325,13 +325,13 @@ Cette couleur, et le nom de l’environnement, on le rappelle partout : dans les
 
 ---
 
-![boulettes.070](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.070.jpeg)
+![boulettes.070](/img/2018/boulettes/boulettes.070.jpeg)
 
 Voilà par exemple ce qu’on voit quand on se connecte en SSH sur nos serveurs de prod et de préprod : on rappelle l’utilisateur connecté, l’environnement, la machine (plateforme, librairie…) et le chemin sur le disque. Les couleurs sont différentes en prod et en préprod. Ça se fait modifiant le fichier `.bashrc`, ça ne coûte vraiment pas grand-chose et ça aide beaucoup au quotidien quand on a l’habitude de se balader sur les serveurs en ssh…
 
 ---
 
-![boulettes.071](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.071.jpeg)
+![boulettes.071](/img/2018/boulettes/boulettes.071.jpeg)
 
 Pareil dans les interfaces web : ici, du violet dans l’en-tête pour le magento de l’environnement de dév. On a du beau orange bien laid en préprod.
 
@@ -341,7 +341,7 @@ Ici c’est fait sur Magento, mais si vous utilisez du PhpMyAdmin, par exemple, 
 
 ---
 
-![boulettes.076](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.076.jpeg)
+![boulettes.076](/img/2018/boulettes/boulettes.076.jpeg)
 
 Un autre truc qui marche bien pour éviter les boulettes, c’est quelque chose qui a sûrement un vrai nom, mais que moi j’appelle les barrières de potentiel de flemme. Les barrières de potentiel, c’est un truc de physicien, et j’ai beaucoup fréquenté les physiciens.
 
@@ -353,7 +353,7 @@ C’est au moins aussi efficace et **beaucoup moins nocif** que de leur faire pe
 
 ---
 
-![boulettes.081](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.081.jpeg)
+![boulettes.081](/img/2018/boulettes/boulettes.081.jpeg)
 
 Par exemple, dans nos bases de données, on a un accès facile en lecture en ligne de commande. Pas besoin de taper de mot de passe, on a un login-path.
 
@@ -363,7 +363,7 @@ Dans le même genre, nous n’avons pas non plus les accès administrateurs sur 
 
 ---
 
-![boulettes.082](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.082.jpeg)
+![boulettes.082](/img/2018/boulettes/boulettes.082.jpeg)
 
 En résumé pour cette partie sur le cerveau : utiliser des images, des couleurs, des trucs faciles, pour signaler absolument partout sur quel environnement vous vous trouvez.
 
@@ -371,7 +371,7 @@ Et aussi, exploitez le super pouvoir de la flemme, beaucoup moins nocive que la 
 
 ---
 
-![boulettes.086](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.086.jpeg)
+![boulettes.086](/img/2018/boulettes/boulettes.086.jpeg)
 
 En résumé global de cette première partie : éviter les boulettes, ça tient en 3 choses :
 
@@ -381,7 +381,7 @@ En résumé global de cette première partie : éviter les boulettes, ça tient 
 
 ---
 
-![boulettes.087](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.087.jpeg)
+![boulettes.087](/img/2018/boulettes/boulettes.087.jpeg)
 
 Voilà pour la partie 1, où on évite les boulettes. J’avais quelques autres astuces à vous montrer, mais j’ai chronométré et ça m’aurait demandé 2h30 de conférence, que je n’avais pas…
 
@@ -389,7 +389,7 @@ Donc je vais passer à la suite : survivre aux boulettes. C’est une partie ind
 
 ---
 
-![boulettes.088](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.088.jpeg)
+![boulettes.088](/img/2018/boulettes/boulettes.088.jpeg)
 
 Mettons-nous en situation, voulez-vous ? Vous venez de commettre la boulette du siècle.
 
@@ -405,7 +405,7 @@ Non.
 
 ---
 
-![boulettes.090](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.090.jpeg)
+![boulettes.090](/img/2018/boulettes/boulettes.090.jpeg)
 
 Quand on fait une connerie, on le DIT. Tout de suite.
 
@@ -417,7 +417,7 @@ Et aussi, l’organisation ne doit pas vous laisser seul-e avec votre problème.
 
 ---
 
-![boulettes.091](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.091.jpeg)
+![boulettes.091](/img/2018/boulettes/boulettes.091.jpeg)
 
 Voilà la boulette du boulédex qui me fait dire ça : un stagiaire a redémarré la prod sans le avoir, et s’est fait défoncer (sic) pour ça. Il y a tellement de choses qui ne vont pas dans cette boulette, c’est difficile de savoir par où commencer. (Cette boulette m’éneeeeerve, et si vous me connaissez en vrai vous savez que je suis difficile à énerver.) Déjà, qu’on puisse redémarrer le serveur de prod. Ensuite, qu’on puisse le faire sans le savoir. Et que ça pose un problème autre qu’une indispo de quelques minutes. Et enfin, SURTOUT, qu’on punisse un stagiaire pour avoir commis une erreur.
 
@@ -425,13 +425,13 @@ Les stagiaires sont là pour apprendre. Pas pour faire le même boulot qu’un d
 
 ---
 
-![boulettes.092](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.092.jpeg)
+![boulettes.092](/img/2018/boulettes/boulettes.092.jpeg)
 
 Donc **vraiment** n’ayez pas peur, et demandez de l’aide à la seconde où vous vous rendez compte qu’il y a un problème.
 
 ---
 
-![boulettes.093](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.093.jpeg)
+![boulettes.093](/img/2018/boulettes/boulettes.093.jpeg)
 
 Pourquoi ? Parce que si vous restez tout-e seul-e avec votre boulette, vous risquez la **surboulette**.
 
@@ -441,7 +441,7 @@ En informatique, c’est pareil : vous avez commis une boulette, vous allez essa
 
 ---
 
-![boulettes.094](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.094.jpeg)
+![boulettes.094](/img/2018/boulettes/boulettes.094.jpeg)
 
 VRAIMENT
 
@@ -453,7 +453,7 @@ Je radote et j’assume.
 
 ---
 
-![boulettes.095](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.095.jpeg)
+![boulettes.095](/img/2018/boulettes/boulettes.095.jpeg)
 
 Par définition, une boulette c’est une erreur qui cause un **incident**. Je vous raconte donc rapidement comment chez TEA on gère les incidents.
 
@@ -463,13 +463,13 @@ On ajoute idéalement une troisième personne qui assiste la personne en charge 
 
 ---
 
-![boulettes.096](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.096.jpeg)
+![boulettes.096](/img/2018/boulettes/boulettes.096.jpeg)
 
 Cette équipe de gestion d’incident a deux priorités : la première, c’est de rétablir le service.
 
 ---
 
-![boulettes.097](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.097.jpeg)
+![boulettes.097](/img/2018/boulettes/boulettes.097.jpeg)
 
 Et la deuxième, ENSUITE, c’est de diagnostiquer le problème. Essayer de comprendre ce qui a merdé. Au moins pour les boulettes c’est facile, puisqu’en général la personne qui l’a commise s’en est bien rendu compte.
 
@@ -481,13 +481,13 @@ Je précise que dans ces priorités, il n’y a pas « punir le coupable ».
 
 ---
 
-![boulettes.100](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.100.jpeg)
+![boulettes.100](/img/2018/boulettes/boulettes.100.jpeg)
 
 Et pendant tout ce temps, on communique : en interne, par mail, par chat, en présentiel, notamment pour que votre SAV sache quoi répondre aux clients, et en externe, par exemple via une page de « status » si vous en avez une.
 
 ---
 
-![boulettes.101](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.101.jpeg)
+![boulettes.101](/img/2018/boulettes/boulettes.101.jpeg)
 
 Pour résumer cette partie sur la survie aux boulettes qui arriveront de toute façon.
 
@@ -499,43 +499,43 @@ Et pendant tout ce temps, on communique. On n’essaie pas de cacher une boulett
 
 ---
 
-![boulettes.102](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.102.jpeg)
+![boulettes.102](/img/2018/boulettes/boulettes.102.jpeg)
 
 Maintenant qu’on a bien survécu aux boulettes, il est temps d’en tirer des conclusions. J’ai commis la plus grosse boulette de ma vie. C’est passé, on a réparé. Maintenant, qu’est-ce qui va se passer ?
 
 ---
 
-![boulettes.103](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.103.jpeg)
+![boulettes.103](/img/2018/boulettes/boulettes.103.jpeg)
 
 Cette partie est importante pour moi, car dans l’imaginaire collectif, le fait de se tromper c’est souvent vécu comme un échec. C’est normal, c’est ça qu’on apprend à l’école. Si on se trompe on a des mauvaises notes.
 
 ---
 
-![boulettes.104](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.104.jpeg)
+![boulettes.104](/img/2018/boulettes/boulettes.104.jpeg)
 
 Pourtant, plus j’en fais, plus je trouve que les boulettes ne sont pas des échecs. Le vrai échec, c’est de faire plusieurs fois la même erreur.
 
 ---
 
-![boulettes.105](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.105.jpeg)
+![boulettes.105](/img/2018/boulettes/boulettes.105.jpeg)
 
 Le vrai échec, c’est de répéter les erreurs. Un stagiaire qui tombe la prod, ça arrive. Une boîte où chaque année, il y a un stagiaire qui tombe la prod pendant sa première semaine de stage, c’est la boîte qui a un problème. Pas les stagiaires. Vous voyez la logique de « l’échec collectif » ?
 
 ---
 
-![boulettes.106](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.106.jpeg)
+![boulettes.106](/img/2018/boulettes/boulettes.106.jpeg)
 
 Moi je préfère voir les boulettes comme de l’engrais qui nous fait grandir.
 
 ---
 
-![boulettes.107](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.107.jpeg)
+![boulettes.107](/img/2018/boulettes/boulettes.107.jpeg)
 
 Pour moi, les boulettes sont surtout des occasions d’apprendre. Donc…
 
 ---
 
-![boulettes.108](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.108.jpeg)
+![boulettes.108](/img/2018/boulettes/boulettes.108.jpeg)
 
 Attrapez-les toutes ! Toutes les occasions !
 
@@ -543,7 +543,7 @@ Attrapez-les toutes ! Toutes les occasions !
 
 ---
 
-![boulettes.110](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.110.jpeg)
+![boulettes.110](/img/2018/boulettes/boulettes.110.jpeg)
 
 Bon OK, elle est mignonne avec ses pokéball et ses beaux discours, mais elle n’aurait pas un outil concret à nous proposer ?
 
@@ -551,7 +551,7 @@ Eh bien oui !
 
 ---
 
-![boulettes.115](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.115.jpeg)
+![boulettes.115](/img/2018/boulettes/boulettes.115.jpeg)
 
 Chez nous, les post-mortem ça marche assez bien pour apprendre.
 
@@ -566,19 +566,19 @@ Dedans, nous récapitulons :
 
 ---
 
-![boulettes.116](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.116.jpeg)
+![boulettes.116](/img/2018/boulettes/boulettes.116.jpeg)
 
 Précision supplémentaire à propos des post-mortems : le but c’est de s’améliorer tous ensemble. Donc on a pris l’habitude de ne pas mentionner le nom des personnes impliquées dans le mail, qu’elles soient impliquées en bien ou en mal. Quand j’ai fait ma boulette d’or, on a dit que c’était une erreur humaine, mais on n’a pas précisé quelle humaine l’avait commise. Bon, après, tout le monde le savait puisque c’est moi qui ai apporté les croissants…
 
 ---
 
-![boulettes.117](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.117.jpeg)
+![boulettes.117](/img/2018/boulettes/boulettes.117.jpeg)
 
 En conclusion de cette longue conférence, un rappel des trois axes d’attaque des boulettes.
 
 ---
 
-![boulettes.121](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.121.jpeg)
+![boulettes.121](/img/2018/boulettes/boulettes.121.jpeg)
 
 les boulettes :
 
