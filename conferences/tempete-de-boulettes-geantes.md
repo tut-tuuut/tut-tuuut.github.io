@@ -293,7 +293,51 @@ Et enfin, faites cygne si vous êtes en galère.
 
 ---
 
-TODO : MANQUE LA PARTIE SUR LE MANAGEMENT VISUEL
+![boulettes.063](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.063.jpeg)
+
+Voilà pour la partie sur les oiseaux. Parlons de votre cerveau, maintenant.
+
+---
+
+![boulettes.064](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.064.jpeg)
+
+Ce que j’ai en tête, ce sont les nombreuses boulettes où du code a été joué dans le mauvais environnement. Par exemple ici : drop table sur le dév… c’était bien le dév ? Ah non…
+
+---
+
+![boulettes.065](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.065.jpeg)
+
+Ou ici : drop database en prod, alors que je pensais être en dév.
+
+---
+
+![boulettes.066](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.066.jpeg)
+
+Je n’ai pas tout le contexte de ces boulettes, mais je suppose que leurs outils manquent de management visuel. C’est un terme très mal choisi pour dire « on rappelle dans quel environnement on se trouve par tous les moyens possibles ».
+
+---
+
+![boulettes.069](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.069.jpeg)
+
+Je vais vous donner quelques exemples tout de suite. Nous par exemple chez TEA, on a associé une couleur à chaque environnement : violet en dév, orange en préprod, rouge en prod. Si on avait eu des daltoniens dans l’équipe on aurait sûrement choisi autre chose, et on s’adaptera si besoin.
+
+Cette couleur, et le nom de l’environnement, on le rappelle partout : dans les invites de commande quand on se connecte en SSH, mais aussi dans les interfaces d’administration web, par exemple !
+
+---
+
+![boulettes.070](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.070.jpeg)
+
+Voilà par exemple ce qu’on voit quand on se connecte en SSH sur nos serveurs de prod et de préprod : on rappelle l’utilisateur connecté, l’environnement, la machine (plateforme, librairie…) et le chemin sur le disque. Les couleurs sont différentes en prod et en préprod. Ça se fait modifiant le fichier `.bashrc`, ça ne coûte vraiment pas grand-chose et ça aide beaucoup au quotidien quand on a l’habitude de se balader sur les serveurs en ssh…
+
+---
+
+![boulettes.071](/Users/tut/Code/tut-tuuut.github.io/img/2018/boulettes/boulettes.071.jpeg)
+
+Pareil dans les interfaces web : ici, du violet dans l’en-tête pour le magento de l’environnement de dév. On a du beau orange bien laid en préprod.
+
+Une de mes premières boulettes de développeuse, par exemple, ça a été de vider le cache sur l’environnement de prod plusieurs fois, en me demandant pourquoi je ne voyais pas les modifications dans mon magento local sur mon poste.
+
+Ici c’est fait sur Magento, mais si vous utilisez du PhpMyAdmin, par exemple, vous bien voir la différence. Après, un vrai adminsys dirait probablement qu’il ne veut pas de PhpMyAdmin en prod, et je serais très certainement d’accord avec lui…
 
 ---
 
