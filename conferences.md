@@ -7,19 +7,19 @@ title: Conférences
 
 Je suis occasionnellement oratrice lors de conférences techniques. Mes sujets de prédilection sont plutôt les méthodes de travail, avec de temps en temps un sujet plus technique.
 
-## À venir
+## 2018
 
-* **Tempête de boulettes géantes** : comment éviter les erreurs humaines causant des incidents en production. Le 4 octobre à Paris Web, le 25 octobre au BlendWebMix. 
+* **Tempête de boulettes géantes** : comment éviter les erreurs humaines causant des incidents en production. [Le 4 octobre à Paris Web](https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php), [le 25 octobre au BlendWebMix](https://www.youtube.com/watch?v=OasaWMC-zPs). 
 
 ## 2017
 
-* **La mafia lactée au travail**, en binôme avec Sarah Haïm : comment fonctionne l'allaitement maternel, et comment concilier allaitement et travail. Présentée à MiXiT (Lyon), puis en soirée Clermont’ech (Clermont-Ferrand), puis en soirée AFUP (Lyon). 
+* [**La mafia lactée au travail**](http://tut-tuuut.github.io/2017/05/24/conf-mixit-2017-mafia-lactee-au-travail.html), en binôme avec Sarah Haïm : comment fonctionne l'allaitement maternel, et comment concilier allaitement et travail. Présentée à MiXiT (Lyon), puis en soirée Clermont’ech (Clermont-Ferrand), puis en soirée AFUP (Lyon). 
 
 ## 2016
 
 * **Libérée, délivrée… du syndrome de l'imposteur**, à Paris Web. Qu'est-ce que le syndrome de l'imposteur et comment je l'ai dépassé.
 * **Git is Choupi** à Paris Web, en binôme avec Guillaume Turri. Atelier pour apprendre les bases de git.
-* **Un site web pour liseuse**, à BlendWebMix (Lyon). Quelles sont les spécificités du développement web sur liseuse ?
+* [**Un site web pour liseuse**](https://www.youtube.com/watch?v=eAGJ2_Lf3mA), à BlendWebMix (Lyon). Quelles sont les spécificités du développement web sur liseuse ?
 
 ## 2015
 
