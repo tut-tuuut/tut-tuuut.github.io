@@ -177,7 +177,7 @@ function analyse_char($i, $j, $index, $graph, $search, $direction) {
 ?>
 {% endhighlight %}
 
-Si vous voulez voir le programme en entier, [je vous en prie](/img/2016/mariage/solution-cherchons.php). Il y a pas mal de code pour construire des tableaux à partir de la solution copiée-collée depuis mon PDF, ensuite du code pour rechercher-remplacer les chiffres par la grille de correspondance désirée (bonus j'ai galéré en UTF8 et j'ai pas cherché à comprendre) et finalement la recherche elle-même dans la grille de lettres.
+Si vous voulez voir le programme en entier, [je vous en prie](https://github.com/tut-tuuut/tut-tuuut.github.io/blob/master/img/2016/mariage/solution-cherchons.php). Il y a pas mal de code pour construire des tableaux à partir de la solution copiée-collée depuis mon PDF, ensuite du code pour rechercher-remplacer les chiffres par la grille de correspondance désirée (bonus j'ai galéré en UTF8 et j'ai pas cherché à comprendre) et finalement la recherche elle-même dans la grille de lettres.
 
 En bonne victime du syndrome de l'imposteur, j'ai envie de cacher la source de ce programme parce qu'elle est « moche », probablement trop verbeuse par endroits et pas assez à d'autres, mal optimisée côté CPU et conso mémoire. Peut-être qu'elle ne passerait aucune revue de code, mais elle est _vraie_. Je sais qu'elle fonctionne.
 
