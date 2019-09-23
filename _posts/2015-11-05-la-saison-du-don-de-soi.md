@@ -47,4 +47,4 @@ Ouais, c'est un peu maso. Mais… mes fantômes en ont eu besoin. Ces gens encor
 
 Et puis j'ai une liseuse, on me fournit une couette et à la fin il y a un repas gratuit. :q
 
-(Pour en savoir plus : [le don de moelle osseuse](http://www.dondemoelleosseuse.fr/savoir-don))
+(Pour en savoir plus : [le don de moelle osseuse](https://www.dondemoelleosseuse.fr/savoir-don))
