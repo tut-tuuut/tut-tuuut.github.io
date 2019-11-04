@@ -11,7 +11,7 @@ On y est.
 
 Je me remets en chemin.
 
-En décembre, je vais quitter l'entreprise où je suis salariée depuis plus de six ans. C'est un choix commun entre mon employeur et moi. On sentait tous deux qu'il était temps de passer à autre chose.
+Le 20 décembre prochain, je vais quitter l'entreprise où je suis salariée depuis plus de six ans. C'est un choix commun entre mon employeur et moi. On sentait tous deux qu'il était temps de passer à autre chose.
 
 Et je suis très émotionnelle comme fille donc j'ai besoin d'écrire sur ce grand changement qui arrive.
 
@@ -21,12 +21,39 @@ Enrichissantes ces années, car j'ai appris beaucoup en tant que développeuse. 
 
 Agréables ces années, car je n'ai rencontré chez TEA que des gens sympathiques, drôles, compétents et impliqués. C'était un plaisir de bosser — et de ne pas bosser — avec eux. Cela va me manquer de les côtoyer au quotidien, de commenter leurs t-shirts et de noter leurs blagues bêtes.
 
-Équilibrées ces années, car je suis arrivée chez TEA enceinte et nauséeuse, et à aucun moment de ces 6 ans je n'ai senti qu'on me reprochait d'avoir fondé une famille. J'ai pu mettre en place une organisation travail-maison qui me convenait, en adaptant mes horaires, en équilibrant le télétravail pour m'épargner trop de trajets et le présentiel parce que j'aime bien voir mes collègues quand même. On m'a laissé le temps de me comprendre et de me requinquer quand j'ai commencé à aller mal dans ma tête. (Maintenant ça va !)
+Équilibrées ces années, car je suis arrivée chez TEA enceinte et nauséeuse, et à aucun moment de ces six ans je n'ai senti qu'on me reprochait d'avoir fondé une famille. J'ai pu mettre en place une organisation travail-maison qui me convenait, en adaptant mes horaires, en équilibrant le télétravail pour m'épargner trop de trajets et le présentiel parce que j'aime bien voir mes collègues quand même. On m'a laissé le temps de me comprendre et de me requinquer quand j'ai commencé à aller mal dans ma tête. (Maintenant ça va !)
 
-Pour tout ça, je remercie mes collègues de TEA et je vous recommande chaudement de vous intéresser à l'un des postes qui sont ouverts là-bas si vous aimez bien les grosses plateformes rigolotes. (Comment ça je le vends mal ? Rhô, tout de suite…)
+Pour tout ça, je remercie mes collègues de TEA et je vous recommande chaudement de vous intéresser à [l'un des postes qui sont ouverts là-bas](https://www.vivlio.com/jobs/) si vous aimez bien les grosses plateformes rigolotes.
 
 Et après ?
 
 Ah, ben après…
 
-Si j'ai écrit une note de blog, ce n'est pas juste parce que je quitte mon entreprise, c'est parce que j'envisage de quitter aussi le monde du web. Mais je suis partagée.
+APRÈS, C'EST COMPLIQUÉ.
+
+Comme beaucoup, à 30 ans (et 349 jours), j'ai eu une crise de vocation. Une méchante. J'ai perdu de vue pourquoi j'étais là et j'ai envisagé de quitter l'informatique pour changer radicalement de métier. Mais contrairement à mes nombreux ex-collègues qui sont partis faire pousser des légumes, des cochons ou des fruits, l'appel impérieux que j'ai ressenti portait sur un autre domaine…
+
+Je me suis souvenue que j'étais une indécrottable scientifique très intéressée par le fonctionnement du corps humain et par les bizarreries biologiques en général. Ensuite, j'ai adoré ma formation de secouriste du travail. Cette possiblité d'utiliser les connaissances théoriques pour sauver des vies, j'ai trouvé ça chanmé. Et surtout, dans le cadre de mon engagement associatif pour l'allaitement, je me suis rendu compte que je me sentais beaucoup plus utile quand j'écoutais une mère en détresse pendant une demi-heure au téléphone, ou quand j'aidais ma pote à mettre son bébé au sein, que quand je diminuais de 98% le temps de chargement d'une page. Même si c'était TRÈS SATISFAISANT de diminuer de 98% le temps de chargement de cette page, hein, ne nous mentons pas. (Yay!)
+
+En bref, je me suis penchée très très sérieusement sur la possibilité de me reconvertir en sage-femme. Pendant un an et demi j'ai mené des entretiens avec des sages-femmes en exercice ou avec des ingénieures en cours de reconversion, comparé les différentes passerelles qui s'offraient à moi, étudié les études elles-mêmes et les possibilités d'exercice… Il en ressortait que c'était théoriquement possible. Selon ce que j'arrivais à décrocher comme passerelle, il m'en aurait coûté de 3 à 5 ans d'études difficiles mais ô combien alléchantes. J'ai réussi à récupérer des emplois du temps de 2e et 3e année de sage-femme, et je vous jure, j'avais tellement *tellement* envie d'y être…
+
+Et… et ça s'arrête là. Pour l'instant.
+Je me suis fait la réflexion (avec l'aide patiente de ma psy, certes) que j'avais effectivement très envie d'exercer ce métier, mais…
+
+Mais en fait, j'ai surtout envie de faire une pause, de prendre *du temps* pour moi et pour ma famille. Du temps que, en travaillant 5 jours par semaine, même avec du télétravail et un employeur sympathique, je n'ai pas. Ou alors seulement en en volant ici et là, toujours en courant d'un retard à l'autre. Du temps que je n'aurais pas davantage en me lançant dans des études exigeantes comme celles-ci… Du temps que je veux plus que ce métier.
+
+Donc, après. Qu'est-ce que je vais bien faire, après ?
+
+Déjà, je vais faire une pause. Je n'en ai jamais eue de vraie, en 10 ans d'expérience. Je vais essayer de voir combien de temps je peux tenir sans m'ennuyer.
+Sur ce temps de pause, je vais faire un bilan de compétences. Je commence dans deux semaines, j'ai hâte.
+Ah et aussi, j'ai promis de donner un peu plus de temps en bénévolat pour l'allaitement parce qu'on est un peu en rades de bénévoles en ce moment.
+
+Donc ça va être une pause, mais pas aussi oisive que ça, à mon avis. J'ai bon espoir de pouvoir finir un ou deux jeux vidéo pendant ce temps-là quand même.
+
+Ensuite, quand j'aurai décidé lesquelles de mes compétences j'ai envie de vendre, je m'essaierai sûrement à l'exercice du freelance. Je me dis que si je choisis plus librement mes missions et mes horaires, j'arriverai certainement à garder la satisfaction de ce qui me plaît dans mon métier actuel. Le petit index qui manquait pour que cette grosse requête tourne en deux millisecondes.  Le petit dessin sur un tableau qui fait que l'on se comprend enfin. La discrète optimisation d'interface qui change la vie des utilisateurs. La fierté d'avoir fait tout ça en pur CSS. La petite suppression de quelques centaines de milliers de lignes dont on n'avait plus besoin. (Je crois. Je vais vérifier quand même.)
+
+Et après tout, si c'est moi la patronne, je pourrai très bien me donner du temps pour aller préparer un dossier de passerelle… Qui sait de quoi l'avenir sera fait ?
+
+Dans l'immédiat, le futur sera fait de documentation et de transmission pour mes collègues de Vivlio. Et d'un thé avec mon futur expert-comptable.
+
+Et j'ai hâte ! Je n'en vois pas encore tous les contours, mais j'aime déjà cette année 2020 qui se dessine.
