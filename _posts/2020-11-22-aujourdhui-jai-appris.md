@@ -151,7 +151,7 @@ C'est plus joli que la console Python de base, oui.
 Ça fait du bien d'écrire 1700 mots en deux heures. Je vais essayer de faire ça plus souvent.
 
 
-<hr>
+<hr style="width: 30%; margin: 3em auto 2em; color: lightpink;">
 
 [^1]: Je viens du PHP, hein. Pour moi tout ça c'est des tableaux.
 
