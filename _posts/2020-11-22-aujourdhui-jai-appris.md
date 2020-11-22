@@ -14,7 +14,7 @@ Ce n'est pas seulement une découverte Python, c'est aussi une découverte sur l
 
 Dans un premier temps, il a fallu s'intéresser au jeu mathématique le plus stupide du monde à la solution la plus compliquée. Celui où `1211` se lit "un 1, un 2, deux 1" et donc le terme suivant est `111221`. Il fallait faire ça 40 puis 50 fois en partant d'une chaîne de 10 caractères, et donner la longueur de la chaîne résultante[^3]. 
 
-Je ne savais pas faire ça, [ma première approche a été purement algorithmique](https://github.com/tut-tuuut/advent-of-code-shiny-giggle/blob/master/2015/10/code.py#L4-L18). Ma foi je trouvais ça joli, et ça a marché pour les 40 premières itérations, même s'il a fallu quelques secondes. Par contre c'était trop neuneu comme code pour arriver jusqu'à 50 itérations dans un temps raisonnable : la longueur des chaînes augmentait de façon quadratique ! Donc j'ai cherché sur mon moteur de recherche préféré, et j'ai trouvé la regex suivante : `(\d)\1*`
+Je ne savais pas faire ça avec une regex, [ma première approche a été purement algorithmique](https://github.com/tut-tuuut/advent-of-code-shiny-giggle/blob/master/2015/10/code.py#L4-L18). Ma foi je trouvais ça joli, et ça a marché pour les 40 premières itérations, même s'il a fallu quelques secondes. Par contre c'était trop neuneu comme code pour arriver jusqu'à 50 itérations dans un temps raisonnable : la longueur des chaînes augmentait de façon quadratique ! Donc j'ai cherché sur mon moteur de recherche préféré, et j'ai trouvé la regex suivante : `(\d)\1*`
 
 Elle mérite quelques explications, parce que j'ai eu du mal à rentrer dedans :
 
@@ -65,16 +65,16 @@ Alors qu'en Python ça m'arrive TOUT LE TEMPS. Les listes Python c'est indubitab
 Père Noël voulait faire le tour de tout le Pôle Nord en prenant le chemin le plus court qui permet de passer par tous les villages. C'est un problème assez classique de parcours de graphe, ça se fait bien par récursivité. J'ai écrit ce code-ci :
 
 ```python
-    def visit(node, path):
-    		# on ajoute le nœud au chemin que l'on examine
-        path.append(node)
-        if len(path) == graphLen: # si on voit qu'on a visité tous les nœuds,
-            finished_path(path)   # on fait ce qu'il faut
-            return
-        for neighbor in nx.neighbors(graph, node):
-            if neighbor in path: # on ne visite pas un nœud déjà visité
-                continue
-            visit(neighbor, path) # on visite tous les voisins non visités #récursivité
+def visit(node, path):
+		# on ajoute le nœud au chemin que l'on examine
+    path.append(node)
+    if len(path) == graphLen: # si on voit qu'on a visité tous les nœuds,
+        finished_path(path)   # on fait ce qu'il faut
+        return
+    for neighbor in nx.neighbors(graph, node):
+        if neighbor in path: # on ne visite pas un nœud déjà visité
+            continue
+        visit(neighbor, path) # on visite tous les voisins non visités #récursivité
 ```
 
 HÉ BEN ÇA MARCHE PAS. Ça trouve un chemin, certes, mais pas du tout le plus court.
@@ -82,16 +82,16 @@ HÉ BEN ÇA MARCHE PAS. Ça trouve un chemin, certes, mais pas du tout le plus c
 Ce code-ci, par contre, fonctionne. Jouez à trouver la différence. (En vrai c'est un bug compliqué dont le correctif demande moins de 10 caractères, j'adore.)
 
 ```python
-    def visit(node, path):
-    		# on ajoute le nœud au chemin que l'on examine
-        path.append(node)
-        if len(path) == graphLen: # si on voit qu'on a visité tous les nœuds,
-            finished_path(path)   # on fait ce qu'il faut
-            return
-        for neighbor in nx.neighbors(graph, node):
-            if neighbor in path: # on ne visite pas un nœud déjà visité
-                continue
-            visit(neighbor, path.copy()) # on visite tous les voisins non visités #récursivité
+def visit(node, path):
+		# on ajoute le nœud au chemin que l'on examine
+    path.append(node)
+    if len(path) == graphLen: # si on voit qu'on a visité tous les nœuds,
+        finished_path(path)   # on fait ce qu'il faut
+        return
+    for neighbor in nx.neighbors(graph, node):
+        if neighbor in path: # on ne visite pas un nœud déjà visité
+            continue
+        visit(neighbor, path.copy()) # on visite tous les voisins non visités #récursivité
 ```
 
 Et c'est encore plus fourbe avec les listes de listes où il faut ruser avec des deep_copy ou de la tricherie syntaxique. Je me trompe encore à chaque fois que je dois générer une grille (c'est-à-dire dans 50 % des problèmes AoC).
@@ -126,7 +126,7 @@ Et si je veux un générateur à parcourir juste une fois sans stocker une liste
 tripletsGenerator = ("abcdefghijklmnopqrstuvwxyz"[i:i+3] for i in range(24))
 ```
 
-J'aime beaucoup cette façon de générer des suites à la place d'autres suites. C'est plus élégant que les `filter()` et `map()` qui nécessitent une syntaxe "fonction" dans d'autres langages.
+J'aime beaucoup cette façon de générer des suites à partir d'autres suites. C'est plus élégant que les `filter()` et `map()` qui nécessitent une syntaxe "fonction" dans d'autres langages.
 
 Notons que dans mon vrai code, j'ai utilisé la constante `string.ascii_lowercase` au lieu de `'abcdefghijklmnopqrstuvwxyz'`.
 
@@ -145,6 +145,13 @@ C'est plus joli que la console Python de base, oui.
 ![Console en couleur](/img/2020/apres.jpg)
 
 
+
+## Conclusion
+
+Ça fait du bien d'écrire 1700 mots en deux heures. Je vais essayer de faire ça plus souvent.
+
+
+<hr>
 
 [^1]: Je viens du PHP, hein. Pour moi tout ça c'est des tableaux.
 
