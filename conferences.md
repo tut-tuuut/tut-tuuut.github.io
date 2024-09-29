@@ -7,6 +7,16 @@ title: Conférences
 
 Je suis occasionnellement oratrice lors de conférences techniques. Mes sujets de prédilection sont plutôt les méthodes de travail, avec de temps en temps un sujet plus technique.
 
+## 2024
+
+* **Double authentification : de quoi parle-t-on ?**, à Paris Web le 27 septembre. Explication du pourquoi et du comment de l'authentification multi-facteurs.
+* **Tempête de boulettes géantes : le retour**, à la Pycon (Strasbourg) le 2 novembre. Refonte de la conférence de 2018 actualisée pour les pratiques professionnelles de 2024.
+
+
+## 2021
+
+* **Palmarès 2021 des idées fausses sur l'accessibilité numérique**, à Paris Web (en ligne)
+
 ## 2018
 
 * **Tempête de boulettes géantes** : comment éviter les erreurs humaines causant des incidents en production. [Le 4 octobre à Paris Web](https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php), [le 25 octobre au BlendWebMix](https://www.youtube.com/watch?v=OasaWMC-zPs). 
