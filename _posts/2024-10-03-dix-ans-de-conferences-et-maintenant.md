@@ -28,7 +28,7 @@ D'un autre côté, j'adore ça. Monter sur scène la gorge serrée par le trac, 
 
 Toujours de cet autre côté, je constate que j'ai toujours des choses à partager et à apprendre. J'apprends énormément à chaque préparation de conférence, évidemment sur les sujets techniques comme la double authentification, mais aussi pour un simple retour d'expérience sur les revues de code par exemple. Et après la conf, rassembler des gens dans une pièce (bien aérée svp) permet des échanges plus riches que sur un blog ou un réseau social.
 
-Un autre aspect qui n'est pas à négliger même si je n'aime pas être un "totem de diversité", c'est que, quand je monte sur scène pour parler d'un sujet technique, je représente davantage que moi-même. Je suis aussi toutes les femmes de la tech. Non seulement un rappel pour les barbus que je suis bien là et que je sais de quoi je parle, mais aussi une preuve et un modèle pour les nouvelles et actuelles femmes du métier.
+Un autre aspect qui n'est pas à négliger même si je n'aime pas être un "totem de diversité", c'est que, quand je monte sur scène pour parler d'un sujet technique, je représente davantage que moi-même. Je suis aussi toutes les femmes de la tech. Non seulement un rappel pour _ces gars-là_ que je suis bien là et que je sais de quoi je parle, mais aussi une preuve et un modèle pour les nouvelles et actuelles femmes du métier.
 
 En résumé, je ne suis pas _vraiment_ partagée, je sais bien que je vais continuer. Au moins donner à nouveau ma conf sur la double authentification. Et quand, dans un ou deux ans, je me serai remise de mon intense préparation, j'aurai probablement d'autres idées : l'expérience m'a montré que l'inspiration finit toujours par revenir.
 
