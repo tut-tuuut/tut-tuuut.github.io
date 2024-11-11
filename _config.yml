@@ -2,7 +2,6 @@ title: Tûtie’s blog
 author: Agnès Haasser
 email: prenom.nom@gmail.com
 github_username: tut-tuuut
-twitter_username: tut_tuuut
 description: Bienvenue.
 markdown: kramdown
 theme: minima
@@ -23,3 +22,6 @@ plugins:
 sass:
   sass_dir: css
   style: compressed
+collections:
+  til:
+    output: true

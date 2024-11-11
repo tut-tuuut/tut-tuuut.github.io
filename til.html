@@ -1,0 +1,21 @@
+---
+layout: default
+title: Blog
+---
+
+<div id="home">
+  <h1>Aujourd'hui j'ai appris</h1>
+  <ul class="post-list til-list">
+    {% for post in site.til %}
+    <li>
+        <span class="post-meta"><a  href="{{ post.url }}">{%include frenchDate.html date=post.date %} </a> </span>
+        <div class="content">
+          {{ post.content }}
+        </div>
+    </li>
+    {% endfor %}
+  </div>
+</div>
+
+
+
