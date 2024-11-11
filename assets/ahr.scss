@@ -11,3 +11,17 @@
         margin-bottom: .75em;
     }
 }
+
+.post-tags {
+    list-style-type: none;
+    padding: 0;
+    margin: .5em 0;
+    display: inline;
+    > li {
+        display: inline-block;
+        margin: 0 0 0 1em;
+        padding: 0 .75em;
+        background: #eee;
+        border-radius: 1em;
+    }
+}
