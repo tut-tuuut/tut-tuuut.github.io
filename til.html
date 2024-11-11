@@ -4,7 +4,11 @@ title: TIL
 ---
 
 <div id="home">
-  <h1>Aujourd’hui j’ai appris</h1>
+  <h1>Leçons du jour, et des jours précédents</h1>
+  <p>
+    Vous lirez ici des petites notes personnelles prises au gré de mes recherches répétées sur mon moteur de recherche préféré,
+    pour justement me répéter moins.
+  </p>
   <ul class="post-list til-list">
     {% assign sorted-posts = site.til | sort: 'date' | reverse %}
     {% for post in sorted-posts %}
