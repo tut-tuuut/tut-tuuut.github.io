@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 .til-list > li {
     &  + li {
     border-top: 1px solid #ddd;
