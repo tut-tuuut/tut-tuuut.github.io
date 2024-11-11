@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.til-list > li {
+    &  + li {
+    border-top: 1px solid #ddd;
+    padding-top: 30px;
+}
+    .post-meta {
+        display: block;
+        margin-bottom: .75em;
+    }
+}

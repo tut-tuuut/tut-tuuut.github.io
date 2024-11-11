@@ -19,9 +19,6 @@ header_pages:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-sass:
-  sass_dir: css
-  style: compressed
 collections:
   til:
     output: true
