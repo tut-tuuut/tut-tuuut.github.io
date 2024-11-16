@@ -38,7 +38,7 @@ C'est un peu confus. Tentative de chronologie :
 
 ## C'était voulu d'accoucher chez toi dans l'eau ?
 
-Pas spécialement. Le plan initial, c'était un [accouchement physiologique en plateau technique](http://www.ch-givors.fr/index.php?l_nr=index.php&l_nr_c=aeb764a6a854dd20beb97ec048c4ac14&l_idpa=185) après un accompagnement global. J'ai juste compris trop tard ce qui se passait pour partir à la mat’.
+Pas spécialement. Le plan initial, c'était un [accouchement physiologique en plateau technique](https://www.ch-givors.fr/index181d.html) après un accompagnement global. J'ai juste compris trop tard ce qui se passait pour partir à la mat’.
 
 ## Non mais tu avais pas remarqué que tu étais en train d'accoucher, sérieux ?
 
