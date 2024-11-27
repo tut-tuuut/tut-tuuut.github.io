@@ -1,6 +1,6 @@
 ---
 layout: til
-title: Valeur intelligible d'un champ de modèle à choix multiples dans Django
+title: Valeur intelligible d’un champ de modèle à choix multiples dans Django
 tags: django
 ---
 
