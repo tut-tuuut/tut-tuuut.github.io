@@ -9,7 +9,9 @@ Pour avoir la valeur "jolie" d'un champ de modèle de type "liste déroulante", 
 Dans un template : 
 
 ```html
+{% raw %}
 {{ mon_instance.get_status_display }}
+{% endraw %}
 ```
 
 [Source](https://docs.djangoproject.com/en/5.1/ref/models/instances/#django.db.models.Model.get_FOO_display)
