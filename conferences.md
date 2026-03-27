@@ -12,14 +12,14 @@ Je suis occasionnellement oratrice lors de conférences techniques. Mes sujets d
 - **Double authentification : parlons-en**, [à MiXiT](https://mixitconf.org/2025/double-authentification-parlons-en) et [chez Bedrock](https://www.youtube.com/watch?v=fAw35s77ONw&list=PLnDWTaF0FDIsWLW7S3sVu1a7zmdc1BI3J&index=6). Passage à 40 minutes et traduction en Français de la conférence de la Djangocon Europe.
 - **(Ne) détruisons (pas) le capitalisme avec une coopérative**, en binôme avec Arthur, [aux JDLL](https://videos-libr.es/w/iqo9UL33xeXKk9VhwnjsQz) et [au Capitole du Libre](https://www.youtube.com/watch?v=XjNUWSRYaR4). Où l'on raconte des choses sur les coopératives. Je vous conseille de regarder plutôt la version JDLL, et de rester au moins jusqu'à 8 minutes 34.
 - [**Le S de HTTPS**](https://www.paris-web.fr/2025/conference/le-s-de-https), à Paris Web le 24 septembre. De la culture générale sur le fonctionnement du protocole HTTPS, avec des méchants de jeu vidéo, de la géopolitique et Jason Momoa.
-- **[Sympa newsletters with wagtail,](https://www.youtube.com/watch?v=n7bM54MAc24)** en ligne lors du Wagtail Space le 9 octobre. Comment j'ai pris en main le module wagtail-newsletters pour l'intégrer à un projet de la "vraie vie". Désolée pour le sifflement, c'est mon micro qui l'émet quand il change de couleur (pour rien en plus, il n'est même pas dans le champ de la caméra…).
-- **Le duo comique accélère une suite de tests Django/Pytest**, à la PyconFr fin octobre, en duo avec Arthur. Comme le titre l'indique, cette conférence raconte comment nous avons accéléré une suite de tests et amusé la galerie.
+- **[Sympa newsletters with wagtail,](https://www.youtube.com/watch?v=n7bM54MAc24)** en ligne lors du Wagtail Space le 9 octobre. Comment j'ai pris en main le module wagtail-newsletters pour l'intégrer à un projet de la "vraie vie". Désolée pour le sifflement, c'est mon micro qui l'émet quand il change de couleur (pour rien en plus : il n'est même pas dans le champ de la caméra…).
+- [**Le duo comique accélère une suite de tests Django/Pytest**](https://indymotion.fr/w/pqikHQPc1qUJRQQXCZq2ua), à la PyconFr fin octobre, en duo avec Arthur. Comme le titre l'indique, cette conférence raconte comment nous avons accéléré une suite de tests et amusé la galerie.
 
 
 ## 2024
 
-* **Double authentification : de quoi parle-t-on ?**, à Paris Web le 27 septembre. Explication du pourquoi et du comment de l'authentification multi-facteurs.
-* **Tempête de boulettes géantes : le retour**, à la Pycon (Strasbourg) le 2 novembre. Refonte de la conférence de 2018 actualisée pour les pratiques professionnelles de 2024.
+* [**Double authentification : de quoi parle-t-on ?**](https://www.paris-web.fr/2024/conference/double-authentification-de-quoi-parle-t-on), à Paris Web le 27 septembre. Explication du pourquoi et du comment de l'authentification multi-facteurs.
+* [**Tempête de boulettes géantes : le retour**](https://indymotion.fr/w/sSZd4eDE2chrPgH2S1w1ZK), à la Pycon (Strasbourg) le 2 novembre. Refonte de la conférence de 2018 actualisée pour les boulettes et les pratiques professionnelles de 2024.
 * **Qu'y a-t-il dans un QR Code de double authentification ?** à Lyon en décembre (format *lightning talk* en meetup Python).
 
 
