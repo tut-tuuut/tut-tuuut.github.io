@@ -1,5 +1,4 @@
 ---
-layout: default
 title: CV
 ---
 
@@ -78,8 +77,7 @@ title: CV
     ce que je fais là. Je suis sûre que ça va être intéressant.
 </p>
 <h4>2010 – 2013 : <a href="http://www.zcorrecteurs.fr">zCorrecteurs.fr</a> / Association <a href="http://www.corrigraphie.org">Corrigraphie</a></h4>
-<p>En tant que « zCorrectrice », je corrige bénévolement divers documents&nbsp;: écrits associatifs, techniques, communautaires…</li>
-</p>
+<p>En tant que « zCorrectrice », je corrige bénévolement divers documents&nbsp;: écrits associatifs, techniques, communautaires…</p>
 
 
 <h2>Formation</h2>
@@ -89,7 +87,7 @@ title: CV
     <dt>2005 – 2007</dt>
     <dd class="education vevent">Lycée Michelet, Vanves (92). Classes préparatoires aux grandes écoles, filière MPSI puis MP.</dd>
     <dt>2005</dt>
-    <dd class="education vevent">Lycée André Maurois, Bischwiller (67). Bac S SVT/Physique-chimie, mention très bien.
+    <dd class="education vevent">Lycée André Maurois, Bischwiller (67). Bac S SVT/Physique-chimie, mention très bien.</dd>
 </dl>
 <h2>Loisirs</h2>
 <ul>

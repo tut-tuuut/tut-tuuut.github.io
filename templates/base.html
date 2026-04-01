@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    {% block head %}
+    <meta charset="utf8">
+    <link rel="stylesheet" href="style.css" />
+    <title>{% block title %}{% endblock title %} - {{ config.title }}</title>
+    {% endblock head %}
+</head>
+<body>
+    <header>
+        {{ config.title }}
+        {{ config.description }}
+        <nav>
+            navigation
+        </nav>
+    </header>
+    <main id="content">{% block content %}{% endblock content %}</main>
+    <footer id="footer">
+        {% block footer %}
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">CC NC BY SA </a>
+        {% endblock footer %}
+    </footer>
+</body>
+</html>

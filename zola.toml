@@ -16,8 +16,6 @@ generate_feeds = true
 feed_filenames = ["atom.xml", "rss.xml"]
 feed_limit = 20
 
-theme = "tanuki"
-
 
 # The default author for pages
 author = "Agnès Haasser"
@@ -26,15 +24,7 @@ author = "Agnès Haasser"
 theme = "catppuccin-mocha"
 
 [extra]
-mode = "blog"
-# Optional: navigation
-[[extra.nav]]
-name = "Blog"
-url = "/blog/"
 
-[[extra.nav]]
-name = "About"
-url = "/about/"
 
 # Various slugification strategies, see below for details
 # Defaults to everything being a slug
