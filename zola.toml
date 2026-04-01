@@ -1,0 +1,48 @@
+# The URL the site will be built for
+base_url = "https://tut-tuuut.github.io"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# The site title and description; used in feeds by default.
+title = "Tûtie's blog"
+description = "Un blog de développeuse"
+
+# The default language; used in feeds.
+default_language = "fr"
+
+# When set to "true", a feed is automatically generated.
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
+feed_limit = 20
+
+theme = "tanuki"
+
+
+# The default author for pages
+author = "Agnès Haasser"
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+mode = "blog"
+# Optional: navigation
+[[extra.nav]]
+name = "Blog"
+url = "/blog/"
+
+[[extra.nav]]
+name = "About"
+url = "/about/"
+
+# Various slugification strategies, see below for details
+# Defaults to everything being a slug
+[slugify]
+paths = "on"
+taxonomies = "off"
+anchors = "on"
+# Whether to remove date prefixes for page path slugs.
+# For example, content/posts/2016-10-08_a-post-with-dates.md => posts/a-post-with-dates
+# When true, content/posts/2016-10-08_a-post-with-dates.md => posts/2016-10-08-a-post-with-dates
+paths_keep_dates = true
