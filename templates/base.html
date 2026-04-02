@@ -3,16 +3,19 @@
 <head>
     {% block head %}
     <meta charset="utf8">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="/style.css" />
     <title>{% block title %}{% endblock title %} - {{ config.title }}</title>
     {% endblock head %}
 </head>
 <body>
     <header>
-        {{ config.title }}
+        <div class="left">
+        {{ config.title }}<br>
         {{ config.description }}
+        </div>
         <nav>
-            navigation
+            <a href="/blog/">Blog</a>
+            <a href="/til/">TIL</a>
         </nav>
     </header>
     <main id="content">{% block content %}{% endblock content %}</main>

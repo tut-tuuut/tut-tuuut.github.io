@@ -1,3 +1,22 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+    min-height: 10vh;
+    padding: 1em;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer {
+    min-height: 20vh;
+    padding-top: 1em;
+    border-top: 1px solid #ddd;
+    margin-top: 1em;
+    text-align: center;
+}
