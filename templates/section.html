@@ -12,44 +12,27 @@
     {% endfor %}
     </ul>
 <nav class="pagination" aria-label="pagination">
+    <div class="whereami">
     Page {{ paginator.current_index }} sur {{ paginator.number_pagers }}
-     <ul>
+    </div>
+     <ul class="pager">
           
-    {% if paginator.previous %}
-       <li> <a class="previous" href="{{ paginator.previous }}">
-        <span aria-hidden="true">‹</span> Page précédente</a></li>
-    {% endif %}
-
     {% for pager_number in range(start=1,end=paginator.number_pagers+1) %}
         <li><a href="{{ paginator.base_url }}{{ pager_number }}"
         {% if pager_number == paginator.current_index %}aria-current="page"{% endif %}>
             {{ pager_number }}
         </a></li>
     {% endfor %}
+     </ul> 
 
-    {% if paginator.next %}
-        <li><a class="next" href="{{ paginator.next }}">Page suivante <span aria-hidden="true">›</span></a></li>
+     {% if paginator.previous %}
+       <div class="previous"> <a href="{{ paginator.previous }}">
+        <span aria-hidden="true">‹</span> Page précédente</a></div>
     {% endif %}
 
-     </ul> 
+        {% if paginator.next %}
+        <div class="next"><a href="{{ paginator.next }}">Page suivante <span aria-hidden="true">›</span></a></div>
+    {% endif %}
 </nav>
-
-
-// The base URL for the pagination: section permalink + pagination path
-// You can concatenate an integer with that to get a link to a given pagination pager.
-base_url: String;
-// How many pagers in total
-number_pagers: Number;
-// Permalink to the first pager
-first: String;
-// Permalink to the last pager
-last: String;
-
-// All pages for the current pager
-pages: Array<Page>;
-// Which pager are we on, 1-indexed
-current_index: Number;
-// Total number of pages across all the pagers
-total_pages: Number;
 
 {% endblock content %}
